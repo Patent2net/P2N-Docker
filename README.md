@@ -10,10 +10,11 @@
 
 What's new ?
 -----
-* [Patent2Netgit] (https://github.com/Patent2net/P2N-v3) comes now in *beta version 4* for a short time.
-* Patent2Net now works in Docker. To install it simply download this repository and follow first the Readme.txt (that must be fixed, help needed) 
+* [Patent2Net] (https://github.com/Patent2net/P2N-v3) comes now in *beta version 4* for a short time.
+* P2N now works in Docker mode. To install it simply download this repository and follow first the Readme.txt (that must be fixed, help needed here) 
 > In short,  click on the install.bat to build the docker image and install P2N on it.
-* This repo comes also with two helpers in patent analysis: 
+* DO NOT INSTALL AS IT on the cloud: care to unactivate FTP feature.
+* This repo comes also with two helpers in data analysis: 
  1. [ElasticSearch] (https://www.elastic.co/) 
  2. [Kibana] (https://www.elastic.co/fr/kibana) servers. 
  > You can access a straightforward installation using the subdirectory install file in elastickibana directory. 
@@ -32,6 +33,7 @@ Features (P2N specific)
 * user p2n (no passwd)
 * vsftpd pointing to p2n homedir for file interactions between your machine and P2N's using File Transport Protocol. [FileZilla] (https://filezilla-project.org/) is a good client. Use 127.0.0.1 address with user p2n
 * RUN_P2N scripts starts a flask server to provide a standalone web server and serves P2N functions and files. See http://localhost:5000
+* Patent2Net now integrate an user interface to enter request instead of creating cql file... And Read the doc...
 * opens a bash shell (use P2N_Bash.bat scripts)
 ### P2N essential features covered
 * Patent2Net interface you to [European Patent Organisation](https://www.epo.org/) worldwide database to gather patent documents set in answer to your requests 
