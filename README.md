@@ -31,10 +31,11 @@ Features (P2N specific)
 ### P2N special features
 * Centos image with P2N automatically installed
 * user p2n (no passwd)
-* vsftpd pointing to p2n homedir for file interactions between your machine and P2N's using File Transport Protocol. [FileZilla] (https://filezilla-project.org/) is a good client. Use 127.0.0.1 address with user p2n
+* vsftpd pointing to p2n homedir for file interactions between your machine and P2N's using File Transport Protocol. [FileZilla] (https://filezilla-project.org/) is a good client. Use 127.0.0.1 address with user p2n. Hence, DATA stuff can be acceded by FTP.
 * RUN_P2N scripts starts a flask server to provide a standalone web server and serves P2N functions and files. See http://localhost:5000
 * Patent2Net now integrate an user interface to enter request instead of creating cql file... And Read the doc...
-* opens a bash shell (use P2N_Bash.bat scripts)
+* Update is operated using the "UPDATE" button. Silly, ins't it?
+* opens a bash shell (use P2N_Bash.bat scripts) on this docker machine assuming you know what you do...
 ### P2N essential features covered
 * Patent2Net interface you to [European Patent Organisation](https://www.epo.org/) worldwide database to gather patent documents set in answer to your requests 
 * Patent2Net interface several software to build indicators and help analyse: [Datatable] (https://datatables.net/), [Pivot table] (https://pivottable.js.org/examples/)
@@ -44,13 +45,19 @@ Features (P2N specific)
 ### Undocumented features
 * some extra additional features comes also within the makefile... Help us to improve the docs and the projects
 
-About
------
+Who we are
+----------
 [Patent2Net] (http://patent2netv2.vlab4u.info/dokuwiki/doku.php?id=page) is :
 * elaborated and maintained (on a free base) by a [small international team] (http://patent2netv2.vlab4u.info/dokuwiki/doku.php?id=about_p2n:community;) of university professors and researchers.  
 * an "open source" package and contributions are welcome
-* available "[as it is] (http://patent2netv2.vlab4u.info/dokuwiki/doku.php?id=about_p2n:disclaimer)".
 
+Disclaim
+--------
+* available "[as it is] (http://patent2netv2.vlab4u.info/dokuwiki/doku.php?id=about_p2n:disclaimer)".
+* To use at your own risk, same for all features provided and companion softwares or servers. 
+
+Objectives
+----------
 Patent2Net is a free package, dedicated to :
 * promote the use of patent information in academic, nano and small firms, developing countries
 * learn, study and practice how to collect, treat and communicate "textual bibliographic information", and automation process
