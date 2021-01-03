@@ -10,7 +10,7 @@
 
 What's new ?
 -----
-* [Patent2Netgit] (https://github.com/Patent2net/P2N-v3) comed now in beta version 4 for a short time.
+* [Patent2Netgit] (https://github.com/Patent2net/P2N-v3) comes now in *beta version 4* for a short time.
 * Patent2Net now works in Docker. To install it simply download this repository and follow first the Readme.txt (that must be fixed, help needed) 
 > In short,  click on the install.bat to build the docker image and install P2N on it.
 * This repo comes also with two helpers in patent analysis: [ElasticSearch] (https://www.elastic.co/) and [Kibana] (https://www.elastic.co/fr/kibana) servers. You can access a straightforward installation using the subdirectory install file in elastickibana directory. 
