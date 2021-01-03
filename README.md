@@ -14,13 +14,13 @@ What's new ?
 * Patent2Net now works in Docker. To install it simply download this repository and follow first the Readme.txt (that must be fixed, help needed) 
 > In short,  click on the install.bat to build the docker image and install P2N on it.
 * This repo comes also with two helpers in patent analysis: 
-  1. [ElasticSearch] (https://www.elastic.co/) 
-  2. [Kibana] (https://www.elastic.co/fr/kibana) servers. 
-  > You can access a straightforward installation using the subdirectory install file in elastickibana directory. 
+ 1. [ElasticSearch] (https://www.elastic.co/) 
+ 2. [Kibana] (https://www.elastic.co/fr/kibana) servers. 
+ > You can access a straightforward installation using the subdirectory install file in elastickibana directory. 
 > *_Notes_*: 
-* ES is also upgraded with [Carrot2] (https://github.com/carrot2/carrot2) [ElasticSearch Plugin](https://github.com/carrot2/elasticsearch-carrot2)
-* Carrot2 [Document Clustering Service](https://carrot2.github.io/release/4.0.4/doc/rest-api-basics/) is also "ready to install" by uncommenting the good lines in DockerFile. But this is only is you know how to use it in order to replace the _ES-Kibana servers_.
-* Of course only the open source features are allowed but this installation is still open for every paid features offered by cited tools.
+ * ES is also upgraded with [Carrot2] (https://github.com/carrot2/carrot2) [ElasticSearch Plugin](https://github.com/carrot2/elasticsearch-carrot2)
+ * Carrot2 [Document Clustering Service](https://carrot2.github.io/release/4.0.4/doc/rest-api-basics/) is also "ready to install" by uncommenting the good lines in DockerFile. But this is only is you know how to use it in order to replace the _ES-Kibana servers_.
+ * Of course only the open source features are allowed but this installation is still open for every paid features offered by cited tools.
 
 Features (P2N specific)
 -----------------------
