@@ -152,7 +152,13 @@ RUN chmod -R 755 update.sh
 #RUN carrot2.sh 
 # EXPOSE 8005
 #RUN P2N-V3/carrot2/carrot2-4.0.4/dcs/dcs.sh --port 8005 &
-
+RUN { \
+        echo 'document.write('\ '; \
+        echo '<ul>\'; \
+        echo '</ul>\'; \
+        echo '');'; \		
+	} > /home/p2n/P2N-V3/dex.js
+RUN chmod 777 /home/p2n/P2N-V3/dex.js	
 # next line doesn't work... have to be launched by docker batchfile RUN_P2N.bat
 # CMD ["/bin/bash"]
 ENTRYPOINT python app.py
