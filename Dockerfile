@@ -135,7 +135,7 @@ RUN mkdir DATA
 RUN chown -R p2n:p2n /home/p2n/P2N-V3
 RUN chmod -R 775 /home/p2n/P2N-V3
 RUN PYTHONPATH=/home/p2n/P2N-V3/
-
+RUN python -m nltk.downloader stopwords
 
 EXPOSE 20-21
 EXPOSE 5000
@@ -146,7 +146,8 @@ EXPOSE 51000-51010
 
 RUN chmod -R 755 update.sh
 
-# uncomment the 5 next lines for carrot2 (if java installed)
+## uncomment the 7 next lines for carrot2 (if java installed)
+## obsolete with ES carrot2 plugin !!!!
 # java 
 # RUN yum -y install java-11-openjdk.x86_64
 # carrot DL and install
