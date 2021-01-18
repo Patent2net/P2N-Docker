@@ -124,7 +124,7 @@ RUN cd /home/p2n
 
 
 WORKDIR /home/p2n
-# RUN mkdir P2N-V3
+
 #
 RUN git clone https://github.com/Patent2net/P2N-V3.git
 WORKDIR /home/p2n/P2N-V3
@@ -134,12 +134,14 @@ RUN mkdir DATA
 #RUN chmod -R 755 P2N-V3/indexData
 RUN chown -R p2n:p2n /home/p2n/P2N-V3
 RUN chmod -R 775 /home/p2n/P2N-V3
+RUN PYTHONPATH=/home/p2n/P2N-V3/
+
 
 EXPOSE 20-21
 EXPOSE 5000
 EXPOSE 51000-51010
 
-#WORKDIR /usr/src/P2N-V3
+
 # RUN cd P2N-V3
 
 RUN chmod -R 755 update.sh
@@ -160,6 +162,6 @@ RUN { \
 	} > /home/p2n/P2N-V3/dex.js
 RUN chmod 777 /home/p2n/P2N-V3/dex.js	
 # next line doesn't work... have to be launched by docker batchfile RUN_P2N.bat
-# CMD ["/bin/bash"]
+#ENTRYPOINT /bin/bash
 ENTRYPOINT python app.py
 
