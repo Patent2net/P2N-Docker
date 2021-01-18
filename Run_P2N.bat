@@ -17,6 +17,6 @@ REM docker exec -d p2ne /usr/src/P2N-V3/carrot2/carrot2-4.0.4/dcs/dcs.sh --port 
 REM starting Kibana and ES
 docker run -d --mount source=volumeInd,target=/usr/share/elasticsearch/data --network=patent2net --name elasticp2n -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" elasticp2n
 
-docker run -d --network=patent2net --name kibana -p 5601:5601 docker.elastic.co/kibana/kibana:7.9.2
+docker run -d --network=patent2net --name kibana -p 5601:5601 -e ELASTICSEARCH_HOSTS="http://elasticp2n:9200" docker.elastic.co/kibana/kibana:7.9.2
 
 start "" "http://127.0.0.1:5000/"
