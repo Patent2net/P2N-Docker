@@ -3,7 +3,9 @@
 
 [<img src="https://img.shields.io/badge/Python-3.6-green.svg">](https://github.com/Patent2net/P2N-v3/tree/master)
 [<img src="https://img.shields.io/github/languages/code-size/patent2net/P2N-V3?style=plastic">](https://github.com/Patent2net/P2N-v3/tree/master)
-[<img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg"  width="150" height="100">](https://www.elastic.co/)
+[<img src="https://img.shields.io/github/stars/Patent2net/P2N-v3?label=Github%20stars">]
+[<img src="https://img.shields.io/github/issues/Patent2net/P2N-v3">]
+[<img src="https://readthedocs.org/projects/p2n-v3/badge/?version=latest">](https://p2n-v3.readthedocs.io/en/latest/?badge=latest)
 
  Makefile and installation scripts for Patent2Net (P2N) suite. This repository replaces the branch "docker-install" of P2N-V3 repo and is the main entry point to Patent2Net.
 
@@ -29,6 +31,8 @@ What's new ?
 * This repo comes also with two giants helpers in data analysis: 
  1. [ElasticSearch](https://www.elastic.co/) 
  2. [Kibana](https://www.elastic.co/fr/kibana) servers. 
+ [<img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg"  width="150" height="80">](https://www.elastic.co/)
+ 
  > You can access a straightforward installation using the subdirectory install file in elastickibana directory. This will install and configure it to open last Patent2Net features.
  
 ### Note 
