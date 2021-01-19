@@ -1,13 +1,11 @@
 # P2N-Docker
-.. image:: LogoP2N.png
-	:target: https://p2n-v3.readthedocs.io/en/latest/welcome.html
+[<img src="LogoP2N.png">](https://p2n-v3.readthedocs.io/en/latest/welcome.html)
 
-.. image:: https://img.shields.io/badge/Python-3.6-green.svg
-    :target: https://github.com/Patent2net/P2N-v3/tree/master
-.. image:: https://img.shields.io/github/languages/code-size/patent2net/P2N-V3?style=plastic :target: https://github.com/Patent2net/P2N-v3/tree/master
-.. image:: https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg :target:  https://www.elastic.co/
+[<img src="https://img.shields.io/badge/Python-3.6-green.svg>](https://github.com/Patent2net/P2N-v3/tree/master)
+[<img src="https://img.shields.io/github/languages/code-size/patent2net/P2N-V3?style=plastic>](https://github.com/Patent2net/P2N-v3/tree/master)
+[<img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg>](https://www.elastic.co/)
 
- Makefile and installation scripts for Patent2Net (P2N) suite. This repository replaces the branch "docker-install" of P2N-V3 repo.
+ Makefile and installation scripts for Patent2Net (P2N) suite. This repository replaces the branch "docker-install" of P2N-V3 repo and is the main entry point to Patent2Net.
 
      _____      _             _     ___    _   _      _           _____   ___    _   _ 
     |  __ \    | |           | |   |__ \  | \ | |    | |      /  |  __ \ |__ \  | \ | | \
