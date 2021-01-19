@@ -28,7 +28,7 @@ What's new ?
 
 > In short,  click on the install.bat to build the docker image and install P2N on it.
 
->[!WARNING] You will need at least 8Gb disk space free on you host. 
+**WARNING**: You will need at least 8Gb disk space free on you host. 
 
 * DO NOT INSTALL AS IT on the cloud: care to unactivate FTP feature or properly configure it in secure mode.
 * This repo comes also with two giants helpers in data analysis: 
@@ -36,7 +36,7 @@ What's new ?
  2. [Kibana](https://www.elastic.co/fr/kibana) servers. 
  [<img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg"  width="150" height="80">](https://www.elastic.co/)
  
- > You can access a straightforward installation using the subdirectory install file in elastickibana directory. This will install and configure it to open last Patent2Net features.
+ > You can access a straightforward installation using the subdirectory install file in elastickibana directory. This will install and configure it to use the last Patent2Net features.
  
 ### Note 
  * ES is also upgraded with [Carrot2](https://github.com/carrot2/carrot2) [ElasticSearch Plugin](https://github.com/carrot2/elasticsearch-carrot2)
