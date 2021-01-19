@@ -27,6 +27,7 @@ What's new ?
  * Update is operated using the "UPDATE" button. Silly, ins't it?
 
 > In short,  click on the install.bat to build the docker image and install P2N on it.
+
 >[!WARNING] You will need at least 8Gb disk space free on you host. 
 
 * DO NOT INSTALL AS IT on the cloud: care to unactivate FTP feature or properly configure it in secure mode.
