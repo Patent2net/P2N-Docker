@@ -1,14 +1,10 @@
 cluster.name: "p2n"
 server.name: elasticP2N
-network.host: localhost
-transport.host: 127.0.0.1
+#network.host: localhost
+#transport.host: 127.0.0.1
 discovery.type: single-node
-discovery.seed_hosts: ["127.0.0.1"]
-transport.port: 9300
-http.port: 9200
-#cluster.initial_master_nodes:
-#    - syracuse1.univ-tln.fr:9300
-# minimum_master_nodes need to be explicitly set when bound on a public IP
-# set to 1 to allow single node clusters
-# Details: https://github.com/elastic/elasticsearch/pull/17288
-# discovery.zen.minimum_master_nodes: 1
+discovery.seed_hosts: ["127.0.0.1", "localhos"]
+
+#transport.port: 9300
+#http.port: 9200
+
