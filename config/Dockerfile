@@ -68,7 +68,8 @@ RUN pip install dogpile.cache \
 		flask_cors \
 		Sphinx \
 		sphinx_rtd_theme \
-		elasticsearch 
+		elasticsearch \
+		hotreload 
 
 #Clone and install p2n from github
 
@@ -97,6 +98,10 @@ WORKDIR /home/p2n
 #
 RUN git clone https://github.com/Patent2net/P2N-V3.git
 WORKDIR /home/p2n/P2N-V3
+
+ADD requirements.txt .
+RUN python -m pip install -r requirements.txt
+
 #RUN cd P2N-V3
 RUN mkdir DATA
 #RUN mkdir P2N-V3/indexData
@@ -132,5 +137,7 @@ RUN { \
 	} > /home/p2n/P2N-V3/dex.js
 RUN chmod 777 /home/p2n/P2N-V3/dex.js	
 
-ENTRYPOINT python app.py
-
+ENV FLASK_APP=app.py
+ENV FLASK_RUN_HOST=0.0.0.0
+# ENTRYPOINT python app.py
+CMD ["flask", "run"]

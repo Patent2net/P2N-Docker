@@ -1,22 +1,6 @@
 ---
 version: '3.6'
 services:
-  # The environment variable "TAG" is used throughout this file to
-  # specify the version of the images to run. The default is set in the
-  # '.env' file in this folder. It can be overridden with any normal
-  # technique for setting environment variables, for example:
-  #
-  #   TAG=6.0.0-beta1 docker-compose up
-  #
-  # REF: https://docs.docker.com/compose/compose-file/#variable-substitution
-  #
-  # Also be sure to set the ELASTIC_VERSION variable. For released versions,
-  # ${TAG} and ${ELASTIC_VERSION} will be identical, but for pre-release
-  # versions, ${TAG} might contain an extra build identifier, like
-  # "6.0.0-beta1-3eab5b40", so a full invocation might look like:
-  #
-  #   ELASTIC_VERSION=6.0.0-beta1 TAG=6.0.0-beta1-3eab5b40 docker-compose up
-  #
   elasticP2N:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.12.0
     container_name: elasticsearch
@@ -51,11 +35,18 @@ services:
 
 
   p2n:
-    image: p2n
+    container_name: p2n
+    image: p2n-setup
     volumes:
       - ./P2N-V3:/home/p2n/P2N-V3:rw
     ports:
       - 5000:5000
+    stdin_open: true
+    tty: true
+    environment:
+      - LC_ALL=C.utf-8
+      - LANG=C.utf-8
+      - FLASK_ENV=development
 
 networks: {p2n: {}}
   

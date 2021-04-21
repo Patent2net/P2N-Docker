@@ -1,0 +1,17 @@
+{
+"configurations": [
+    {
+    "name": "Python: Remote Attach",
+    "type": "python",
+    "request": "attach",
+    "port": 10001,
+    "host": "localhost",
+    "pathMappings": [
+        {
+        "localRoot": "${workspaceFolder}",
+        "remoteRoot": "/home/p2n/P2N-V3"
+        }
+    ]
+    }
+]
+}
