@@ -135,6 +135,8 @@ RUN { \
         echo '</ul>\'; \
         echo "');"; \		
 	} > /home/p2n/P2N-V3/dex.js
+
+RUN echo "{}" > /home/p2n/P2N-V3/dex.json
 RUN chmod 777 /home/p2n/P2N-V3/dex.js
 RUN chmod 777 /home/p2n/P2N-V3/dex.json
 
