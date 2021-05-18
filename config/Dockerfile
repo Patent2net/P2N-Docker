@@ -135,7 +135,8 @@ RUN { \
         echo '</ul>\'; \
         echo "');"; \		
 	} > /home/p2n/P2N-V3/dex.js
-RUN chmod 777 /home/p2n/P2N-V3/dex.js	
+RUN chmod 777 /home/p2n/P2N-V3/dex.js
+RUN chmod 777 /home/p2n/P2N-V3/dex.json
 
 ENV FLASK_APP=app.py
 ENV FLASK_RUN_HOST=0.0.0.0
