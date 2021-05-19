@@ -2,6 +2,6 @@
 
 server.name: kibanaP2N
 server.host: "localhost"
-elasticsearch.hosts: ["https://elasticsearch:9200"]
+elasticsearch.hosts: ["http://elasticsearch:9200"]
 # elasticsearch.password is stored in `kibana.keystore`
 elasticsearch.username: kibana
