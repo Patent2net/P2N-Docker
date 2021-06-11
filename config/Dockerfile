@@ -104,6 +104,8 @@ RUN python -m pip install -r requirements.txt
 
 #RUN cd P2N-V3
 RUN mkdir DATA
+RUN mkdir RequestsAuto
+RUN mkdir RequestsSets
 #RUN mkdir P2N-V3/indexData
 #RUN chmod -R 755 P2N-V3/indexData
 RUN chown -R p2n:p2n /home/p2n/P2N-V3
@@ -119,6 +121,7 @@ EXPOSE 51000-51010
 # RUN cd P2N-V3
 
 RUN chmod -R 755 update.sh
+RUN /home/p2n/P2N-V3/update.sh
 
 ## uncomment the 7 next lines for carrot2 (if java installed)
 ## obsolete with ES carrot2 plugin !!!!
