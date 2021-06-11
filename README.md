@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/github/issues/Patent2net/P2N-v3">]
 [<img src="https://readthedocs.org/projects/p2n-v3/badge/?version=latest">](https://p2n-v3.readthedocs.io/en/latest/?badge=latest)
 
- Makefile and installation scripts for Patent2Net (P2N) suite. This repository replaces the branch "docker-install" of P2N-V3 repo and is the main entry point to Patent2Net.
+Dockerfile and installation scripts for Patent2Net (P2N) suite. This repository replaces the branch "docker-install" of P2N-V3 repo and is now the main entry point to Patent2Net.
 
      _____      _             _     ___    _   _      _           _____   ___    _   _ 
     |  __ \    | |           | |   |__ \  | \ | |    | |      /  |  __ \ |__ \  | \ | | \
@@ -19,40 +19,35 @@
 
 What's new ?
 -------------
-* [Patent2Net](https://github.com/Patent2net/P2N-v3) comes now in *beta version 4* for a short time.
-* P2N now works in Docker mode. To install it simply download this repository and follow first the Readme.txt (that must be fixed, help needed here) 
- * Patent2Net now integrate an user interface to enter request instead of creating cql file.
+* [Patent2Net](https://github.com/Patent2net/P2N-v3) comes now in *version 4*.
+* P2N now works in Docker mode. To install it simply download this repository and follow this:
+  * launch install.bat (should be linux and MacOS friendly) in administrator provilege mode to create a symlink directly to the DATA directory of P2N
+  * The script RunP2N allows you to start the P2N suite. 
+  * The script StopP2N to revert
+  
+* Patent2Net now integrate an user interface to enter request instead of creating cql file.
  * To access it you need to launch app.py and go to 127.0.0.1:5000 with your web browser
- * DATA stuff can be acceded by FTP (Filezila on localhost for instance).
+ * DATA stuff directly.
  * Update is operated using the "UPDATE" button. Silly, ins't it?
 
 > In short,  click on the install.bat to build the docker image and install P2N on it.
 
 **WARNING**: You will need at least 8Gb disk space free on you host. 
 
-* DO NOT INSTALL AS IT on the cloud: care to unactivate FTP feature or properly configure it in secure mode.
 * This repo comes also with two giants helpers in data analysis: 
  1. [ElasticSearch](https://www.elastic.co/) 
  2. [Kibana](https://www.elastic.co/fr/kibana) servers. 
  [<img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg"  width="150" height="80">](https://www.elastic.co/)
  
- > You can access a straightforward installation using the subdirectory install file in elastickibana directory. This will install and configure it to use the last Patent2Net features.
+ > You can access a straightforward installation using the subdirectory install file in config directory. This will allow you to hack several features of kibana and elasticsearch.
  
 ### Note 
  * ES is also upgraded with [Carrot2](https://github.com/carrot2/carrot2) [ElasticSearch Plugin](https://github.com/carrot2/elasticsearch-carrot2)
  * Carrot2 [Document Clustering Service](https://carrot2.github.io/release/4.0.4/doc/rest-api-basics/) is also "ready to install" by uncommenting the good lines in DockerFile. But this is only is you know how to use it in order to replace the _ES-Kibana servers_.
  * Of course only the open source features are allowed but this installation is still open for every paid features offered by cited tools.
 
-Features (P2N specific)
------------------------
-### Installation scripts
-1. Batch Scripts (windows format easyly transposable for Mac and *Nix system) to install Patent2Net, Run P2N, stop it or Uninstall it.
-2. Batch Scripts (windows format) to install ElasticSeach (ports 9200 and 9300) and Kibana servers (port 5601) and make them compatible with P2N.
-
 ### P2N docker special features
 * Centos image with P2N automatically installed
-* user p2n (no passwd)
-* vsftpd pointing to p2n homedir for file interactions between your machine and P2N's using File Transport Protocol. [FileZilla] (https://filezilla-project.org/) is a good client. Use 127.0.0.1 address with user p2n. Hence, DATA stuff can be acceded by FTP.
 * RUN_P2N scripts starts a flask server to provide a standalone web server and serves P2N functions and files. See http://localhost:5000
 * Patent2Net now integrate an user interface to enter request instead of creating cql file... And Read the doc...
 * Update is operated using the "UPDATE" button. Silly, ins't it?
