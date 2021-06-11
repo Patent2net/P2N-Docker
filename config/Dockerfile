@@ -118,10 +118,6 @@ EXPOSE 5000
 EXPOSE 51000-51010
 
 
-# RUN cd P2N-V3
-
-RUN chmod -R 755 update.sh
-RUN /home/p2n/P2N-V3/update.sh
 
 ## uncomment the 7 next lines for carrot2 (if java installed)
 ## obsolete with ES carrot2 plugin !!!!
@@ -139,9 +135,15 @@ RUN { \
         echo "');"; \		
 	} > /home/p2n/P2N-V3/dex.js
 
+
 RUN echo "{}" > /home/p2n/P2N-V3/dex.json
 RUN chmod 777 /home/p2n/P2N-V3/dex.js
 RUN chmod 777 /home/p2n/P2N-V3/dex.json
+
+# RUN cd P2N-V3
+
+RUN chmod -R 755 update.sh
+RUN /home/p2n/P2N-V3/update.sh
 
 ENV FLASK_APP=app.py
 ENV FLASK_RUN_HOST=0.0.0.0
