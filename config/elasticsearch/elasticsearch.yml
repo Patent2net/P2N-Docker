@@ -8,3 +8,6 @@ discovery.seed_hosts: ["127.0.0.1", "localhost"]
 #transport.port: 9300
 #http.port: 9200
 
+# Allow localhost cross-origin requests.
+http.cors.enabled: true
+http.cors.allow-origin: /(null)|(https?:\/\/localhost(:[0-9]+)?)|(https?:\/\/cdn\.rawgit\.com(:[0-9]+)?)/

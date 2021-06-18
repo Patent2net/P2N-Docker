@@ -1,7 +1,7 @@
 # Default Kibana configuration from kibana-docker.
 
 server.name: kibanaP2N
-server.host: "localhost"
+server.host: "0.0.0.0"
 elasticsearch.hosts: ["http://elasticsearch:9200"]
 # elasticsearch.password is stored in `kibana.keystore`
 elasticsearch.username: kibana
