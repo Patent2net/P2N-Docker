@@ -48,7 +48,8 @@ services:
       - LC_ALL=C.utf-8
       - LANG=C.utf-8
       - FLASK_ENV=development
-
+    networks: ['p2n']
+    
 networks: {p2n: {}}
   
 secrets:
