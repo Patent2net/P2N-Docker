@@ -3,8 +3,10 @@ docker run -t -d --name p2n-setup -p 5000-5010:5000-5010  p2n-setup || docker st
 REM Saving stuff in P2N - DATA is protected in docker volume
 move P2N-V3\dex.json .
 move P2N-V3\dex.js .
-move P2N-V3\RequestsSets .
-move P2N-V3\RequestsAuto .
+mkdir RequestsSetsSav
+mkdir RequestsAutoSav
+xcopy P2N-V3\RequestsSets\* RequestsSetsSav
+xcopy P2N-V3\RequestsAuto\* RequestsAutoSav
 del /Q /F P2N-V3
 docker cp p2n-setup:/home/p2n/P2N-V3 .
 wsl -d docker-desktop  sysctl -w vm.max_map_count=262144
@@ -16,8 +18,8 @@ REM restore stuff
 REM this will really work if dex.* exists in P2N-V3 ?????
 move dex.json P2N-V3
 move dex.js P2N-V3
-xcopy RequestsSets\* P2N-V3\RequestsSets
-xcopy RequestsAuto\* P2N-V3\RequestsAuto
+xcopy RequestsSetsSav\* P2N-V3\RequestsSets
+xcopy RequestsAutoSav\* P2N-V3\RequestsAuto
 REM clean all
-del /Q /F RequestsSets
-del /Q /F RequestsAuto
+del /Q /F RequestsSetsSav
+del /Q /F RequestsAutoSav
