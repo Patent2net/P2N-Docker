@@ -1,1 +1,1 @@
-docker compose -f p2n.yml down
+docker compose down
