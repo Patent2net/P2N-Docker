@@ -69,7 +69,8 @@ RUN pip install dogpile.cache \
 		Sphinx \
 		sphinx_rtd_theme \
 		elasticsearch \
-		hotreload 
+		hotreload \
+		jsonschema
 
 #Clone and install p2n from github
 
