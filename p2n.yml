@@ -30,9 +30,7 @@ services:
       # interval: 30s
       # timeout: 10s
       # retries: 5
-    environnment:
-      KIBANA_USERNAME: kibana_system
-      KIBANA_PASSWORD: MonMdp           # change it
+        # change it
       #ELASTICSEARCH_PASSWORD: MonMdp    # change it
 
   p2n:
