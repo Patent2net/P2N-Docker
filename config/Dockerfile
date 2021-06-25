@@ -85,6 +85,7 @@ RUN passwd -f -d p2n
 
 EXPOSE 20-21
 EXPOSE 5000
+EXPOSE 8080
 
 # next line doesn't work... have to be launched by docker batchfile RUN_P2N.bat
 #ENTRYPOINT /bin/bash
@@ -103,7 +104,7 @@ ADD requirements.txt .
 RUN python -m pip install -r requirements.txt
 
 #RUN cd P2N-V3
-RUN mkdir DATA
+RUN mkdir /home/p2n/DATA
 RUN mkdir RequestsAuto
 RUN mkdir RequestsSets
 #RUN mkdir P2N-V3/indexData
@@ -113,21 +114,19 @@ RUN chmod -R 775 /home/p2n/P2N-V3
 RUN PYTHONPATH=/home/p2n/P2N-V3/
 RUN python -m nltk.downloader stopwords
 
-EXPOSE 20-21
-EXPOSE 5000
-EXPOSE 51000-51010
+# EXPOSE 20-21
 
-
-
-## uncomment the 7 next lines for carrot2 (if java installed)
+## uncomment the 7 next lines for carrot2 (java will be installed)
 ## obsolete with ES carrot2 plugin !!!!
 # java 
-# RUN yum -y install java-11-openjdk.x86_64
+RUN yum -y install java-11-openjdk.x86_64
 # carrot DL and install
-#RUN chmod 755 carrot2.sh
-#RUN carrot2.sh 
+
+RUN cd /home/p2n/P2N-V3/
+RUN chmod 755 carrot2.sh
+RUN ./carrot2.sh 
 # EXPOSE 8005
-#RUN P2N-V3/carrot2/carrot2-4.0.4/dcs/dcs.sh --port 8005 &
+# RUN ./carrot2/carrot2-4.2.1/dcs/dcs.sh --port 8005 &
 RUN { \
         echo "document.write('\ "; \
         echo '<ul>\'; \
