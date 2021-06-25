@@ -11,11 +11,26 @@ services:
       - discovery.seed_hosts=["127.0.0.1", "localhost"]
       - http.cors.enabled=true
       - http.cors.allow-origin=/(null)|(https?:\/\/localhost(:[0-9]+)?)|(https?:\/\/cdn\.rawgit\.com(:[0-9]+)?)/
+      - "ES_JAVA_OPTS=-Xms512m -Xmx1g"
+    # ulimits:
+      # memlock:
+        # soft: -1
+        # hard: -1
+      # nofile:
+        # soft: 16384
+        # hard: 65536
     ports: ['9200:9200']
     networks: ['p2n']
     volumes:
       - './es_data:/usr/share/elasticsearch/data'
-
+    deploy:
+        resources:
+            limits:
+              cpus: "0.50"
+              memory: 1g
+            reservations:
+              cpus: "0.25"
+              memory: 512M
   kibanaP2N:
     image: docker.elastic.co/kibana/kibana:7.12.0
     container_name: kibana
@@ -25,6 +40,14 @@ services:
     ports: ['5601:5601']
     networks: ['p2n']
     depends_on: ['elasticP2N']
+    deploy:
+        resources:
+            limits:
+              cpus: "0.50"
+              memory: 512M
+            reservations:
+              cpus: "0.25"
+              memory: 128M
     # healthcheck:
       # test: curl http://kibanaP2N:5601 >/dev/null; if [[ $$? == 52 ]]; then echo 0; else echo 1; fi
       # interval: 30s
@@ -58,11 +81,18 @@ services:
     environment:
       - LC_ALL=C.utf-8
       - LANG=C.utf-8
-      - "ES_JAVA_OPTS=-Xms512M -Xmx1g"
+      - "ES_JAVA_OPTS=-Xms256M -Xmx1g"
     networks: ['p2n']
 # use -p port below to change the local port for dcs. Adapt also ports opening for docker a few lines up!
     command: /home/p2n/carrot2/carrot2-4.2.1/dcs/dcs
-    
+    deploy:
+        resources:
+            limits:
+              cpus: "0.85"
+              memory: 2g
+            reservations:
+              cpus: "0.25"
+              memory: 256M
 networks: {p2n: {}}
   
 secrets:
