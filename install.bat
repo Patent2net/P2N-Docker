@@ -12,7 +12,7 @@ docker cp p2n-setup:/home/p2n/P2N-V3 .
 wsl -d docker-desktop  sysctl -w vm.max_map_count=262144
 docker container stop p2n-setup
 docker container rm p2n-setup
-mklink DATA-P2N P2N-V3\DATA\
+mklink /D DATA-P2N P2N-V3\DATA\
 copy P2N-V3\Patent2Net\templates\carrot2Data.html P2N-V3\DATA
 REM restore stuff
 REM this will really work if dex.* exists in P2N-V3 ?????
