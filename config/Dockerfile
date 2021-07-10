@@ -70,7 +70,8 @@ RUN pip install dogpile.cache \
 		sphinx_rtd_theme \
 		elasticsearch \
 		hotreload \
-		jsonschema
+		jsonschema \
+		detectlanguage
 
 #Clone and install p2n from github
 
