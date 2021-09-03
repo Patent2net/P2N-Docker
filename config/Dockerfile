@@ -141,7 +141,8 @@ RUN echo "{}" > /home/p2n/P2N-V3/dex.json
 RUN chmod 777 /home/p2n/P2N-V3/dex.js
 RUN chmod 777 /home/p2n/P2N-V3/dex.json
 
-# RUN cd P2N-V3
+# Hack Carrot2 size limit in clustering ES data
+COPY /home/p2n/P2N-V3/Patent2Net/Carrot2/main.4974e0c5.chunk.js /home/p2n/carrot2/carrot2-4.2.1/dcs/web/frontend/static/js
 
 RUN chmod -R 755 update.sh
 RUN /home/p2n/P2N-V3/update.sh
