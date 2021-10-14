@@ -142,10 +142,13 @@ RUN chmod 777 /home/p2n/P2N-V3/dex.js
 RUN chmod 777 /home/p2n/P2N-V3/dex.json
 
 # Hack Carrot2 size limit in clustering ES data
-COPY /home/p2n/P2N-V3/Patent2Net/Carrot2/main.4974e0c5.chunk.js /home/p2n/carrot2/carrot2-4.2.1/dcs/web/frontend/static/js
+COPY carrot2/main.4974e0c5.chunk.js /home/p2n/carrot2/carrot2-4.2.1/dcs/web/frontend/static/js
 
 RUN chmod -R 755 update.sh
 RUN /home/p2n/P2N-V3/update.sh
+ENV LC_ALL=C.UTF-8
+ENV LANG=C.UTF-8
+RUN export LC_ALL=C.UTF-8  && export LANG=C.UTF-8 
 
 ENV FLASK_APP=app.py
 ENV FLASK_RUN_HOST=0.0.0.0

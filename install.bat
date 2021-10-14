@@ -1,3 +1,4 @@
+SET DOCKER_BUILDKIT=0
 docker build --no-cache --tag p2n-setup config/ 
 docker run -t -d --name p2n-setup -p 5000-5010:5000-5010  p2n-setup || docker start p2n-setup
 REM Saving stuff in P2N - DATA is protected in docker volume
