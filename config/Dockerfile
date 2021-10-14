@@ -1,3 +1,5 @@
+# syntax=docker/dockerfile:1.3
+# previous command for builder buildkit compatibility, I guess. https://docs.docker.com/engine/reference/builder/
 #For the manual installation on which that dockerfile is based go to :https://docs.ip-tools.org/patent2net/index.html
 # Run the ubuntu image of docker
 FROM centos:8 
@@ -142,7 +144,7 @@ RUN chmod 777 /home/p2n/P2N-V3/dex.js
 RUN chmod 777 /home/p2n/P2N-V3/dex.json
 
 # Hack Carrot2 size limit in clustering ES data
-COPY carrot2/main.4974e0c5.chunk.js /home/p2n/carrot2/carrot2-4.2.1/dcs/web/frontend/static/js
+# COPY carrot2/main.4974e0c5.chunk.js /home/p2n/carrot2/carrot2-4.2.1/dcs/web/frontend/static/js
 
 RUN chmod -R 755 update.sh
 RUN /home/p2n/P2N-V3/update.sh
