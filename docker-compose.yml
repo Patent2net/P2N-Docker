@@ -23,6 +23,7 @@ services:
     networks: ['p2n']
     volumes:
       - './es_data:/usr/share/elasticsearch/data'
+      - './P2N-V3:/home/p2n/P2N-V3'
     deploy:
         resources:
             limits:
@@ -60,7 +61,13 @@ services:
     container_name: p2n
     image: p2n-setup
     volumes:
-      - ./P2N-V3:/home/p2n/P2N-V3:rw
+        - type: bind
+          source: ./P2N-V3/DATA
+          target: /home/p2n/P2N-V3/DATA
+        - type: bind
+          source: ./P2N-V3/RequestsSets
+          target: /home/p2n/P2N-V3/RequestsSets
+
     ports:
       - 5000:5000
     stdin_open: true
@@ -81,7 +88,7 @@ services:
     environment:
       - LC_ALL=C.utf-8
       - LANG=C.utf-8
-      - "ES_JAVA_OPTS=-Xms256M -Xmx1g"
+      - "ES_JAVA_OPTS=-Xms1024M -Xmx4g"
     networks: ['p2n']
 # use -p port below to change the local port for dcs. Adapt also ports opening for docker a few lines up!
     command: /home/p2n/carrot2/carrot2-4.2.1/dcs/dcs
@@ -89,7 +96,7 @@ services:
         resources:
             limits:
               cpus: "0.85"
-              memory: 2g
+              memory: 6g
             reservations:
               cpus: "0.25"
               memory: 256M
@@ -108,4 +115,4 @@ volumes:
           o: bind
           type: none
           device: ./es_data
-        
+
