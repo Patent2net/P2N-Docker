@@ -23,7 +23,7 @@ What's new ?
 * P2N now works in Docker mode. To install it simply download this repository and follow this:
   * launch install.bat (should be linux and MacOS friendly) in administrator provilege mode to create a symlink directly to the DATA directory of P2N
   * The script RunP2N allows you to start the P2N suite. 
-  * The script StopP2N to revert
+  * The script StopP2N to revert. This may lead to data loss. Use Pause Unpause batch file to turn off your computer safelly. Don't forget to restart docker at relauch.
   
 * Patent2Net now integrate an user interface to enter request instead of creating cql file.
  * To access it you need to launch app.py and go to 127.0.0.1:5000 with your web browser
