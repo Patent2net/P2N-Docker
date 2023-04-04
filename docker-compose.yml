@@ -23,7 +23,7 @@ services:
     networks: ['p2n']
     volumes:
       - './es_data:/usr/share/elasticsearch/data'
-      - './P2N-V3:/home/p2n/P2N-V3'
+
     deploy:
         resources:
             limits:
@@ -48,7 +48,7 @@ services:
               memory: 512M
             reservations:
               cpus: "0.25"
-              memory: 128M
+              memory: 512M
     # healthcheck:
       # test: curl http://kibanaP2N:5601 >/dev/null; if [[ $$? == 52 ]]; then echo 0; else echo 1; fi
       # interval: 30s
@@ -67,7 +67,15 @@ services:
         - type: bind
           source: ./P2N-V3/RequestsSets
           target: /home/p2n/P2N-V3/RequestsSets
-
+        - type: bind  # dev mode
+          source: ./P2N-V3/Patent2Net
+          target: /home/p2n/P2N-V3/Patent2Net
+        - type: bind
+          source: ./P2N-V3/dex.json
+          target: /home/p2n/P2N-V3/dex.json
+        - type: bind
+          source: ./P2N-V3/dex.js
+          target: /home/p2n/P2N-V3/dex.js
     ports:
       - 5000:5000
     stdin_open: true
