@@ -2,7 +2,7 @@
 version: '3.6'
 services:
   elasticP2N:
-    image: docker.elastic.co/elasticsearch/elasticsearch:7.12.0
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.3.0
     container_name: elasticsearch
     environment:
       - xpack.security.enabled=false
@@ -12,13 +12,7 @@ services:
       - http.cors.enabled=true
       - http.cors.allow-origin=/(null)|(https?:\/\/localhost(:[0-9]+)?)|(https?:\/\/cdn\.rawgit\.com(:[0-9]+)?)/
       - "ES_JAVA_OPTS=-Xms512m -Xmx1g"
-    # ulimits:
-      # memlock:
-        # soft: -1
-        # hard: -1
-      # nofile:
-        # soft: 16384
-        # hard: 65536
+
     ports: ['9200:9200']
     networks: ['p2n']
     volumes:
@@ -33,7 +27,7 @@ services:
               cpus: "0.25"
               memory: 512M
   kibanaP2N:
-    image: docker.elastic.co/kibana/kibana:7.12.0
+    image: docker.elastic.co/kibana/kibana:8.3.0
     container_name: kibana
     secrets:
       - source: kibana.yml
@@ -41,14 +35,7 @@ services:
     ports: ['5601:5601']
     networks: ['p2n']
     depends_on: ['elasticP2N']
-    deploy:
-        resources:
-            limits:
-              cpus: "0.50"
-              memory: 512M
-            reservations:
-              cpus: "0.25"
-              memory: 128M
+
     # healthcheck:
       # test: curl http://kibanaP2N:5601 >/dev/null; if [[ $$? == 52 ]]; then echo 0; else echo 1; fi
       # interval: 30s
@@ -57,13 +44,11 @@ services:
         # change it
       #ELASTICSEARCH_PASSWORD: MonMdp    # change it
 
-  p2n:
-    container_name: p2n
-    image:  docker.io/dreymond/patent2net:p2n
+  p2nv3:
+    container_name: p2nv3
+    image:  docker.io/dreymond/patent2net:p2nv3
     volumes:
-        - type: bind
-          source: ./P2N-V3/DATA
-          target: /home/p2n/P2N-V3/DATA
+
         - type: bind
           source: ./P2N-V3/RequestsSets
           target: /home/p2n/P2N-V3/RequestsSets
@@ -80,7 +65,7 @@ services:
     
   carrot2:
     container_name: carrot2
-    image: docker.io/dreymond/patent2net:p2n
+    image: docker.io/dreymond/patent2net:p2n-carrot
     ports:
       - 8080:8080
     stdin_open: true
@@ -91,15 +76,8 @@ services:
       - "ES_JAVA_OPTS=-Xms1024M -Xmx4g"
     networks: ['p2n']
 # use -p port below to change the local port for dcs. Adapt also ports opening for docker a few lines up!
-    command: /home/p2n/carrot2/carrot2-4.2.1/dcs/dcs
-    deploy:
-        resources:
-            limits:
-              cpus: "0.85"
-              memory: 6g
-            reservations:
-              cpus: "0.25"
-              memory: 256M
+    command: /home/p2n/carrot2/carrot2-4.2.1/dcs/dcs.sh
+
 networks: {p2n: {}}
   
 secrets:

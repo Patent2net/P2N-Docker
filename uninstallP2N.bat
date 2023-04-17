@@ -1,3 +1,3 @@
 #@ECHO OFF
-docker container prune -f
-docker image prune -a -f
+docker container prune -f p2nv3
+docker image prune -a -f 
