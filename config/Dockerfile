@@ -114,6 +114,7 @@ WORKDIR /home/p2n
 RUN su - p2n
 USER p2n
 EXPOSE 5000
+RUN sudo usermod -aG sudo p2n
 # next line doesn't work... have to be launched by docker batchfile RUN_P2N.bat
 
 #

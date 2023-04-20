@@ -15,9 +15,6 @@ services:
 
     ports: ['9200:9200']
     networks: ['p2n']
-    volumes:
-      - './es_data:/usr/share/elasticsearch/data'
-      - './P2N-V3:/home/p2n/P2N-V3'
     deploy:
         resources:
             limits:
@@ -48,7 +45,9 @@ services:
     container_name: p2nv3
     image:  docker.io/dreymond/patent2net:p2nv3
     volumes:
-
+        - type: bind
+          source: ./DATA
+          target: /home/p2n/P2N-V3/DATA
         - type: bind
           source: ./P2N-V3/RequestsSets
           target: /home/p2n/P2N-V3/RequestsSets
@@ -85,12 +84,4 @@ secrets:
     file: ./config/elasticsearch/elasticsearch.yml
   kibana.yml:
     file: ./config/kibana/kibana.yml
-
-volumes:
-    es_data:
-        driver: local
-        driver_opts:
-          o: bind
-          type: none
-          device: ./es_data
 
