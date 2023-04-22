@@ -49,7 +49,7 @@ services:
           source: ./DATA
           target: /home/p2n/P2N-V3/DATA
         - type: bind
-          source: ./P2N-V3/RequestsSets
+          source: ./config/sav/RequestsSets
           target: /home/p2n/P2N-V3/RequestsSets
 
     ports:
