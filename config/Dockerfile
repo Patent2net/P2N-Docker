@@ -43,9 +43,10 @@ RUN useradd --uid 1000 p2n
 RUN yum install -y passwd && yum clean all
 RUN yum install -y git && yum clean all
 RUN passwd -f -d p2n
-RUN mkdir /vpy3
 
-RUN chown -R p2n:p2n /vpy3
+RUN bash mkdir /vpy3
+RUN bash chown -R p2n:p2n /vpy3
+
 RUN wget https://www.python.org/ftp/python/3.9.16/Python-3.9.16.tgz \
     && tar xzf Python-3.9.16.tgz \
     && cd Python-3.9.16 \
@@ -53,15 +54,22 @@ RUN wget https://www.python.org/ftp/python/3.9.16/Python-3.9.16.tgz \
     && make altinstall \
     && cd .. \
     && rm -r Python-3.9.16 Python-3.9.16.tgz
-RUN bash -c "python3.9 -m pip install virtualenv \
-    && python3.9 -m virtualenv --system-site-packages /vpy3 \
+
+RUN bash -c "python3.9 -m pip install virtualenv"
+
+RUN bash -c "python3.9 -m virtualenv --system-site-packages /vpy3 \
     && /vpy3/bin/pip install --no-cache-dir --upgrade pip \
     && /vpy3/bin/pip install --no-cache-dir cffi olefile pytest pytest-cov pytest-timeout \
     && /vpy3/bin/pip install --no-cache-dir numpy --only-binary=:all: || true \
-    "
-	
+    && chown -R p2n:p2n /vpy3"
+
+
 RUN echo "source /vpy3/bin/activate" >> /etc/bash.bashrc
+RUN su - p2n
 USER p2n
+RUN cd /home/p2n
+
+WORKDIR /home/p2n
 RUN source /vpy3/bin/activate && bash -c "python -m pip install --upgrade pip"
 RUN source /vpy3/bin/activate && bash -c "python -m pip install --no-cache-dir \
 				attrs \
@@ -105,17 +113,13 @@ RUN source /vpy3/bin/activate && bash -c "python -m pip install --no-cache-dir \
 RUN  source /vpy3/bin/activate && bash -c "python -m nltk.downloader stopwords"
 #RUN echo "Oh dang look at that $PATH"
 
-RUN cd /home/p2n
 
-WORKDIR /home/p2n
 
 
 #Clone and install p2n from github
 
-RUN su - p2n
-USER p2n
+
 EXPOSE 5000
-RUN sudo usermod -aG sudo p2n
 # next line doesn't work... have to be launched by docker batchfile RUN_P2N.bat
 
 #
@@ -161,6 +165,10 @@ RUN chown -R p2n:p2n /home/p2n/P2N-V3/dex*
 USER p2n
 ENV FLASK_APP=app.py
 ENV FLASK_RUN_HOST=0.0.0.0
+ENV FLASK_DEBUG=True
+
 # ENTRYPOINT python app.py
 CMD ["bash", "start.sh"]
 #ENTRYPOINT /bin/bash -c "source /vpy3/bin/activate; python app.py"
+
+# create the image using: 

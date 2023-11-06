@@ -1,0 +1,3439 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2022-05-03">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="dynamic" name="" timeformat="date">
+    <attributes class="edge" mode="static">
+      <attribute id="5" title="name" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="category" type="string" />
+      <attribute id="1" title="degree_in" type="long" />
+      <attribute id="2" title="degree_out" type="long" />
+      <attribute id="3" title="degree" type="long" />
+      <attribute id="4" title="url" type="string" />
+    </attributes>
+    <nodes>
+      <node end="2042-05-03" id="0" label="US10869754" start="2020-12-22">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="10.0" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="0.0" z="-121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="24" />
+          <attvalue for="3" value="24" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US10869754&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="1" label="US6203549" start="2018-12-27">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.8333333333333334" />
+        <viz:shape value="ellipse" />
+        <viz:position x="273.76354733414803" y="822.8735018365874" z="-545.0358256989123" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="2" label="US2018168800" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="274.2911672788625" z="-302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="3" label="US2010130985" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="547.5270946682961" y="-548.582334557725" z="-484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="4" label="US2015342730" start="2017-10-26">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="2.0833333333333335" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="-91.43038909295416" z="-363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="5" label="US2016015562" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="638.7816104463454" y="-548.582334557725" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="6" label="US2014066946" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-730.0361262243948" y="-365.72155637181663" z="-484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="7" label="US2007060925" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-638.7816104463454" y="548.582334557725" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="8" label="US2007150055" start="2017-10-26">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="2.0833333333333335" />
+        <viz:shape value="ellipse" />
+        <viz:position x="0.0" y="-822.8735018365874" z="-242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="9" label="US2006155299" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="-274.2911672788625" z="-242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="10" label="US2016074155" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="-91.43038909295416" z="423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="11" label="US2004243141" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-547.5270946682961" y="-640.0127236506792" z="60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="12" label="US2016331587" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-273.76354733414803" y="-731.4431127436333" z="-484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="13" label="US2014171956" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-456.2725788902468" y="731.4431127436333" z="-545.0358256989123" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="14" label="US2014135784" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="730.0361262243948" y="-457.1519454647708" z="302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="15" label="US2005125000" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-273.76354733414803" y="822.8735018365874" z="-545.0358256989123" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="16" label="US2003036765" start="2017-10-26">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="2.5" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="91.43038909295416" z="60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="17" label="US2011190777" start="2017-10-26">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="2.9166666666666665" />
+        <viz:shape value="ellipse" />
+        <viz:position x="730.0361262243948" y="365.72155637181663" z="242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="18" label="US2001020171" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="730.0361262243948" y="365.72155637181663" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="19" label="US2007150054" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="0.0" y="822.8735018365874" z="-545.0358256989123" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="20" label="US5772666" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="638.7816104463454" y="-548.582334557725" z="302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="21" label="US2016175090" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="91.43038909295416" z="-363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="22" label="US2016250069" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="0.0" z="121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="23" label="US2014303636" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="365.0180631121974" y="-731.4431127436333" z="363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="24" label="US2015272779" start="2020-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-730.0361262243948" y="365.72155637181663" z="-484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="25" label="FR3054683" start="2018-08-31">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.5" />
+        <viz:shape value="diamond" />
+        <viz:position x="-182.5090315560987" y="-91.43038909295416" z="121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR3054683&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="26" label="US2015323812" start="2018-02-01">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.6666666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="365.0180631121974" y="731.4431127436333" z="545.0358256989123" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="27" label="WO2008067109" start="2018-02-01">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-730.0361262243948" y="-274.2911672788625" z="-423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="28" label="US2008221674" start="2018-02-01">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.6666666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-365.0180631121974" y="-731.4431127436333" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="29" label="EP1580591" start="2018-02-01">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.6666666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="182.5090315560987" y="-822.8735018365874" z="363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="30" label="US6612697" start="2018-02-01">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.6666666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-547.5270946682961" y="-640.0127236506792" z="60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="31" label="WO2013066493" start="2018-02-01">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-730.0361262243948" y="365.72155637181663" z="484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="32" label="WO2018019833" start="2018-02-01">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.5" />
+        <viz:shape value="diamond" />
+        <viz:position x="-182.5090315560987" y="-91.43038909295416" z="121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2018019833&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2011-08-20" id="33" label="US5041135" start="1991-08-20">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="4.583333333333333" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="-182.86077818590832" z="-121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US5041135&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2012-02-26" id="34" label="US4412359" start="1989-02-10">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="638.7816104463454" y="457.1519454647708" z="-423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2011-08-20" id="35" label="US4878911" start="1991-08-20">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-547.5270946682961" y="640.0127236506792" z="-545.0358256989123" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2012-02-26" id="36" label="NL8500527" start="1989-02-10">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="0.0" y="-822.8735018365874" z="-363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2011-08-20" id="37" label="US4664666" start="1991-08-20">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="182.86077818590832" z="121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2011-08-20" id="38" label="US4755182" start="1991-08-20">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-273.76354733414803" y="-822.8735018365874" z="121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2012-02-26" id="39" label="DE3140465" start="1989-02-10">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="-91.43038909295416" z="-302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2012-02-26" id="40" label="GB2114315" start="1989-02-10">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="456.2725788902468" y="-731.4431127436333" z="-181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2011-08-20" id="41" label="GB2124500" start="1991-08-20">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-638.7816104463454" y="457.1519454647708" z="363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2011-08-20" id="42" label="US4701181" start="1991-08-20">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="547.5270946682961" y="-548.582334557725" z="-302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2012-02-26" id="43" label="US4280232" start="1989-02-10">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-91.25451577804935" y="-822.8735018365874" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2012-02-26" id="44" label="US4477931" start="1989-02-10">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="182.5090315560987" y="-822.8735018365874" z="-242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="45" label="WO2007108663" start="2007-09-27">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="1.25" />
+        <viz:shape value="diamond" />
+        <viz:position x="-638.7816104463454" y="-182.86077818590832" z="242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007108663&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="46" label="US6724543" start="2007-09-27">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-456.2725788902468" y="-731.4431127436333" z="-60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="47" label="JP2002344027" start="2007-09-27">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="274.2911672788625" z="363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="48" label="US6598998" start="2007-09-27">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-638.7816104463454" y="-548.582334557725" z="545.0358256989123" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="49" label="FR3013103" start="2015-05-15">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.5" />
+        <viz:shape value="diamond" />
+        <viz:position x="91.25451577804935" y="0.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR3013103&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="50" label="EP2377722" start="2015-05-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="0.0" y="-822.8735018365874" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="51" label="FR2896029" start="2015-05-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-638.7816104463454" y="-548.582334557725" z="363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="52" label="US2004012976" start="2015-05-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="0.0" z="-242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="53" label="DE102011053032" start="2015-05-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="273.76354733414803" y="-731.4431127436333" z="484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="54" label="DE102011002281" start="2015-05-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="273.76354733414803" y="731.4431127436333" z="-121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="55" label="US7160010" start="2015-05-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="91.25451577804935" y="822.8735018365874" z="-242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="56" label="US11054671" start="2021-07-06">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="4.166666666666667" />
+        <viz:shape value="diamond" />
+        <viz:position x="-182.5090315560987" y="0.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US11054671&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="57" label="US2013271725" start="2021-07-06">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="0.0" z="-181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="58" label="US2014022637" start="2021-07-06">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-365.0180631121974" y="731.4431127436333" z="-181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="59" label="US5646781" start="2021-07-06">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="-182.86077818590832" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="60" label="US5218386" start="2021-07-06">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-730.0361262243948" y="274.2911672788625" z="-181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="61" label="CN109219420" start="2019-01-15">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="4.583333333333333" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="91.43038909295416" z="-60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CN109219420&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="62" label="CN202086618U" start="2019-01-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="0.0" z="-484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="63" label="CN102843992" start="2019-01-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="-91.43038909295416" z="-181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="64" label="CN1602173" start="2019-01-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="638.7816104463454" y="457.1519454647708" z="363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="65" label="CN103037806" start="2019-01-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="730.0361262243948" y="274.2911672788625" z="484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="66" label="CN103930067" start="2019-01-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="456.2725788902468" y="640.0127236506792" z="-302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="67" label="CN1185100" start="2019-01-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="547.5270946682961" y="548.582334557725" z="-242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="68" label="FR3011175" start="2019-01-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-365.0180631121974" y="731.4431127436333" z="60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="69" label="WO2007091761" start="2007-08-16">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="1.25" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="-548.582334557725" z="181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007091761&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="70" label="US6369954" start="2007-08-16">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-638.7816104463454" y="-548.582334557725" z="363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="71" label="JP2001249261" start="2007-08-16">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-273.76354733414803" y="-731.4431127436333" z="60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="72" label="KR20040084902" start="2007-08-16">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="730.0361262243948" y="-457.1519454647708" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-02-10" id="73" label="FR2619004" start="1989-02-10">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.5" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="-274.2911672788625" z="-242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2619004&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="74" label="BE1024131" start="2017-11-20">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="1.6666666666666667" />
+        <viz:shape value="diamond" />
+        <viz:position x="91.25451577804935" y="0.0" z="-60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BE1024131&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2009-01-19" id="75" label="DE3822376" start="1989-01-19">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.5" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="274.2911672788625" z="60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=DE3822376&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2009-01-19" id="76" label="JPS5485742" start="1989-01-19">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="638.7816104463454" y="548.582334557725" z="484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-01-19" id="77" label="DE2044639" start="1989-01-19">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="0.0" z="302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-01-19" id="78" label="DE2336708" start="1989-01-19">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-547.5270946682961" y="548.582334557725" z="-181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-01-19" id="79" label="JPS5485743" start="1989-01-19">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="0.0" z="60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-01-19" id="80" label="DE3432969" start="1989-01-19">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="0.0" y="822.8735018365874" z="-302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-01-19" id="81" label="DE2814916" start="1989-01-19">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-638.7816104463454" y="457.1519454647708" z="545.0358256989123" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2012-02-26" id="82" label="EP0305255" start="1992-02-26">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.5" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="-274.2911672788625" z="-242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP0305255&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="83" label="US2011046727" start="2011-02-24">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.0833333333333335" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="0.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2011046727&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="84" label="US5628794" start="2009-04-09">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-91.25451577804935" y="822.8735018365874" z="-363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="85" label="US2004243231" start="2009-04-09">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.8333333333333334" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="0.0" z="423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="86" label="US2001018612" start="2011-02-24">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="0.0" y="822.8735018365874" z="-423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="87" label="US4799931" start="2009-04-09">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="730.0361262243948" y="-365.72155637181663" z="242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="88" label="US4715858" start="2009-04-09">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.8333333333333334" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-91.25451577804935" y="-822.8735018365874" z="242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="89" label="AU2017251980" start="2018-11-15">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="diamond" />
+        <viz:position x="638.7816104463454" y="365.72155637181663" z="242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=AU2017251980&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="90" label="WO2007091771" start="2007-08-16">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="1.25" />
+        <viz:shape value="diamond" />
+        <viz:position x="365.0180631121974" y="-365.72155637181663" z="60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007091771&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="91" label="US6911132" start="2007-08-16">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="-182.86077818590832" z="-181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="92" label="US2005007644" start="2007-08-16">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.8333333333333334" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="0.0" z="484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="93" label="KR20050047165" start="2007-08-16">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.8333333333333334" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-182.5090315560987" y="-822.8735018365874" z="121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node end="1995-04-15" id="94" label="US3750272" start="1973-08-07">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="3.3333333333333335" />
+        <viz:shape value="diamond" />
+        <viz:position x="182.5090315560987" y="0.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US3750272&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="1993-08-07" id="95" label="US3078560" start="1973-08-07">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="0.0" y="-822.8735018365874" z="302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="1995-04-15" id="96" label="US3528326" start="1973-08-07">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.8333333333333334" />
+        <viz:shape value="ellipse" />
+        <viz:position x="547.5270946682961" y="-640.0127236506792" z="-363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node end="1993-08-07" id="97" label="US3301105" start="1973-08-07">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="274.2911672788625" z="484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2000-12-11" id="98" label="US3160039" start="1973-08-07">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.8333333333333334" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="-274.2911672788625" z="-121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node end="1993-08-07" id="99" label="US3030859" start="1973-08-07">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="456.2725788902468" y="731.4431127436333" z="242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="1993-08-07" id="100" label="US3145506" start="1973-08-07">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="730.0361262243948" y="-365.72155637181663" z="121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="1993-08-07" id="101" label="US3423886" start="1973-08-07">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="365.0180631121974" y="731.4431127436333" z="-121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="102" label="WO2011015115" start="2011-02-10">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.0833333333333335" />
+        <viz:shape value="diamond" />
+        <viz:position x="-91.25451577804935" y="182.86077818590832" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2011015115&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="103" label="CN201177192Y" start="2011-02-10">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-730.0361262243948" y="365.72155637181663" z="181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="104" label="CN2913822Y" start="2011-02-10">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="547.5270946682961" y="457.1519454647708" z="-60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="105" label="CN101344227" start="2011-02-10">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-547.5270946682961" y="640.0127236506792" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="106" label="US2008037271" start="2011-02-10">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="547.5270946682961" y="548.582334557725" z="-363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="107" label="CN1811266" start="2011-02-10">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-456.2725788902468" y="-731.4431127436333" z="181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="108" label="KR100765863" start="2007-10-10">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="0.8333333333333334" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="0.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR100765863&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="109" label="KR20050033308" start="2007-10-10">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="456.2725788902468" y="640.0127236506792" z="-302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="110" label="KR20050098772" start="2007-10-10">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-547.5270946682961" y="-640.0127236506792" z="423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="111" label="KR100804735" start="2008-02-19">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="1.25" />
+        <viz:shape value="diamond" />
+        <viz:position x="-182.5090315560987" y="274.2911672788625" z="-60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR100804735&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="112" label="US2004084681" start="2008-02-19">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-91.25451577804935" y="822.8735018365874" z="-363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="113" label="US6670207" start="2008-02-19">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-730.0361262243948" y="-457.1519454647708" z="-545.0358256989123" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="114" label="JP2005049367" start="2008-02-19">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="182.5090315560987" y="822.8735018365874" z="484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-10-27" id="115" label="FR2617989" start="1989-10-27">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.5" />
+        <viz:shape value="diamond" />
+        <viz:position x="-182.5090315560987" y="274.2911672788625" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2617989&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2009-10-27" id="116" label="FR2495789" start="1989-10-27">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="182.5090315560987" y="822.8735018365874" z="121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-10-27" id="117" label="US3687528" start="1989-10-27">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-91.25451577804935" y="822.8735018365874" z="302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-10-27" id="118" label="GB2092772" start="1989-10-27">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-365.0180631121974" y="-822.8735018365874" z="121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-10-27" id="119" label="FR2587505" start="1989-10-27">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="0.0" y="822.8735018365874" z="-484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-10-27" id="120" label="US3910691" start="1989-10-27">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-182.5090315560987" y="822.8735018365874" z="-242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-10-27" id="121" label="EP0027339" start="1989-10-27">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-547.5270946682961" y="640.0127236506792" z="-181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="122" label="CN109791311" start="2019-05-21">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="4.166666666666667" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="-91.43038909295416" z="60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CN109791311&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="123" label="CN104678573" start="2019-05-21">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-638.7816104463454" y="548.582334557725" z="-121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="124" label="CN105759333" start="2019-05-21">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-456.2725788902468" y="640.0127236506792" z="545.0358256989123" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="125" label="CN104503105" start="2019-05-21">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="-91.43038909295416" z="423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="126" label="CN101142504" start="2019-05-21">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="730.0361262243948" y="-274.2911672788625" z="-484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="127" label="CN103998974" start="2019-05-21">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-456.2725788902468" y="-640.0127236506792" z="-302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="128" label="CN102928992" start="2019-05-21">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="91.25451577804935" y="-822.8735018365874" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-04-07" id="129" label="FR2576820" start="1989-04-07">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.5" />
+        <viz:shape value="diamond" />
+        <viz:position x="91.25451577804935" y="0.0" z="-60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2576820&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2009-04-07" id="130" label="GB1155719" start="1987-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="-365.72155637181663" z="242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2009-04-07" id="131" label="US3140568" start="1987-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="182.5090315560987" y="822.8735018365874" z="-242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2009-04-07" id="132" label="GB630402" start="1987-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="91.43038909295416" z="121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2009-04-07" id="133" label="US3330331" start="1987-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-547.5270946682961" y="-731.4431127436333" z="-484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2009-04-07" id="134" label="US2545447" start="1987-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="1.25" />
+        <viz:shape value="ellipse" />
+        <viz:position x="730.0361262243948" y="-274.2911672788625" z="-302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node end="2009-04-07" id="135" label="FR1541963" start="1988-05-18">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.8333333333333334" />
+        <viz:shape value="ellipse" />
+        <viz:position x="365.0180631121974" y="640.0127236506792" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="136" label="KR20180137507" start="2018-12-27">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.0833333333333335" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="91.43038909295416" z="-121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR20180137507&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="137" label="US7226455" start="2018-12-27">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-638.7816104463454" y="-457.1519454647708" z="-363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2008-05-18" id="138" label="EP0191689" start="1988-05-18">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.5" />
+        <viz:shape value="diamond" />
+        <viz:position x="91.25451577804935" y="0.0" z="-60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP0191689&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="139" label="WO2017182508" start="2017-10-26">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="4.166666666666667" />
+        <viz:shape value="diamond" />
+        <viz:position x="-91.25451577804935" y="-91.43038909295416" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2017182508&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="140" label="FR2808993" start="2017-10-26">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="547.5270946682961" y="640.0127236506792" z="302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="141" label="WO2006070219" start="2017-10-26">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-182.5090315560987" y="-822.8735018365874" z="-363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="142" label="US2005065534" start="2017-10-26">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="182.86077818590832" z="242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="143" label="EP1481652" start="2017-10-26">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="-182.86077818590832" z="-121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="144" label="BE1016692" start="2017-10-26">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-547.5270946682961" y="-548.582334557725" z="60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="145" label="WO2013038021" start="2017-10-26">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="-274.2911672788625" z="-423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="1995-04-15" id="146" label="US3877184" start="1975-04-15">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.5" />
+        <viz:shape value="diamond" />
+        <viz:position x="182.5090315560987" y="-91.43038909295416" z="60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US3877184&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="1995-04-15" id="147" label="US3693301" start="1975-04-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="0.0" z="-423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="1995-04-15" id="148" label="US3353303" start="1975-04-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="182.86077818590832" z="363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="1995-04-15" id="149" label="US3722143" start="1975-04-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="730.0361262243948" y="182.86077818590832" z="545.0358256989123" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="1995-04-15" id="150" label="US3514908" start="1975-04-15">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="365.0180631121974" y="-731.4431127436333" z="363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-06-13" id="151" label="US4838674" start="1989-06-13">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="0.8333333333333334" />
+        <viz:shape value="diamond" />
+        <viz:position x="91.25451577804935" y="731.4431127436333" z="181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US4838674&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2009-06-13" id="152" label="US4676610" start="1989-06-13">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="456.2725788902468" y="731.4431127436333" z="423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2009-06-13" id="153" label="US4315673" start="1989-06-13">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-182.5090315560987" y="822.8735018365874" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="154" label="FR2918557" start="2009-10-02">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.0833333333333335" />
+        <viz:shape value="diamond" />
+        <viz:position x="182.5090315560987" y="-182.86077818590832" z="-121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2918557&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="155" label="WO9907309" start="2009-04-09">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.8333333333333334" />
+        <viz:shape value="ellipse" />
+        <viz:position x="91.25451577804935" y="-822.8735018365874" z="-181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="156" label="WO02069849" start="2009-04-09">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.8333333333333334" />
+        <viz:shape value="ellipse" />
+        <viz:position x="365.0180631121974" y="-731.4431127436333" z="-484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="157" label="EP0420549" start="2009-04-09">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.8333333333333334" />
+        <viz:shape value="ellipse" />
+        <viz:position x="273.76354733414803" y="-822.8735018365874" z="-60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node end="2007-12-22" id="158" label="US4714232" start="1987-12-22">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="5.0" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="0.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US4714232&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2007-12-22" id="159" label="US4190621" start="1987-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="91.25451577804935" y="822.8735018365874" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2007-12-22" id="160" label="US3304586" start="1987-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="821.2906420024442" y="-182.86077818590832" z="181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2007-12-22" id="161" label="US3951203" start="1987-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="456.2725788902468" y="-731.4431127436333" z="121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2007-12-22" id="162" label="US4089102" start="1987-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-91.25451577804935" y="-822.8735018365874" z="-423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2007-12-22" id="163" label="US3866660" start="1987-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="91.43038909295416" z="545.0358256989123" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2007-12-22" id="164" label="US4118853" start="1987-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-730.0361262243948" y="457.1519454647708" z="181.6786085663041" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2007-12-22" id="165" label="US3512310" start="1987-12-22">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="0.0" y="822.8735018365874" z="363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="166" label="WO2009043985" start="2009-04-09">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.9166666666666665" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="-182.86077818590832" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2009043985&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="167" label="KR100811294" start="2008-03-07">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="1.25" />
+        <viz:shape value="diamond" />
+        <viz:position x="273.76354733414803" y="-457.1519454647708" z="121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR100811294&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="168" label="KR20050071505" start="2008-03-07">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="182.5090315560987" y="-822.8735018365874" z="-121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2000-12-11" id="169" label="DE2102820" start="1980-12-11">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="1.25" />
+        <viz:shape value="diamond" />
+        <viz:position x="547.5270946682961" y="0.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=DE2102820&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2000-12-11" id="170" label="AT248103B" start="1980-12-11">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="638.7816104463454" y="-457.1519454647708" z="-121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2000-12-11" id="171" label="CH437759" start="1980-12-11">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="365.0180631121974" y="731.4431127436333" z="363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="172" label="RU2735891" start="2020-11-09">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.0833333333333335" />
+        <viz:shape value="diamond" />
+        <viz:position x="-182.5090315560987" y="0.0" z="60.559536188768035" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=RU2735891&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="173" label="RU2015120918" start="2020-11-09">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-456.2725788902468" y="640.0127236506792" z="302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="174" label="US2009057167" start="2020-11-09">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-821.2906420024442" y="182.86077818590832" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="1996-01-16" id="175" label="FR2184473" start="1976-01-16">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="1.6666666666666667" />
+        <viz:shape value="diamond" />
+        <viz:position x="-182.5090315560987" y="182.86077818590832" z="242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2184473&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="1996-01-16" id="176" label="N" start="1976-01-16">
+        <viz:color a="1" b="254" g="0" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="disc" />
+        <viz:position x="-365.0180631121974" y="731.4431127436333" z="-121.11907237753607" />
+        <attvalues>
+          <attvalue for="0" value="CitO" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="1996-01-16" id="177" label="E" start="1976-01-16">
+        <viz:color a="1" b="254" g="0" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="disc" />
+        <viz:position x="-730.0361262243948" y="-365.72155637181663" z="363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitO" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="1996-01-16" id="178" label="A" start="1976-01-16">
+        <viz:color a="1" b="254" g="0" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="disc" />
+        <viz:position x="730.0361262243948" y="365.72155637181663" z="423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitO" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="1996-01-16" id="179" label="T" start="1976-01-16">
+        <viz:color a="1" b="254" g="0" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="disc" />
+        <viz:position x="-821.2906420024442" y="91.43038909295416" z="423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitO" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="180" label="JP2010533017" start="2010-10-21">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.9166666666666665" />
+        <viz:shape value="diamond" />
+        <viz:position x="0.0" y="0.0" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JP2010533017&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="181" label="JP2007025177" start="2010-10-21">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="456.2725788902468" y="-640.0127236506792" z="484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="182" label="JPH07198909" start="2010-10-21">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-273.76354733414803" y="822.8735018365874" z="-363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="183" label="JPS59104622" start="2010-10-21">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="730.0361262243948" y="274.2911672788625" z="302.7976809438402" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="184" label="JP2001513360" start="2010-10-21">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-912.5451577804936" y="0.0" z="-484.4762895101443" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="185" label="JPH0947462" start="2010-10-21">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="638.7816104463454" y="-457.1519454647708" z="-423.91675332137623" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="186" label="JPH03170152" start="2010-10-21">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="0.0" y="-822.8735018365874" z="242.23814475507214" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="187" label="JPH02249631" start="2010-10-21">
+        <viz:color a="1" b="0" g="254" r="0" />
+        <viz:size value="0.4166666666666667" />
+        <viz:shape value="ellipse" />
+        <viz:position x="-273.76354733414803" y="731.4431127436333" z="363.3572171326082" />
+        <attvalues>
+          <attvalue for="0" value="CitP" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="0" target="2">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="0" target="3">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="0" target="4">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="0" target="5">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="0" target="6">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="0" target="7">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="0" target="8">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="0" target="9">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="0" target="10">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="0" target="11">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="0" target="12">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="0" target="13">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="0" target="14">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="0" target="15">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="0" target="16">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="0" target="17">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="0" target="18">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="0" target="19">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="0" target="20">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="0" target="21">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="0" target="22">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="0" target="23">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="0" target="24">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="25" target="26">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="25" target="27">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="25" target="28">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="25" target="29">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="25" target="30">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="25" target="31">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="32" target="27">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="32" target="26">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="32" target="28">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="32" target="29">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="32" target="30">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="32" target="31">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="33" target="34">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="33" target="35">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="33" target="36">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="33" target="37">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="33" target="38">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="33" target="39">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="33" target="40">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="33" target="41">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="33" target="42">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="33" target="43">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="33" target="44">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="45" target="46">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="45" target="47">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="45" target="48">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="49" target="50">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="49" target="51">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="49" target="52">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="49" target="53">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="49" target="54">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="49" target="55">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="56" target="26">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="56" target="27">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="56" target="57">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="56" target="58">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="56" target="59">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="56" target="28">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="56" target="60">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="56" target="29">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="56" target="30">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="56" target="31">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="61" target="16">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="61" target="17">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="61" target="4">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="61" target="62">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="61" target="63">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="61" target="64">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="61" target="65">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="61" target="8">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="61" target="66">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="61" target="67">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="61" target="68">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="69" target="70">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="69" target="71">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="69" target="72">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="73" target="43">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="73" target="36">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="73" target="34">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="73" target="40">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="73" target="39">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="73" target="44">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="74" target="8">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="74" target="17">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="74" target="16">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="74" target="4">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="75" target="76">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="75" target="77">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="75" target="78">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="75" target="79">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="75" target="80">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="75" target="81">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="82" target="43">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="82" target="36">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="82" target="34">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="82" target="40">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="82" target="39">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="82" target="44">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="83" target="84">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="83" target="85">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="83" target="86">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="83" target="87">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="83" target="88">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="89" target="17">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="90" target="91">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="90" target="92">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="90" target="93">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="94" target="95">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="94" target="96">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="94" target="97">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="94" target="98">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="94" target="99">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="94" target="100">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="94" target="101">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="102" target="103">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="102" target="104">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="102" target="105">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="102" target="106">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="102" target="107">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="108" target="109">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="108" target="110">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="111" target="112">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="111" target="113">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="111" target="114">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="115" target="116">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="115" target="117">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="115" target="118">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="115" target="119">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="115" target="120">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="115" target="121">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="122" target="26">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="122" target="123">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="122" target="124">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="122" target="125">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="122" target="28">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="122" target="30">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="122" target="126">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="122" target="29">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="122" target="127">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="122" target="128">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="129" target="130">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="129" target="131">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="129" target="132">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="129" target="133">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="129" target="134">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="129" target="135">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="136" target="1">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="136" target="17">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="136" target="4">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="136" target="16">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="136" target="137">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="138" target="130">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="138" target="131">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="138" target="132">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="138" target="133">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="138" target="134">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="138" target="135">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="139" target="140">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="139" target="17">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="139" target="141">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="139" target="4">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="139" target="142">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="139" target="143">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="139" target="8">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="139" target="16">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="139" target="144">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="139" target="145">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="146" target="147">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="146" target="96">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="146" target="148">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="146" target="149">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="146" target="94">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="146" target="150">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="151" target="152">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="151" target="153">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="154" target="84">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="154" target="155">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="154" target="156">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="154" target="87">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="183" source="154" target="157">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="184" source="158" target="130">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="185" source="158" target="159">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="186" source="158" target="160">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="187" source="158" target="131">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="188" source="158" target="161">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="189" source="158" target="162">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="190" source="158" target="132">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="191" source="158" target="133">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="192" source="158" target="134">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="193" source="158" target="163">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="194" source="158" target="164">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="195" source="158" target="165">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="196" source="166" target="84">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="197" source="166" target="155">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="198" source="166" target="85">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="199" source="166" target="156">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="200" source="166" target="87">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="201" source="166" target="88">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="202" source="166" target="157">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="203" source="167" target="168">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="204" source="167" target="92">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="205" source="167" target="93">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="206" source="169" target="170">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="207" source="169" target="98">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="208" source="169" target="171">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="209" source="172" target="16">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="210" source="172" target="17">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="211" source="172" target="173">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="212" source="172" target="8">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="213" source="172" target="174">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="214" source="175" target="176">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="215" source="175" target="177">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="216" source="175" target="178">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="217" source="175" target="179">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="218" source="180" target="181">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="219" source="180" target="182">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="220" source="180" target="183">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="221" source="180" target="184">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="222" source="180" target="185">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="223" source="180" target="186">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="224" source="180" target="187">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

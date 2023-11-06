@@ -1,0 +1,32 @@
+**** *Label_FR2576820.txt *Country_F *CIB3_B24 *CIB1_B *CIB4_B24B *Date_1986 *Applicant_essilor-int *Kind_A1-B1 *InventCountry_empty *ApplCountry_F-R 
+REVENDICATIONS
+3. Bague d'appui pour ébauche semi-finie d'un palet tel que lentille ophtalmique ou moule, du genre comportant, pour contact avec ladite ébauche semi-finie, un nombre limite de zones dappui (Z) convenablement réparties circulairement au- tour d'un axe (A'), caractérisée en ce que chacune desdites zones d'appui (Z) comporte au moins une facette d'appui (F),
+qui est globalement inclinée par rapport à un plan de réfé-
+rence (P') perpendiculaire audit axe (A').
+2. Bague d'appui suivant la revendication 1, caractéri-
+sée en ce que chaque zone d'appui (Z) comporte une pluralit6 de facettesd'appui (F), qui, toutes orthogonales A un même plan axial de l'ensemble passant par leur rayon médian, sont d'inclinaisons différentes par rapport au plan de r6f6rence (P'), lesdites facettes d'appui (F) se succédant radialement sur des circonf6rences de diamètres différents suivant leur inclinaison.
+3. Bague d'appui suivant la revendication 2, caractéri-
+sée en ce que, pour chaque zone d'appui (Z), la facette d'ap-
+pui (FI) la plus inclinée est celle qui se situe sur la cir-
+conférence de plus petit diamètre, et la facette d'appui(FIII) la moinsinclinée est celle qui se situe sur la circonférence
+de plus grand diamètre.
+4. Bague d'appui suivant l'une quelconque des revendica-
+tions 1 a 3, caractérisée en ce que chaque facette d'appui(F) forme une surface simple, plane, sphérique ou torique par
+exemple.
+5. Bague d'appui suivant l'une quelconque des revendica-
+tions 1 à 4, caractérisée en ce que les zones d'appui (Z)
+forment la face supérieure de plots (25) radialement en sail-
+lie vers l'axe de l'ensemble vis-à-vis d'une couronne (17)
+commune audit ensemble.
+6. Bague d'appui suivant la revendication 5, caractéri-
+sée en ce que lesdits plots (25) sont séparés les uns des
+autres par dégagement.
+7. Bague d'appui suivant la revendication 6, caractéri-
+sée en ce que lesdits plots (25) sont réunis à leur base par
+une collerette (26) commune A l'ensemble.
+8. Bague d'appui suivant l'une quelconque des revendica-
+tions 5 a 7, caractérisée en ce que, axialement, en saillie par rapport auxdits plots (25), la couronne (17) comporte un prolongement (28) qui s'étend annulairement autour de l'axe (A') de l'ensemble.
+9. Bague d'appui suivant l'une quelconque des revendica-
+tions 5 à 8, caractérisée en ce que la couronne (17) compor-
+te int6rieurement une surface d'appui plane (19), perpendicu-
+lairement à l'axe (A') de l'ensemble.

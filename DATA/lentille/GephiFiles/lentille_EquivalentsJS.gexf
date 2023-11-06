@@ -1,0 +1,922 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-06">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="category" type="string" />
+      <attribute id="1" title="Famille" type="long" />
+      <attribute id="2" title="IPC11-range" type="long" />
+      <attribute id="3" title="IPC7-range" type="long" />
+      <attribute id="4" title="IPC4-range" type="long" />
+      <attribute id="5" title="Citations" type="long" />
+      <attribute id="6" title="url" type="string" />
+      <attribute id="7" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="CA3031583" label="CA3031583">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="659" y="-23" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA3031583&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="CN109791311" label="CN109791311">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-556" y="-89" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="FR3054683" label="FR3054683">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="472" y="377" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="BR112019001534" label="BR112019001534">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="451" y="-453" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="EP3491462" label="EP3491462">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-92" y="-440" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="WO2018019833" label="WO2018019833">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-596" y="137" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="US2020285078" label="US2020285078">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-488" y="-390" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="AU2017303537" label="AU2017303537">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-435" y="-248" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="CA3021536" label="CA3021536">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="600" y="-260" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA3021536&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="HUE048944T" label="HUE048944T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="272" y="456" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="JP2019514494" label="JP2019514494">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-245" y="487" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="US2020038176" label="US2020038176">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="9" y="505" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="RU2018139274" label="RU2018139274">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="327" y="-440" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="BR112018071292" label="BR112018071292">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="231" y="-445" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="PT3445287T" label="PT3445287T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-222" y="-486" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="BE1024131" label="BE1024131">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="245" y="-334" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="PL3445287T" label="PL3445287T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-216" y="-386" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="KR20180137507" label="KR20180137507">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-745" y="168" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="US2021068944" label="US2021068944">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="676" y="-223" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="ES2787021T" label="ES2787021T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-616" y="-248" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="DK3445287T" label="DK3445287T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-683" y="18" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="CN109219420" label="CN109219420">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="455" y="-225" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="WO2017182508" label="WO2017182508">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="594" y="291" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="AU2017251980" label="AU2017251980">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="41" y="428" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="EP3445287" label="EP3445287">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="693" y="-297" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="CH681276" label="CH681276">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-531" y="-216" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CH681276&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="FR3013103" label="FR3013103">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="73" y="-412" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR3013103&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="WO2011015115" label="WO2011015115">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-605" y="-149" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2011015115&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="CN101988689" label="CN101988689">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-44" y="-479" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="CA2694840" label="CA2694840">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-633" y="253" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA2694840&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="FR2918557" label="FR2918557">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="743" y="-179" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="JP2010533017" label="JP2010533017">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-528" y="281" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="US2011046727" label="US2011046727">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-670" y="-292" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="CN101808594" label="CN101808594">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-155" y="-469" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="WO2009043985" label="WO2009043985">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-673" y="-96" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="ES2388264T" label="ES2388264T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-714" y="-34" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="EP2178461" label="EP2178461">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="356" y="-467" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="AT553722T" label="AT553722T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="635" y="28" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="WO2007108663" label="WO2007108663">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="537" y="-360" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="10" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007108663&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="KR20070096368" label="KR20070096368">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-314" y="275" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="WO2007091771" label="WO2007091771">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="387" y="-348" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007091771&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="KR20070080136" label="KR20070080136">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-356" y="-384" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="WO2007091761" label="WO2007091761">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="665" y="75" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007091761&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="KR20070080109" label="KR20070080109">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="505" y="321" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="CA1298439" label="CA1298439">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="121" y="-467" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA1298439&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="AT72749T" label="AT72749T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="380" y="462" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="EP0305255" label="EP0305255">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="549" y="253" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="ES2029339T" label="ES2029339T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-391" y="464" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="US5041135" label="US5041135">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-81" y="482" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="JPH0191858" label="JPH0191858">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-247" y="-316" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="KR890003344" label="KR890003344">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-270" y="438" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="GR3003902T" label="GR3003902T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="83" y="476" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="FR2619004" label="FR2619004">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="699" y="-129" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="BR8803876" label="BR8803876">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="172" y="429" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="CA1287993" label="CA1287993">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="490" y="-403" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA1287993&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="SG121392G" label="SG121392G">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="393" y="399" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="FR2617989" label="FR2617989">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-659" y="95" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="GB2206978" label="GB2206978">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="195" y="-494" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="IT1223668" label="IT1223668">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-582" y="-360" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="AU1870488" label="AU1870488">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-721" y="75" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="JPS6432227" label="JPS6432227">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-718" y="-187" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="DE3822376" label="DE3822376">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="670" y="175" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="US4838674" label="US4838674">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-301" y="373" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="BR8803369" label="BR8803369">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="361" y="289" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="CA1256700" label="CA1256700">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-319" y="-471" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA1256700&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="JPS61178166" label="JPS61178166">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-386" y="390" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="FR2576820" label="FR2576820">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="302" y="403" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="US4714232" label="US4714232">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="34" y="-473" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="EP0191689" label="EP0191689">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-703" y="251" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="CA989177" label="CA989177">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="626" y="132" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA989177&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="CH569297" label="CH569297">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-490" y="361" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="AU5564073" label="AU5564073">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-415" y="-444" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="GB1372816" label="GB1372816">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="560" y="393" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="NL7306965" label="NL7306965">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-494" y="419" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="BE799653" label="BE799653">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-162" y="452" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="IT987677" label="IT987677">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="706" y="196" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="JPS4956644" label="JPS4956644">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="666" y="-82" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="FR2184473" label="FR2184473">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="754" y="69" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="US3877184" label="US3877184">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-619" y="191" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="DE2323439" label="DE2323439">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="583" y="-318" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="CA931760" label="CA931760">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-656" y="341" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA931760&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="NL7100827" label="NL7100827">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="556" y="193" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="DE2102820" label="DE2102820">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-609" y="-10" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="US3750272" label="US3750272">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="748" y="-49" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="GB1343301" label="GB1343301">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="583" y="-160" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="CH528964" label="CH528964">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-77" y="418" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="FR2076643" label="FR2076643">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-583" y="357" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="JPS5613583B" label="JPS5613583B">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-441" y="-315" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="BE761834" label="BE761834">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="181" y="473" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="CA3031583" target="CN109791311" id="0" />
+      <edge source="CA3031583" target="FR3054683" id="1" />
+      <edge source="CA3031583" target="BR112019001534" id="2" />
+      <edge source="CA3031583" target="EP3491462" id="3" />
+      <edge source="CA3031583" target="WO2018019833" id="4" />
+      <edge source="CA3031583" target="US2020285078" id="5" />
+      <edge source="CA3031583" target="CA3031583" id="6" />
+      <edge source="CA3031583" target="AU2017303537" id="7" />
+      <edge source="CA3021536" target="HUE048944T" id="8" />
+      <edge source="CA3021536" target="JP2019514494" id="9" />
+      <edge source="CA3021536" target="US2020038176" id="10" />
+      <edge source="CA3021536" target="RU2018139274" id="11" />
+      <edge source="CA3021536" target="BR112018071292" id="12" />
+      <edge source="CA3021536" target="PT3445287T" id="13" />
+      <edge source="CA3021536" target="BE1024131" id="14" />
+      <edge source="CA3021536" target="PL3445287T" id="15" />
+      <edge source="CA3021536" target="KR20180137507" id="16" />
+      <edge source="CA3021536" target="US2021068944" id="17" />
+      <edge source="CA3021536" target="ES2787021T" id="18" />
+      <edge source="CA3021536" target="DK3445287T" id="19" />
+      <edge source="CA3021536" target="CN109219420" id="20" />
+      <edge source="CA3021536" target="WO2017182508" id="21" />
+      <edge source="CA3021536" target="CA3021536" id="22" />
+      <edge source="CA3021536" target="AU2017251980" id="23" />
+      <edge source="CA3021536" target="EP3445287" id="24" />
+      <edge source="CH681276" target="CH681276" id="25" />
+      <edge source="FR3013103" target="FR3013103" id="26" />
+      <edge source="WO2011015115" target="CN101988689" id="27" />
+      <edge source="WO2011015115" target="WO2011015115" id="28" />
+      <edge source="CA2694840" target="FR2918557" id="29" />
+      <edge source="CA2694840" target="JP2010533017" id="30" />
+      <edge source="CA2694840" target="US2011046727" id="31" />
+      <edge source="CA2694840" target="CN101808594" id="32" />
+      <edge source="CA2694840" target="CA2694840" id="33" />
+      <edge source="CA2694840" target="WO2009043985" id="34" />
+      <edge source="CA2694840" target="ES2388264T" id="35" />
+      <edge source="CA2694840" target="EP2178461" id="36" />
+      <edge source="CA2694840" target="AT553722T" id="37" />
+      <edge source="WO2007108663" target="WO2007108663" id="38" />
+      <edge source="WO2007108663" target="KR20070096368" id="39" />
+      <edge source="WO2007091771" target="WO2007091771" id="40" />
+      <edge source="WO2007091771" target="KR20070080136" id="41" />
+      <edge source="WO2007091761" target="WO2007091761" id="42" />
+      <edge source="WO2007091761" target="KR20070080109" id="43" />
+      <edge source="CA1298439" target="AT72749T" id="44" />
+      <edge source="CA1298439" target="EP0305255" id="45" />
+      <edge source="CA1298439" target="CA1298439" id="46" />
+      <edge source="CA1298439" target="ES2029339T" id="47" />
+      <edge source="CA1298439" target="US5041135" id="48" />
+      <edge source="CA1298439" target="JPH0191858" id="49" />
+      <edge source="CA1298439" target="KR890003344" id="50" />
+      <edge source="CA1298439" target="GR3003902T" id="51" />
+      <edge source="CA1298439" target="FR2619004" id="52" />
+      <edge source="CA1298439" target="BR8803876" id="53" />
+      <edge source="CA1287993" target="SG121392G" id="54" />
+      <edge source="CA1287993" target="FR2617989" id="55" />
+      <edge source="CA1287993" target="GB2206978" id="56" />
+      <edge source="CA1287993" target="IT1223668" id="57" />
+      <edge source="CA1287993" target="CA1287993" id="58" />
+      <edge source="CA1287993" target="AU1870488" id="59" />
+      <edge source="CA1287993" target="JPS6432227" id="60" />
+      <edge source="CA1287993" target="DE3822376" id="61" />
+      <edge source="CA1287993" target="US4838674" id="62" />
+      <edge source="CA1287993" target="BR8803369" id="63" />
+      <edge source="CA1256700" target="JPS61178166" id="64" />
+      <edge source="CA1256700" target="FR2576820" id="65" />
+      <edge source="CA1256700" target="CA1256700" id="66" />
+      <edge source="CA1256700" target="US4714232" id="67" />
+      <edge source="CA1256700" target="EP0191689" id="68" />
+      <edge source="CA989177" target="CH569297" id="69" />
+      <edge source="CA989177" target="AU5564073" id="70" />
+      <edge source="CA989177" target="GB1372816" id="71" />
+      <edge source="CA989177" target="NL7306965" id="72" />
+      <edge source="CA989177" target="BE799653" id="73" />
+      <edge source="CA989177" target="IT987677" id="74" />
+      <edge source="CA989177" target="JPS4956644" id="75" />
+      <edge source="CA989177" target="FR2184473" id="76" />
+      <edge source="CA989177" target="CA989177" id="77" />
+      <edge source="CA989177" target="US3877184" id="78" />
+      <edge source="CA989177" target="DE2323439" id="79" />
+      <edge source="CA931760" target="NL7100827" id="80" />
+      <edge source="CA931760" target="DE2102820" id="81" />
+      <edge source="CA931760" target="CA931760" id="82" />
+      <edge source="CA931760" target="US3750272" id="83" />
+      <edge source="CA931760" target="GB1343301" id="84" />
+      <edge source="CA931760" target="CH528964" id="85" />
+      <edge source="CA931760" target="FR2076643" id="86" />
+      <edge source="CA931760" target="JPS5613583B" id="87" />
+      <edge source="CA931760" target="BE761834" id="88" />
+    </edges>
+  </graph>
+</gexf>
+

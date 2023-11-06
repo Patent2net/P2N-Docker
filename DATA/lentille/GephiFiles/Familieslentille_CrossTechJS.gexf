@@ -1,0 +1,2473 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-06">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="Famille" type="long" />
+      <attribute id="1" title="IPC11-range" type="long" />
+      <attribute id="2" title="IPC7-range" type="long" />
+      <attribute id="3" title="IPC4-range" type="long" />
+      <attribute id="4" title="Citations" type="long" />
+      <attribute id="5" title="category" type="string" />
+      <attribute id="6" title="url" type="string" />
+      <attribute id="7" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="CA3031583" label="CA3031583">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="489" y="-407" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA3031583&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="G02C7-10" label="G02C7-10">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="727" y="69" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="9" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02C7-10000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="G02C7" label="G02C7">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-491" y="-174" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="33" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02C0007000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="G02C" label="G02C">
+        <viz:color r="127" g="254" b="127" a="3" />
+        <viz:shape value="database" />
+        <viz:position x="-596" y="91" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR4" />
+          <attvalue for="7" value="33" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02C&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="G" label="G">
+        <viz:color r="127" g="254" b="127" a="2" />
+        <viz:shape value="database" />
+        <viz:position x="-580" y="280" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR1" />
+          <attvalue for="7" value="44" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="G02C7-1" label="G02C7-1">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-464" y="357" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="9" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02C07-1000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="AU2017303537" label="AU2017303537">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="258" y="425" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=AU2017303537&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="BR112019001534" label="BR112019001534">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="711" y="-179" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BR112019001534&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="CN109791311" label="CN109791311">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="624" y="89" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CN109791311&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="EP3491462" label="EP3491462">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="556" y="-377" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP3491462&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="FR3054683" label="FR3054683">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-583" y="-175" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR3054683&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="US2020285078" label="US2020285078">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-157" y="-442" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2020285078&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="US11054671" label="US11054671">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="28" y="-428" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US11054671&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="WO2018019833" label="WO2018019833">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-702" y="115" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2018019833&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="CA3021536" label="CA3021536">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-96" y="458" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA3021536&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="A61F2-16" label="A61F2-16">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="-116" y="-470" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="32" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=A61F2-16000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=A&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="A61F2" label="A61F2">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="373" y="-440" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="40" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=A61F0002000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=A&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="A61F" label="A61F">
+        <viz:color r="127" g="254" b="127" a="3" />
+        <viz:shape value="database" />
+        <viz:position x="96" y="463" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR4" />
+          <attvalue for="7" value="40" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=A61F&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=A&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="A" label="A">
+        <viz:color r="127" g="254" b="127" a="2" />
+        <viz:shape value="database" />
+        <viz:position x="655" y="-188" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR1" />
+          <attvalue for="7" value="41" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=A&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=A&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="A61F2-1" label="A61F2-1">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="600" y="-132" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="40" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=A61F02-1000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=A&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="AU2017251980" label="AU2017251980">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-612" y="-310" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=AU2017251980&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="BE1024131" label="BE1024131">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-361" y="462" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BE1024131&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="BR112018071292" label="BR112018071292">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="501" y="364" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BR112018071292&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="CN109219420" label="CN109219420">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="729" y="25" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CN109219420&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="DK3445287" label="DK3445287">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-464" y="316" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=DK3445287&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="EP3445287" label="EP3445287">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-472" y="-385" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP3445287&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="ES2787021" label="ES2787021">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="494" y="239" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=ES2787021&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="HUE048944" label="HUE048944">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="667" y="-63" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=HUE048944&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="JP2019514494" label="JP2019514494">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-708" y="144" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JP2019514494&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="KR20180137507" label="KR20180137507">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="658" y="303" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR20180137507&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="A61F9" label="A61F9">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-66" y="433" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=A61F0009000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=A&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="A61F9-0" label="A61F9-0">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="43" y="-447" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=A61F09-0000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=A&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="A61F9-007" label="A61F9-007">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="46" y="452" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=A61F9-007000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=A&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="PL3445287" label="PL3445287">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-585" y="-31" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=PL3445287&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="PT3445287" label="PT3445287">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="607" y="313" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=PT3445287&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="RU2018139274" label="RU2018139274">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-678" y="-146" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=RU2018139274&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="RU2735891" label="RU2735891">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="657" y="-270" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=RU2735891&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="US2020038176" label="US2020038176">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-713" y="-174" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2020038176&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="US10869754" label="US10869754">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="476" y="410" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US10869754&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="US2021068944" label="US2021068944">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-333" y="439" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2021068944&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="WO2017182508" label="WO2017182508">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-587" y="-121" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2017182508&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="CH681276" label="CH681276">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="652" y="37" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CH681276&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="A61K38" label="A61K38">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-333" y="369" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=A61K0038000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=A&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="A61K" label="A61K">
+        <viz:color r="127" g="254" b="127" a="3" />
+        <viz:shape value="database" />
+        <viz:position x="659" y="220" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR4" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=A61K&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=A&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="A61K36" label="A61K36">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-711" y="177" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=A61K0036000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=A&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="FR3013103" label="FR3013103">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-685" y="280" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR3013103&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="F21W101-10" label="F21W101-10">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="-609" y="-266" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21W101-10000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21W101" label="F21W101">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-28" y="486" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21W0101000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F" label="F">
+        <viz:color r="127" g="254" b="127" a="2" />
+        <viz:shape value="database" />
+        <viz:position x="-731" y="38" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR1" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V" label="F21V">
+        <viz:color r="127" g="254" b="127" a="3" />
+        <viz:shape value="database" />
+        <viz:position x="750" y="-112" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR4" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21W" label="F21W">
+        <viz:color r="127" g="254" b="127" a="3" />
+        <viz:shape value="database" />
+        <viz:position x="603" y="-300" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR4" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21W&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21S" label="F21S">
+        <viz:color r="127" g="254" b="127" a="3" />
+        <viz:shape value="database" />
+        <viz:position x="-648" y="-97" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR4" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21S&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21Y" label="F21Y">
+        <viz:color r="127" g="254" b="127" a="3" />
+        <viz:shape value="database" />
+        <viz:position x="439" y="349" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR4" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21Y&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V8" label="F21V8">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-524" y="405" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V0008000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21Y101" label="F21Y101">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-745" y="-116" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21Y0101000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V5" label="F21V5">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-357" y="278" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V0005000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21S8" label="F21S8">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="333" y="396" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21S0008000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V5-0" label="F21V5-0">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="204" y="425" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V05-0000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21S8-1" label="F21S8-1">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="518" y="-196" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21S08-1000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21Y101-02" label="F21Y101-02">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="-507" y="246" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21Y101-02000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21S8-10" label="F21S8-10">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="-629" y="267" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21S8-10000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V5-04" label="F21V5-04">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="415" y="-343" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V5-04000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="WO2011015115" label="WO2011015115">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-281" y="-396" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2011015115&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="F21V17-14" label="F21V17-14">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="-48" y="-383" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V17-14000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21W131" label="F21W131">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-576" y="-391" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21W0131000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V3-0" label="F21V3-0">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="751" y="-55" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V03-0000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V17" label="F21V17">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-644" y="225" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V0017000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V17-" label="F21V17-">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="690" y="142" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V017-000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V3-02" label="F21V3-02">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="-197" y="457" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V3-02000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21W131-103" label="F21W131-103">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="354" y="463" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21W131-103000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="CN101988689" label="CN101988689">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="607" y="-253" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CN101988689&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="F21V7-10" label="F21V7-10">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="721" y="109" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V7-10000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V7" label="F21V7">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-7" y="446" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V0007000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V7-1" label="F21V7-1">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="39" y="391" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V07-1000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V13-" label="F21V13-">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="338" y="-375" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V013-000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V13" label="F21V13">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="687" y="-137" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V0013000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="F21V13-04" label="F21V13-04">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="-127" y="322" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=F21V13-04000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=F&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="CA2694840" label="CA2694840">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="306" y="424" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA2694840&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="A61F2-14" label="A61F2-14">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="577" y="268" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="8" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=A61F2-14000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=A&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="AT553722" label="AT553722">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="478" y="293" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=AT553722&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="CN101808594" label="CN101808594">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-322" y="-353" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CN101808594&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="EP2178461" label="EP2178461">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-189" y="-365" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP2178461&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="ES2388264" label="ES2388264">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-530" y="-275" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=ES2388264&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="FR2918557" label="FR2918557">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="339" y="-299" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2918557&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="G02B" label="G02B">
+        <viz:color r="127" g="254" b="127" a="3" />
+        <viz:shape value="database" />
+        <viz:position x="-17" y="-464" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR4" />
+          <attvalue for="7" value="11" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02B&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="G02B3" label="G02B3">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="651" y="-19" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="10" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02B0003000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="JP2010533017" label="JP2010533017">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="382" y="393" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JP2010533017&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="G02B5-1" label="G02B5-1">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="689" y="249" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02B05-1000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="G02B5" label="G02B5">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="581" y="57" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02B0005000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="G02B5-18" label="G02B5-18">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="571" y="-342" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02B5-18000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="US2011046727" label="US2011046727">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-209" y="-426" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2011046727&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="WO2009043985" label="WO2009043985">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="122" y="-341" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2009043985&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="WO2007108663" label="WO2007108663">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-748" y="1" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007108663&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="G02B3-08" label="G02B3-08">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="607" y="-10" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02B3-08000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="G02B3-0" label="G02B3-0">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="127" y="423" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02B03-0000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="KR20070096368" label="KR20070096368">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-726" y="82" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR20070096368&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="KR100804735" label="KR100804735">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-383" y="-370" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR100804735&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="WO2007091771" label="WO2007091771">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="301" y="368" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007091771&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="G02B3-12" label="G02B3-12">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="599" y="-207" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="6" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02B3-12000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="G02B3-1" label="G02B3-1">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-309" y="-273" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="6" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02B03-1000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="KR20070080136" label="KR20070080136">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="506" y="173" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR20070080136&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="KR100811294" label="KR100811294">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-256" y="-442" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR100811294&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="WO2007091761" label="WO2007091761">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-253" y="408" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007091761&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="KR20070080109" label="KR20070080109">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="438" y="-447" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR20070080109&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="G02B3-10" label="G02B3-10">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="-214" y="-488" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02B3-10000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="KR100765863" label="KR100765863">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-104" y="-426" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR100765863&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="CA1298439" label="CA1298439">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="84" y="-464" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA1298439&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="AT72749" label="AT72749">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="562" y="356" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=AT72749&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="BR8803876" label="BR8803876">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-176" y="444" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BR8803876&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="EP0305255" label="EP0305255">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="147" y="-429" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP0305255&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="ES2029339" label="ES2029339">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-427" y="-456" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=ES2029339&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="FR2619004" label="FR2619004">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="426" y="394" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2619004&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="GR3003902" label="GR3003902">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-138" y="433" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=GR3003902&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="JPH0191858" label="JPH0191858">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-709" y="217" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPH0191858&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="JP2559133" label="JP2559133">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="662" y="-104" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JP2559133&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="KR890003344" label="KR890003344">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-550" y="-326" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR890003344&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="KR970001818" label="KR970001818">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-686" y="72" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR970001818&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="US5041135" label="US5041135">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-635" y="-212" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US5041135&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="CA1287993" label="CA1287993">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-320" y="-446" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA1287993&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="G02C7-02" label="G02C7-02">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="-729" y="-82" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="12" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02C7-02000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="G02C7-0" label="G02C7-0">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-511" y="335" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="12" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02C07-0000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="G02C7-06" label="G02C7-06">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="226" y="458" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="12" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=G02C7-06000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=G&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="AU1870488" label="AU1870488">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-361" y="-409" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=AU1870488&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="AU597555" label="AU597555">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="607" y="173" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=AU597555&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="BR8803369" label="BR8803369">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-99" y="494" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BR8803369&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="DE3822376" label="DE3822376">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="177" y="484" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=DE3822376&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="FR2617989" label="FR2617989">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-641" y="183" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2617989&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="GB2206978" label="GB2206978">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="578" y="130" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="16" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=GB2206978&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="IT1223668" label="IT1223668">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="468" y="-263" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=IT1223668&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="JPS6432227" label="JPS6432227">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="570" y="224" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPS6432227&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="JPH0520729" label="JPH0520729">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="330" y="299" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPH0520729&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="SG121392" label="SG121392">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="327" y="-478" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=SG121392&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="US4838674" label="US4838674">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-520" y="-228" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="16" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US4838674&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="CA1256700" label="CA1256700">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-617" y="141" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA1256700&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="B24B13-005" label="B24B13-005">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="481" y="-353" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="6" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=B24B13-005000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=B&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="B24B13-" label="B24B13-">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-296" y="428" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="6" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=B24B013-000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=B&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="B24B" label="B24B">
+        <viz:color r="127" g="254" b="127" a="3" />
+        <viz:shape value="database" />
+        <viz:position x="76" y="-505" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR4" />
+          <attvalue for="7" value="27" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=B24B&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=B&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="B" label="B">
+        <viz:color r="127" g="254" b="127" a="2" />
+        <viz:shape value="database" />
+        <viz:position x="234" y="-495" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR1" />
+          <attvalue for="7" value="27" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=B&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=B&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="B24B13" label="B24B13">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="642" y="-338" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="18" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=B24B0013000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=B&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="EP0191689" label="EP0191689">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="529" y="-301" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP0191689&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="FR2576820" label="FR2576820">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-407" y="425" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2576820&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="JPS61178166" label="JPS61178166">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="501" y="-90" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPS61178166&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="JPH0661690" label="JPH0661690">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-691" y="-52" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPH0661690&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="US4714232" label="US4714232">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-59" y="-448" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="12" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US4714232&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="CA989177" label="CA989177">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-409" y="398" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA989177&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="B29D" label="B29D">
+        <viz:color r="127" g="254" b="127" a="3" />
+        <viz:shape value="database" />
+        <viz:position x="45" y="493" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR4" />
+          <attvalue for="7" value="21" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=B29D&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=B&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="B24B9" label="B24B9">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-697" y="-6" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="21" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=B24B0009000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=B&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="B29D11" label="B29D11">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="235" y="-464" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="21" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=B29D0011000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=B&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="AU5564073" label="AU5564073">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-679" y="-272" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=AU5564073&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="AU472771" label="AU472771">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-247" y="449" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=AU472771&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="BE799653" label="BE799653">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-651" y="33" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BE799653&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="CH569297" label="CH569297">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-695" y="-221" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CH569297&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="DE2323439" label="DE2323439">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="201" y="-405" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=DE2323439&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="FR2184473" label="FR2184473">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-615" y="336" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2184473&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="GB1372816" label="GB1372816">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-575" y="212" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=GB1372816&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="IT987677" label="IT987677">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-426" y="-289" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=IT987677&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="JPS4956644" label="JPS4956644">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="692" y="-231" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPS4956644&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="NL7306965" label="NL7306965">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-439" y="-361" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=NL7306965&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="US3877184" label="US3877184">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="721" y="-31" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US3877184&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="CA931760" label="CA931760">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="444" y="-398" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA931760&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="B24B9-14" label="B24B9-14">
+        <viz:color r="127" g="254" b="127" a="4" />
+        <viz:shape value="database" />
+        <viz:position x="265" y="-386" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR11" />
+          <attvalue for="7" value="9" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=B24B9-14000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=B&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="B24B9-1" label="B24B9-1">
+        <viz:color r="127" g="254" b="127" a="1" />
+        <viz:shape value="database" />
+        <viz:position x="-536" y="301" z="0.0" />
+        <attvalues>
+          <attvalue for="5" value="IPCR7" />
+          <attvalue for="7" value="9" />
+          <attvalue for="6" value="https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&amp;version=20140101&amp;symbol=B24B09-1000000&amp;menulang=en&amp;lang=en&amp;viewmode=f&amp;fipcpc=no&amp;showdeleted=yes&amp;indexes=no&amp;headings=yes&amp;notes=yes&amp;direction=o2n&amp;initial=B&amp;cwid=none&amp;tree=no&amp;searchmode=smart" />
+        </attvalues>
+      </node>
+      <node id="BE761834" label="BE761834">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="152" y="454" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BE761834&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="CH528964" label="CH528964">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="509" y="314" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CH528964&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="DE2102820" label="DE2102820">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-645" y="-32" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=DE2102820&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="FR2076643" label="FR2076643">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="153" y="-465" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2076643&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="GB1343301" label="GB1343301">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="713" y="174" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=GB1343301&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="JPS5613583" label="JPS5613583">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="320" y="-436" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPS5613583&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="NL7100827" label="NL7100827">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-418" y="371" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=NL7100827&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="US3750272" label="US3750272">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-497" y="-339" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="30" />
+          <attvalue for="5" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US3750272&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="CA3031583" target="G02C7-10" id="0" />
+      <edge source="G02C7" target="G02C7-10" id="1" />
+      <edge source="G02C7" target="G02C7-02" id="2" />
+      <edge source="G02C7" target="G02C7-06" id="3" />
+      <edge source="G02C" target="G02C7" id="4" />
+      <edge source="G02C" target="G02C7-1" id="5" />
+      <edge source="G02C" target="G02C7-0" id="6" />
+      <edge source="G" target="G02C" id="7" />
+      <edge source="G" target="G02B" id="8" />
+      <edge source="G02C7-1" target="G02C7-10" id="9" />
+      <edge source="AU2017303537" target="G02C7-10" id="10" />
+      <edge source="BR112019001534" target="G02C7-10" id="11" />
+      <edge source="CN109791311" target="G02C7-10" id="12" />
+      <edge source="EP3491462" target="G02C7-10" id="13" />
+      <edge source="FR3054683" target="G02C7-10" id="14" />
+      <edge source="US2020285078" target="G02C7-10" id="15" />
+      <edge source="US11054671" target="G02C7-10" id="16" />
+      <edge source="WO2018019833" target="G02C7-10" id="17" />
+      <edge source="CA3021536" target="A61F2-16" id="18" />
+      <edge source="A61F2" target="A61F2-16" id="19" />
+      <edge source="A61F2" target="A61F2-14" id="20" />
+      <edge source="A61F" target="A61F2" id="21" />
+      <edge source="A61F" target="A61F2-1" id="22" />
+      <edge source="A61F" target="A61F9" id="23" />
+      <edge source="A61F" target="A61F9-0" id="24" />
+      <edge source="A" target="A61F" id="25" />
+      <edge source="A" target="A61K" id="26" />
+      <edge source="A61F2-1" target="A61F2-16" id="27" />
+      <edge source="A61F2-1" target="A61F2-14" id="28" />
+      <edge source="AU2017251980" target="A61F2-16" id="29" />
+      <edge source="BE1024131" target="A61F2-16" id="30" />
+      <edge source="BR112018071292" target="A61F2-16" id="31" />
+      <edge source="CN109219420" target="A61F2-16" id="32" />
+      <edge source="DK3445287" target="A61F2-16" id="33" />
+      <edge source="EP3445287" target="A61F2-16" id="34" />
+      <edge source="ES2787021" target="A61F2-16" id="35" />
+      <edge source="HUE048944" target="A61F2-16" id="36" />
+      <edge source="JP2019514494" target="A61F2-16" id="37" />
+      <edge source="KR20180137507" target="A61F2-16" id="38" />
+      <edge source="KR20180137507" target="A61F9-007" id="39" />
+      <edge source="A61F9" target="A61F9-007" id="40" />
+      <edge source="A61F9-0" target="A61F9-007" id="41" />
+      <edge source="PL3445287" target="A61F2-16" id="42" />
+      <edge source="PT3445287" target="A61F2-16" id="43" />
+      <edge source="RU2018139274" target="A61F2-16" id="44" />
+      <edge source="RU2735891" target="A61F2-16" id="45" />
+      <edge source="RU2735891" target="A61F9-007" id="46" />
+      <edge source="US2020038176" target="A61F2-16" id="47" />
+      <edge source="US10869754" target="A61F2-16" id="48" />
+      <edge source="US2021068944" target="A61F2-16" id="49" />
+      <edge source="WO2017182508" target="A61F2-16" id="50" />
+      <edge source="CH681276" target="A61K38" id="51" />
+      <edge source="CH681276" target="A61K36" id="52" />
+      <edge source="A61K" target="A61K38" id="53" />
+      <edge source="A61K" target="A61K36" id="54" />
+      <edge source="FR3013103" target="F21W101-10" id="55" />
+      <edge source="FR3013103" target="F21Y101-02" id="56" />
+      <edge source="FR3013103" target="F21S8-10" id="57" />
+      <edge source="FR3013103" target="F21V5-04" id="58" />
+      <edge source="F21W101" target="F21W101-10" id="59" />
+      <edge source="F" target="F21V" id="60" />
+      <edge source="F" target="F21W" id="61" />
+      <edge source="F" target="F21S" id="62" />
+      <edge source="F" target="F21Y" id="63" />
+      <edge source="F21V" target="F21V8" id="64" />
+      <edge source="F21V" target="F21V5" id="65" />
+      <edge source="F21V" target="F21V5-0" id="66" />
+      <edge source="F21V" target="F21V3-0" id="67" />
+      <edge source="F21V" target="F21V17" id="68" />
+      <edge source="F21V" target="F21V17-" id="69" />
+      <edge source="F21V" target="F21V7" id="70" />
+      <edge source="F21V" target="F21V7-1" id="71" />
+      <edge source="F21V" target="F21V13-" id="72" />
+      <edge source="F21V" target="F21V13" id="73" />
+      <edge source="F21W" target="F21W101" id="74" />
+      <edge source="F21W" target="F21W131" id="75" />
+      <edge source="F21S" target="F21S8" id="76" />
+      <edge source="F21S" target="F21S8-1" id="77" />
+      <edge source="F21Y" target="F21Y101" id="78" />
+      <edge source="F21Y101" target="F21Y101-02" id="79" />
+      <edge source="F21V5" target="F21V5-04" id="80" />
+      <edge source="F21S8" target="F21S8-10" id="81" />
+      <edge source="F21V5-0" target="F21V5-04" id="82" />
+      <edge source="F21S8-1" target="F21S8-10" id="83" />
+      <edge source="WO2011015115" target="F21V17-14" id="84" />
+      <edge source="WO2011015115" target="F21V3-02" id="85" />
+      <edge source="WO2011015115" target="F21W131-103" id="86" />
+      <edge source="F21W131" target="F21W131-103" id="87" />
+      <edge source="F21V3-0" target="F21V3-02" id="88" />
+      <edge source="F21V17" target="F21V17-14" id="89" />
+      <edge source="F21V17-" target="F21V17-14" id="90" />
+      <edge source="CN101988689" target="F21V7-10" id="91" />
+      <edge source="CN101988689" target="F21Y101-02" id="92" />
+      <edge source="CN101988689" target="F21V13-04" id="93" />
+      <edge source="CN101988689" target="F21V5-04" id="94" />
+      <edge source="F21V7" target="F21V7-10" id="95" />
+      <edge source="F21V7-1" target="F21V7-10" id="96" />
+      <edge source="F21V13-" target="F21V13-04" id="97" />
+      <edge source="F21V13" target="F21V13-04" id="98" />
+      <edge source="CA2694840" target="A61F2-14" id="99" />
+      <edge source="AT553722" target="A61F2-14" id="100" />
+      <edge source="CN101808594" target="A61F2-14" id="101" />
+      <edge source="EP2178461" target="A61F2-14" id="102" />
+      <edge source="ES2388264" target="A61F2-14" id="103" />
+      <edge source="FR2918557" target="A61F2-14" id="104" />
+      <edge source="G02B" target="G02B3" id="105" />
+      <edge source="G02B" target="G02B5-1" id="106" />
+      <edge source="G02B" target="G02B5" id="107" />
+      <edge source="G02B" target="G02B3-0" id="108" />
+      <edge source="G02B" target="G02B3-1" id="109" />
+      <edge source="G02B3" target="G02B3-08" id="110" />
+      <edge source="G02B3" target="G02B3-12" id="111" />
+      <edge source="G02B3" target="G02B3-10" id="112" />
+      <edge source="JP2010533017" target="A61F2-14" id="113" />
+      <edge source="JP2010533017" target="G02B5-18" id="114" />
+      <edge source="G02B5-1" target="G02B5-18" id="115" />
+      <edge source="G02B5" target="G02B5-18" id="116" />
+      <edge source="US2011046727" target="A61F2-16" id="117" />
+      <edge source="WO2009043985" target="A61F2-14" id="118" />
+      <edge source="WO2007108663" target="G02B3-08" id="119" />
+      <edge source="G02B3-0" target="G02B3-08" id="120" />
+      <edge source="KR20070096368" target="G02B3-08" id="121" />
+      <edge source="KR100804735" target="G02B3-08" id="122" />
+      <edge source="WO2007091771" target="G02B3-12" id="123" />
+      <edge source="G02B3-1" target="G02B3-12" id="124" />
+      <edge source="G02B3-1" target="G02B3-10" id="125" />
+      <edge source="KR20070080136" target="G02B3-12" id="126" />
+      <edge source="KR100811294" target="G02B3-12" id="127" />
+      <edge source="WO2007091761" target="G02B3-12" id="128" />
+      <edge source="KR20070080109" target="G02B3-10" id="129" />
+      <edge source="KR20070080109" target="G02B3-12" id="130" />
+      <edge source="KR100765863" target="G02B3-10" id="131" />
+      <edge source="KR100765863" target="G02B3-12" id="132" />
+      <edge source="CA1298439" target="A61F2-16" id="133" />
+      <edge source="AT72749" target="A61F2-16" id="134" />
+      <edge source="BR8803876" target="A61F2-16" id="135" />
+      <edge source="EP0305255" target="A61F2-16" id="136" />
+      <edge source="ES2029339" target="A61F2-16" id="137" />
+      <edge source="FR2619004" target="A61F2-16" id="138" />
+      <edge source="GR3003902" target="A61F2-16" id="139" />
+      <edge source="JPH0191858" target="A61F2-16" id="140" />
+      <edge source="JP2559133" target="A61F2-16" id="141" />
+      <edge source="KR890003344" target="A61F2-16" id="142" />
+      <edge source="KR970001818" target="A61F2-16" id="143" />
+      <edge source="US5041135" target="A61F2-16" id="144" />
+      <edge source="CA1287993" target="G02C7-02" id="145" />
+      <edge source="CA1287993" target="G02C7-06" id="146" />
+      <edge source="G02C7-0" target="G02C7-02" id="147" />
+      <edge source="G02C7-0" target="G02C7-06" id="148" />
+      <edge source="AU1870488" target="G02C7-02" id="149" />
+      <edge source="AU1870488" target="G02C7-06" id="150" />
+      <edge source="AU597555" target="G02C7-02" id="151" />
+      <edge source="AU597555" target="G02C7-06" id="152" />
+      <edge source="BR8803369" target="G02C7-02" id="153" />
+      <edge source="BR8803369" target="G02C7-06" id="154" />
+      <edge source="DE3822376" target="G02C7-02" id="155" />
+      <edge source="DE3822376" target="G02C7-06" id="156" />
+      <edge source="FR2617989" target="G02C7-02" id="157" />
+      <edge source="FR2617989" target="G02C7-06" id="158" />
+      <edge source="GB2206978" target="G02C7-02" id="159" />
+      <edge source="GB2206978" target="G02C7-06" id="160" />
+      <edge source="IT1223668" target="G02C7-02" id="161" />
+      <edge source="IT1223668" target="G02C7-06" id="162" />
+      <edge source="JPS6432227" target="G02C7-02" id="163" />
+      <edge source="JPS6432227" target="G02C7-06" id="164" />
+      <edge source="JPH0520729" target="G02C7-02" id="165" />
+      <edge source="JPH0520729" target="G02C7-06" id="166" />
+      <edge source="SG121392" target="G02C7-02" id="167" />
+      <edge source="SG121392" target="G02C7-06" id="168" />
+      <edge source="US4838674" target="G02C7-02" id="169" />
+      <edge source="US4838674" target="G02C7-06" id="170" />
+      <edge source="CA1256700" target="B24B13-005" id="171" />
+      <edge source="B24B13-" target="B24B13-005" id="172" />
+      <edge source="B24B" target="B24B13-" id="173" />
+      <edge source="B24B" target="B24B13" id="174" />
+      <edge source="B24B" target="B24B9" id="175" />
+      <edge source="B24B" target="B24B9-1" id="176" />
+      <edge source="B" target="B24B" id="177" />
+      <edge source="B" target="B29D" id="178" />
+      <edge source="B24B13" target="B24B13-005" id="179" />
+      <edge source="EP0191689" target="B24B13-005" id="180" />
+      <edge source="FR2576820" target="B24B13-005" id="181" />
+      <edge source="JPS61178166" target="B24B13-005" id="182" />
+      <edge source="JPH0661690" target="B24B13-005" id="183" />
+      <edge source="US4714232" target="B24B13-005" id="184" />
+      <edge source="CA989177" target="G02C7" id="185" />
+      <edge source="CA989177" target="B24B13" id="186" />
+      <edge source="CA989177" target="B24B9" id="187" />
+      <edge source="CA989177" target="B29D11" id="188" />
+      <edge source="B29D" target="B29D11" id="189" />
+      <edge source="B24B9" target="B24B9-14" id="190" />
+      <edge source="AU5564073" target="G02C7" id="191" />
+      <edge source="AU5564073" target="B24B13" id="192" />
+      <edge source="AU5564073" target="B24B9" id="193" />
+      <edge source="AU5564073" target="B29D11" id="194" />
+      <edge source="AU472771" target="G02C7" id="195" />
+      <edge source="AU472771" target="B24B13" id="196" />
+      <edge source="AU472771" target="B24B9" id="197" />
+      <edge source="AU472771" target="B29D11" id="198" />
+      <edge source="BE799653" target="G02C7" id="199" />
+      <edge source="BE799653" target="B24B13" id="200" />
+      <edge source="BE799653" target="B24B9" id="201" />
+      <edge source="BE799653" target="B29D11" id="202" />
+      <edge source="CH569297" target="G02C7" id="203" />
+      <edge source="CH569297" target="B24B13" id="204" />
+      <edge source="CH569297" target="B24B9" id="205" />
+      <edge source="CH569297" target="B29D11" id="206" />
+      <edge source="DE2323439" target="G02C7" id="207" />
+      <edge source="DE2323439" target="B24B13" id="208" />
+      <edge source="DE2323439" target="B24B9" id="209" />
+      <edge source="DE2323439" target="B29D11" id="210" />
+      <edge source="FR2184473" target="G02C7" id="211" />
+      <edge source="FR2184473" target="B24B13" id="212" />
+      <edge source="FR2184473" target="B24B9" id="213" />
+      <edge source="FR2184473" target="B29D11" id="214" />
+      <edge source="GB1372816" target="G02C7" id="215" />
+      <edge source="GB1372816" target="B24B13" id="216" />
+      <edge source="GB1372816" target="B24B9" id="217" />
+      <edge source="GB1372816" target="B29D11" id="218" />
+      <edge source="IT987677" target="G02C7" id="219" />
+      <edge source="IT987677" target="B24B13" id="220" />
+      <edge source="IT987677" target="B24B9" id="221" />
+      <edge source="IT987677" target="B29D11" id="222" />
+      <edge source="JPS4956644" target="G02C7" id="223" />
+      <edge source="JPS4956644" target="B24B13" id="224" />
+      <edge source="JPS4956644" target="B24B9" id="225" />
+      <edge source="JPS4956644" target="B29D11" id="226" />
+      <edge source="NL7306965" target="G02C7" id="227" />
+      <edge source="NL7306965" target="B24B13" id="228" />
+      <edge source="NL7306965" target="B24B9" id="229" />
+      <edge source="NL7306965" target="B29D11" id="230" />
+      <edge source="US3877184" target="G02C7" id="231" />
+      <edge source="US3877184" target="B24B13" id="232" />
+      <edge source="US3877184" target="B24B9" id="233" />
+      <edge source="US3877184" target="B29D11" id="234" />
+      <edge source="CA931760" target="B24B9-14" id="235" />
+      <edge source="B24B9-1" target="B24B9-14" id="236" />
+      <edge source="BE761834" target="B24B9-14" id="237" />
+      <edge source="CH528964" target="B24B9-14" id="238" />
+      <edge source="DE2102820" target="B24B9-14" id="239" />
+      <edge source="FR2076643" target="B24B9-14" id="240" />
+      <edge source="GB1343301" target="B24B9-14" id="241" />
+      <edge source="JPS5613583" target="B24B9-14" id="242" />
+      <edge source="NL7100827" target="B24B9-14" id="243" />
+      <edge source="US3750272" target="B24B9-14" id="244" />
+    </edges>
+  </graph>
+</gexf>
+

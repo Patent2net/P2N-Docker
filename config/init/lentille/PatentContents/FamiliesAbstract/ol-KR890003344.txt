@@ -1,0 +1,2 @@
+**** *Label_KR890003344 *Country_KR *CIB3_A61 *CIB1_A *CIB4_A61F *Date_1989 *Applicant_empty *Kind_A *InventCountry_empty *ApplCountry_empty 
+내용 없음

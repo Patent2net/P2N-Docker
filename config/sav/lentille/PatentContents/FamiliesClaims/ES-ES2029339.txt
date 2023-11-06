@@ -1,0 +1,9 @@
+**** *Label_ES2029339.txt *Country_E *CIB3_A61 *CIB1_A *CIB4_A61F *Date_1992 *Applicant_empty *Kind_T3 *InventCountry_empty *ApplCountry_empty 
+1. Implante intraocular de cámara posterior, del tipo intracapsular, constituido por una parte central (21) que forma la lentilla ypor una parte de apoyo 22 elástica en forma de corona circular cerrada,caracterizado porque la parte de apoyo (22) está unida a la parte central(21) por una sola fijación (24), formada de una sola pieza con la partede apoyo (22) y la parte central (21), y que presenta una anchura relativamente importante con respecto a la de la parte de apoyo, y porque lafijación 24 está inclinada con respecto a la parte central (21).
+2. Implante según la reivindicación 1, caracterizado porque laanchura de la fijación (24) es aproximadamente diez veces superior a lade la parte de apoyo (22).
+3. Implante según la reivindicación 1 o la reivindicación 2,caracterizado porque la fijación (24) está provista de un orificio nopasante (25).
+4. Implante según cualquiera de las reivindicaciones 1 a 3,caracterizado porque el ángulo de inclinación de la fijación (24) conrespecto a la parte central (21) es de aproximadamente 35º.
+5. Implante según cualquiera de las reivindicaciones 1 a 4,caracterizado porque la parte central (21) tiene forma de menisco.
+6. Implante según una de las reivindicaciones 1 a 3, caracterizado porque la parte central que forma la lentilla presenta una formabiconvexa.
+7. Implante según la reivindicación 6, caracterizado porque elángulo de inclinación de la fijación (24) con respecto a la parte central(21) es de aproximadamente 20º.
+8. Implante según la reivindicación 6 o la reivindicación 7,caracterizado porque la relación del radio de la cara delantera sobre elradio de la cara posterior de esta parte central es de aproximadamente1/2.

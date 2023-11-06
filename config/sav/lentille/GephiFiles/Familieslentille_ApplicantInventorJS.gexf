@@ -1,0 +1,1337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2022-05-03">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="category" type="string" />
+      <attribute id="1" title="Famille" type="long" />
+      <attribute id="2" title="IPC11-range" type="long" />
+      <attribute id="3" title="IPC7-range" type="long" />
+      <attribute id="4" title="IPC4-range" type="long" />
+      <attribute id="5" title="IPCDiversity" type="long" />
+      <attribute id="6" title="IPCForce" type="long" />
+      <attribute id="7" title="Citations" type="long" />
+      <attribute id="8" title="NbBrevets" type="long" />
+      <attribute id="9" title="type" type="string" />
+      <attribute id="10" title="url" type="string" />
+      <attribute id="11" title="MedFamille" type="double" />
+      <attribute id="12" title="MedIPC11-range" type="double" />
+      <attribute id="13" title="MedIPC7-range" type="double" />
+      <attribute id="14" title="MedIPC4-range" type="double" />
+      <attribute id="15" title="MedIPCDiversity" type="double" />
+      <attribute id="16" title="MedIPCForce" type="double" />
+      <attribute id="17" title="MedCitations" type="double" />
+      <attribute id="18" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="BNL EUROLENS" label="BNL EUROLENS">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="-276" y="361" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="10" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="10" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22BNL%20EUROLENS%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.1" />
+          <attvalue for="13" value="0.2" />
+          <attvalue for="14" value="0.1" />
+          <attvalue for="15" value="0.1" />
+          <attvalue for="16" value="0.1" />
+          <attvalue for="17" value="0.2" />
+          <attvalue for="18" value="0" />
+        </attvalues>
+      </node>
+      <node id="Martins Sebastien" label="Martins Sebastien">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-633" y="-180" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="2" />
+          <attvalue for="1" value="10" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="10" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="10" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Martins%20Sebastien%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="0" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.1" />
+          <attvalue for="13" value="0.2" />
+          <attvalue for="14" value="0.1" />
+          <attvalue for="15" value="0.1" />
+          <attvalue for="16" value="0.1" />
+          <attvalue for="17" value="0.2" />
+        </attvalues>
+      </node>
+      <node id="PHYSIOL S A" label="PHYSIOL S A">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="-211" y="-431" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="12" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="12" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22PHYSIOL%20S%20A%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.16666666666666666" />
+          <attvalue for="13" value="0.3333333333333333" />
+          <attvalue for="14" value="0.08333333333333333" />
+          <attvalue for="15" value="0.08333333333333333" />
+          <attvalue for="16" value="0.08333333333333333" />
+          <attvalue for="17" value="0.08333333333333333" />
+          <attvalue for="18" value="1" />
+        </attvalues>
+      </node>
+      <node id="Julien Laurent Vidal" label="Julien Laurent Vidal">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="629" y="-352" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="1" />
+          <attvalue for="1" value="16" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="16" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="17" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Julien%20Laurent%20Vidal%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="3" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.125" />
+          <attvalue for="13" value="0.25" />
+          <attvalue for="14" value="0.0625" />
+          <attvalue for="15" value="0.0625" />
+          <attvalue for="16" value="0.0625" />
+          <attvalue for="17" value="0.0625" />
+        </attvalues>
+      </node>
+      <node id="Jean Pascal Yves Delay" label="Jean Pascal Yves Delay">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="14" y="-448" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="1" />
+          <attvalue for="1" value="16" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="16" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="17" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Jean%20Pascal%20Yves%20Delay%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="4" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.125" />
+          <attvalue for="13" value="0.25" />
+          <attvalue for="14" value="0.0625" />
+          <attvalue for="15" value="0.0625" />
+          <attvalue for="16" value="0.0625" />
+          <attvalue for="17" value="0.0625" />
+        </attvalues>
+      </node>
+      <node id="Christophe Pagnoulle" label="Christophe Pagnoulle">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="593" y="287" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="1" />
+          <attvalue for="1" value="16" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="16" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="17" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Christophe%20Pagnoulle%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="5" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.125" />
+          <attvalue for="13" value="0.25" />
+          <attvalue for="14" value="0.0625" />
+          <attvalue for="15" value="0.0625" />
+          <attvalue for="16" value="0.0625" />
+          <attvalue for="17" value="0.0625" />
+        </attvalues>
+      </node>
+      <node id="Bozukova Dimitriya" label="Bozukova Dimitriya">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-99" y="-477" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="1" />
+          <attvalue for="1" value="16" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="16" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="18" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Bozukova%20Dimitriya%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="5" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.125" />
+          <attvalue for="13" value="0.25" />
+          <attvalue for="14" value="0.0625" />
+          <attvalue for="15" value="0.0625" />
+          <attvalue for="16" value="0.0625" />
+          <attvalue for="17" value="0.0625" />
+        </attvalues>
+      </node>
+      <node id="Bozukova Dimitriya Yordanova" label="Bozukova Dimitriya Yordanova">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="305" y="440" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Bozukova%20Dimitriya%20Yordanova%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="2.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="1.0" />
+          <attvalue for="17" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="PHYSIOL SA" label="PHYSIOL SA">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="690" y="13" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="6" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="6" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22PHYSIOL%20SA%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.16666666666666666" />
+          <attvalue for="13" value="0.3333333333333333" />
+          <attvalue for="14" value="0.16666666666666666" />
+          <attvalue for="15" value="0.16666666666666666" />
+          <attvalue for="16" value="0.16666666666666666" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0" />
+        </attvalues>
+      </node>
+      <node id="PHYSIOL" label="PHYSIOL">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="639" y="136" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22P%20H%20Y%20S%20I%20O%20L%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.0" />
+          <attvalue for="13" value="0.0" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="0.0" />
+          <attvalue for="16" value="0.0" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="1" />
+        </attvalues>
+      </node>
+      <node id="LIEGE SCIENCE PARK" label="LIEGE SCIENCE PARK">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="-151" y="437" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22LIEGE%20SCIENCE%20PARK%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.0" />
+          <attvalue for="13" value="0.0" />
+          <attvalue for="14" value="0.0" />
+          <attvalue for="15" value="0.0" />
+          <attvalue for="16" value="0.0" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="2" />
+        </attvalues>
+      </node>
+      <node id="FIZIOL S A" label="FIZIOL S A">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="419" y="330" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22FIZIOL%20S%20A%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="2.0" />
+          <attvalue for="13" value="4.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="2.0" />
+          <attvalue for="16" value="2.0" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0" />
+        </attvalues>
+      </node>
+      <node id="Dele Zhan Paskal Iv" label="Dele Zhan Paskal Iv">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="729" y="142" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="2" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Dele%20Zhan%20Paskal%20Iv%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="2.0" />
+          <attvalue for="13" value="4.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="2.0" />
+          <attvalue for="16" value="2.0" />
+          <attvalue for="17" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Panyuj Kristof" label="Panyuj Kristof">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="260" y="508" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="2" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Panyuj%20Kristof%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="2" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="2.0" />
+          <attvalue for="13" value="4.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="2.0" />
+          <attvalue for="16" value="2.0" />
+          <attvalue for="17" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Vidal Zhyulen Loran" label="Vidal Zhyulen Loran">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="727" y="248" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="2" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Vidal%20Zhyulen%20Loran%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="2.0" />
+          <attvalue for="13" value="4.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="2.0" />
+          <attvalue for="16" value="2.0" />
+          <attvalue for="17" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="VALEO VISION" label="VALEO VISION">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="499" y="98" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="4" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22VALEO%20VISION%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="4.0" />
+          <attvalue for="13" value="7.0" />
+          <attvalue for="14" value="4.0" />
+          <attvalue for="15" value="4.0" />
+          <attvalue for="16" value="4.0" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0" />
+        </attvalues>
+      </node>
+      <node id="Godbillon Vincent" label="Godbillon Vincent">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-654" y="-285" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="4" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Godbillon%20Vincent%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="4.0" />
+          <attvalue for="13" value="7.0" />
+          <attvalue for="14" value="4.0" />
+          <attvalue for="15" value="4.0" />
+          <attvalue for="16" value="4.0" />
+          <attvalue for="17" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Albou Pierre" label="Albou Pierre">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="206" y="-385" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="4" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Albou%20Pierre%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="2" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="4.0" />
+          <attvalue for="13" value="7.0" />
+          <attvalue for="14" value="4.0" />
+          <attvalue for="15" value="4.0" />
+          <attvalue for="16" value="4.0" />
+          <attvalue for="17" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Puente Jean Claude" label="Puente Jean Claude">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-437" y="338" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="4" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Puente%20Jean%20Claude%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="4.0" />
+          <attvalue for="13" value="7.0" />
+          <attvalue for="14" value="4.0" />
+          <attvalue for="15" value="4.0" />
+          <attvalue for="16" value="4.0" />
+          <attvalue for="17" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Yang Jansen" label="Yang Jansen">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="399" y="-278" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="3" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Yang%20Jansen%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="3.0" />
+          <attvalue for="13" value="4.0" />
+          <attvalue for="14" value="2.0" />
+          <attvalue for="15" value="3.0" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Chen Hong" label="Chen Hong">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="141" y="425" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="3" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Chen%20Hong%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="3.0" />
+          <attvalue for="13" value="4.0" />
+          <attvalue for="14" value="2.0" />
+          <attvalue for="15" value="3.0" />
+          <attvalue for="16" value="3.0" />
+          <attvalue for="17" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Cohen Gilbert" label="Cohen Gilbert">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-551" y="314" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="6" />
+          <attvalue for="1" value="8" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="8" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="8" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Cohen%20Gilbert%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.25" />
+          <attvalue for="13" value="0.375" />
+          <attvalue for="14" value="0.25" />
+          <attvalue for="15" value="0.125" />
+          <attvalue for="16" value="0.125" />
+          <attvalue for="17" value="0.75" />
+        </attvalues>
+      </node>
+      <node id="IND ACADEMIC COOP" label="IND ACADEMIC COOP">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="-651" y="342" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="13" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22IND%20ACADEMIC%20COOP%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.5" />
+          <attvalue for="13" value="1.0" />
+          <attvalue for="14" value="0.5" />
+          <attvalue for="15" value="0.5" />
+          <attvalue for="16" value="0.5" />
+          <attvalue for="17" value="6.5" />
+          <attvalue for="18" value="0" />
+        </attvalues>
+      </node>
+      <node id="Kang Shinill" label="Kang Shinill">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="53" y="504" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="10" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Kang%20Shinill%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="2.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="1.0" />
+          <attvalue for="17" value="10.0" />
+        </attvalues>
+      </node>
+      <node id="Kim Byungwook" label="Kim Byungwook">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="391" y="-417" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="10" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Kim%20Byungwook%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="2.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="1.0" />
+          <attvalue for="17" value="10.0" />
+        </attvalues>
+      </node>
+      <node id="Kim Byung Wook" label="Kim Byung Wook">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-34" y="446" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="3" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Kim%20Byung%20Wook%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="2.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="1.0" />
+          <attvalue for="17" value="3.0" />
+        </attvalues>
+      </node>
+      <node id="Kang Shin Ill" label="Kang Shin Ill">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="91" y="-486" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="3" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Kang%20Shin%20Ill%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="2.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="1.0" />
+          <attvalue for="17" value="3.0" />
+        </attvalues>
+      </node>
+      <node id="TOP ENG CO LTD" label="TOP ENG CO LTD">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="-445" y="446" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="5" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="4" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22TOP%20ENG%20CO%20LTD%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.5" />
+          <attvalue for="13" value="0.5" />
+          <attvalue for="14" value="0.25" />
+          <attvalue for="15" value="0.5" />
+          <attvalue for="16" value="0.5" />
+          <attvalue for="17" value="0.75" />
+          <attvalue for="18" value="0" />
+        </attvalues>
+      </node>
+      <node id="Kim Jun Young" label="Kim Jun Young">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="591" y="367" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Kim%20Jun%20Young%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="0" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="2.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="1.0" />
+          <attvalue for="17" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="Kim Joon Young" label="Kim Joon Young">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="285" y="-491" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="4" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Kim%20Joon%20Young%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="2" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.6666666666666666" />
+          <attvalue for="13" value="0.6666666666666666" />
+          <attvalue for="14" value="0.3333333333333333" />
+          <attvalue for="15" value="0.6666666666666666" />
+          <attvalue for="16" value="0.6666666666666666" />
+          <attvalue for="17" value="0.6666666666666666" />
+        </attvalues>
+      </node>
+      <node id="Jin Myung Jin" label="Jin Myung Jin">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-671" y="155" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="3" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Jin%20Myung%20Jin%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="1.0" />
+          <attvalue for="14" value="0.5" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="1.0" />
+          <attvalue for="17" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="Kim Jung Wook" label="Kim Jung Wook">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-734" y="-78" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="3" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Kim%20Jung%20Wook%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="1" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="1.0" />
+          <attvalue for="14" value="0.5" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="1.0" />
+          <attvalue for="17" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="DOMILENS LAB" label="DOMILENS LAB">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="-659" y="54" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="6" />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="6" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22DOMILENS%20LAB%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.16666666666666666" />
+          <attvalue for="13" value="0.3333333333333333" />
+          <attvalue for="14" value="0.16666666666666666" />
+          <attvalue for="15" value="0.16666666666666666" />
+          <attvalue for="16" value="0.16666666666666666" />
+          <attvalue for="17" value="1.3333333333333333" />
+          <attvalue for="18" value="0" />
+        </attvalues>
+      </node>
+      <node id="Charleux Jacques" label="Charleux Jacques">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="504" y="-425" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="8" />
+          <attvalue for="1" value="8" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="8" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="8" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Charleux%20Jacques%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="0" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.125" />
+          <attvalue for="13" value="0.25" />
+          <attvalue for="14" value="0.125" />
+          <attvalue for="15" value="0.125" />
+          <attvalue for="16" value="0.125" />
+          <attvalue for="17" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="DOMILENS LABORATOIRES" label="DOMILENS LABORATOIRES">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="-285" y="-283" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22DOMILENS%20LABORATOIRES%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="2.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="1.0" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0" />
+        </attvalues>
+      </node>
+      <node id="RABO DOMIRAN" label="RABO DOMIRAN">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="434" y="432" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22RABO%20DOMIRAN%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="2.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="1.0" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0" />
+        </attvalues>
+      </node>
+      <node id="Jiyatsuku Shiyaruroo" label="Jiyatsuku Shiyaruroo">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="528" y="-183" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Jiyatsuku%20Shiyaruroo%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="0" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="2.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="1.0" />
+          <attvalue for="17" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="ESSILOR INT" label="ESSILOR INT">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="-730" y="-203" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="26" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="96" />
+          <attvalue for="8" value="26" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22ESSILOR%20INT%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.15384615384615385" />
+          <attvalue for="13" value="0.2692307692307692" />
+          <attvalue for="14" value="0.11538461538461539" />
+          <attvalue for="15" value="0.038461538461538464" />
+          <attvalue for="16" value="0.038461538461538464" />
+          <attvalue for="17" value="3.6923076923076925" />
+          <attvalue for="18" value="1" />
+        </attvalues>
+      </node>
+      <node id="Dufour Maurice" label="Dufour Maurice">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-401" y="-424" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="33" />
+          <attvalue for="1" value="8" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="8" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="16" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Dufour%20Maurice%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="0" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.25" />
+          <attvalue for="13" value="0.25" />
+          <attvalue for="14" value="0.125" />
+          <attvalue for="15" value="0.25" />
+          <attvalue for="16" value="0.25" />
+          <attvalue for="17" value="4.125" />
+        </attvalues>
+      </node>
+      <node id="Moorisu Doufuuru" label="Moorisu Doufuuru">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-592" y="214" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="5" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="2" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Moorisu%20Doufuuru%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="0" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="2.0" />
+          <attvalue for="13" value="2.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="2.0" />
+          <attvalue for="16" value="2.0" />
+          <attvalue for="17" value="5.0" />
+        </attvalues>
+      </node>
+      <node id="Blot Gerard" label="Blot Gerard">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-498" y="-385" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="17" />
+          <attvalue for="1" value="4" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="4" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="4" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Blot%20Gerard%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="0" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.25" />
+          <attvalue for="13" value="0.5" />
+          <attvalue for="14" value="0.25" />
+          <attvalue for="15" value="0.25" />
+          <attvalue for="16" value="0.25" />
+          <attvalue for="17" value="4.25" />
+        </attvalues>
+      </node>
+      <node id="Jieraaru Buro" label="Jieraaru Buro">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-565" y="-326" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="3" />
+          <attvalue for="1" value="1" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Jieraaru%20Buro%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="0" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="1.0" />
+          <attvalue for="13" value="2.0" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="1.0" />
+          <attvalue for="17" value="3.0" />
+        </attvalues>
+      </node>
+      <node id="Gerard Gomond" label="Gerard Gomond">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-288" y="-467" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="2" />
+          <attvalue for="1" value="5" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="5" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Gerard%20Gomond%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="2" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.2" />
+          <attvalue for="13" value="1.0" />
+          <attvalue for="14" value="0.6" />
+          <attvalue for="15" value="0.2" />
+          <attvalue for="16" value="0.2" />
+          <attvalue for="17" value="0.4" />
+        </attvalues>
+      </node>
+      <node id="Billault Pierre" label="Billault Pierre">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="-293" y="428" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="2" />
+          <attvalue for="1" value="4" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="4" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Billault%20Pierre%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="2" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.0" />
+          <attvalue for="13" value="1.0" />
+          <attvalue for="14" value="0.75" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="1.0" />
+          <attvalue for="17" value="0.5" />
+        </attvalues>
+      </node>
+      <node id="ESSILOR INTERNA IONAL FR" label="ESSILOR INTERNA IONAL FR">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="-619" y="-56" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22ESSILOR%20INTERNA%20IONAL%20FR%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.0" />
+          <attvalue for="13" value="4.0" />
+          <attvalue for="14" value="3.0" />
+          <attvalue for="15" value="4.0" />
+          <attvalue for="16" value="4.0" />
+          <attvalue for="17" value="3.0" />
+          <attvalue for="18" value="1" />
+        </attvalues>
+      </node>
+      <node id="ESSILOR INT CIE" label="ESSILOR INT CIE">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="-749" y="59" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22ESSILOR%20INT%20CIE%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.0" />
+          <attvalue for="13" value="4.0" />
+          <attvalue for="14" value="3.0" />
+          <attvalue for="15" value="4.0" />
+          <attvalue for="16" value="4.0" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0" />
+        </attvalues>
+      </node>
+      <node id="LUNETTERIE ET D OPTIQUE RATION" label="LUNETTERIE ET D OPTIQUE RATION">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="721" y="-257" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="3" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22LUNETTERIE%20ET%20D%20OPTIQUE%20RATION%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.3333333333333333" />
+          <attvalue for="13" value="1.0" />
+          <attvalue for="14" value="0.6666666666666666" />
+          <attvalue for="15" value="0.3333333333333333" />
+          <attvalue for="16" value="0.3333333333333333" />
+          <attvalue for="17" value="0.0" />
+          <attvalue for="18" value="0" />
+        </attvalues>
+      </node>
+      <node id="Gomond G" label="Gomond G">
+        <viz:color a="1" b="254" g="127" r="127" />
+        <viz:shape value="triangleDown" />
+        <viz:position x="750" y="-124" z="0.0" />
+        <attvalues>
+          <attvalue for="7" value="30" />
+          <attvalue for="1" value="2" />
+          <attvalue for="0" value="Inventor" />
+          <attvalue for="8" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="2" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22Gomond%20G%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="18" value="0" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.5" />
+          <attvalue for="13" value="1.5" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="0.5" />
+          <attvalue for="16" value="0.5" />
+          <attvalue for="17" value="15.0" />
+        </attvalues>
+      </node>
+      <node id="SILOR" label="SILOR">
+        <viz:color a="0" b="127" g="0" r="127" />
+        <viz:shape value="disc" />
+        <viz:position x="626" y="-82" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Applicant" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="Applicant" />
+          <attvalue for="10" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=advanced&amp;IN=%22S%20I%20L%20O%20R%22&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="11" value="1.0" />
+          <attvalue for="12" value="0.5" />
+          <attvalue for="13" value="1.5" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="0.5" />
+          <attvalue for="16" value="0.5" />
+          <attvalue for="17" value="4.5" />
+          <attvalue for="18" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" label="workfor" source="Martins Sebastien" target="BNL EUROLENS" />
+      <edge id="1" label="AuthorCollaboration" source="Julien Laurent Vidal" target="Jean Pascal Yves Delay" />
+      <edge id="2" label="workfor" source="Julien Laurent Vidal" target="PHYSIOL S A" />
+      <edge id="3" label="AuthorCollaboration" source="Julien Laurent Vidal" target="Christophe Pagnoulle" />
+      <edge id="4" label="workfor" source="Julien Laurent Vidal" target="PHYSIOL SA" />
+      <edge id="5" label="AuthorCollaboration" source="Jean Pascal Yves Delay" target="Christophe Pagnoulle" />
+      <edge id="6" label="workfor" source="Jean Pascal Yves Delay" target="PHYSIOL S A" />
+      <edge id="7" label="workfor" source="Jean Pascal Yves Delay" target="PHYSIOL SA" />
+      <edge id="8" label="AuthorCollaboration" source="Christophe Pagnoulle" target="Bozukova Dimitriya" />
+      <edge id="9" label="workfor" source="Christophe Pagnoulle" target="PHYSIOL S A" />
+      <edge id="10" label="AuthorCollaboration" source="Christophe Pagnoulle" target="Bozukova Dimitriya Yordanova" />
+      <edge id="11" label="AuthorCollaboration" source="Christophe Pagnoulle" target="Jean Pascal Yves Delay" />
+      <edge id="12" label="workfor" source="Christophe Pagnoulle" target="PHYSIOL SA" />
+      <edge id="13" label="workfor" source="Bozukova Dimitriya" target="PHYSIOL S A" />
+      <edge id="14" label="AuthorCollaboration" source="Bozukova Dimitriya" target="Julien Laurent Vidal" />
+      <edge id="15" label="workfor" source="Bozukova Dimitriya" target="PHYSIOL SA" />
+      <edge id="16" label="AuthorCollaboration" source="Bozukova Dimitriya" target="Jean Pascal Yves Delay" />
+      <edge id="17" label="AuthorCollaboration" source="Bozukova Dimitriya" target="Vidal Zhyulen Loran" />
+      <edge id="18" label="workfor" source="Bozukova Dimitriya" target="FIZIOL S A" />
+      <edge id="19" label="workfor" source="Bozukova Dimitriya Yordanova" target="PHYSIOL S A" />
+      <edge id="20" label="ApplicantCollaboration" source="PHYSIOL" target="LIEGE SCIENCE PARK" />
+      <edge id="21" label="ApplicantCollaboration" source="LIEGE SCIENCE PARK" target="PHYSIOL S A" />
+      <edge id="22" label="AuthorCollaboration" source="Dele Zhan Paskal Iv" target="Panyuj Kristof" />
+      <edge id="23" label="workfor" source="Dele Zhan Paskal Iv" target="FIZIOL S A" />
+      <edge id="24" label="AuthorCollaboration" source="Panyuj Kristof" target="Bozukova Dimitriya" />
+      <edge id="25" label="workfor" source="Panyuj Kristof" target="FIZIOL S A" />
+      <edge id="26" label="workfor" source="Vidal Zhyulen Loran" target="FIZIOL S A" />
+      <edge id="27" label="AuthorCollaboration" source="Godbillon Vincent" target="Albou Pierre" />
+      <edge id="28" label="workfor" source="Godbillon Vincent" target="VALEO VISION" />
+      <edge id="29" label="AuthorCollaboration" source="Albou Pierre" target="Puente Jean Claude" />
+      <edge id="30" label="workfor" source="Albou Pierre" target="VALEO VISION" />
+      <edge id="31" label="workfor" source="Puente Jean Claude" target="VALEO VISION" />
+      <edge id="32" label="AuthorCollaboration" source="Yang Jansen" target="Chen Hong" />
+      <edge id="33" label="AuthorCollaboration" source="Cohen Gilbert" target="Cohen Gilbert" />
+      <edge id="34" label="AuthorCollaboration" source="Kang Shinill" target="Kim Byungwook" />
+      <edge id="35" label="workfor" source="Kang Shinill" target="IND ACADEMIC COOP" />
+      <edge id="36" label="workfor" source="Kim Byungwook" target="IND ACADEMIC COOP" />
+      <edge id="37" label="AuthorCollaboration" source="Kim Byung Wook" target="Kang Shin Ill" />
+      <edge id="38" label="workfor" source="Kim Byung Wook" target="IND ACADEMIC COOP" />
+      <edge id="39" label="workfor" source="Kang Shin Ill" target="IND ACADEMIC COOP" />
+      <edge id="40" label="workfor" source="Kim Jun Young" target="TOP ENG CO LTD" />
+      <edge id="41" label="workfor" source="Kim Joon Young" target="TOP ENG CO LTD" />
+      <edge id="42" label="AuthorCollaboration" source="Kim Joon Young" target="Kim Jung Wook" />
+      <edge id="43" label="AuthorCollaboration" source="Jin Myung Jin" target="Kim Joon Young" />
+      <edge id="44" label="workfor" source="Jin Myung Jin" target="TOP ENG CO LTD" />
+      <edge id="45" label="workfor" source="Kim Jung Wook" target="TOP ENG CO LTD" />
+      <edge id="46" label="workfor" source="Charleux Jacques" target="DOMILENS LAB" />
+      <edge id="47" label="workfor" source="Charleux Jacques" target="DOMILENS LABORATOIRES" />
+      <edge id="48" label="workfor" source="Jiyatsuku Shiyaruroo" target="RABO DOMIRAN" />
+      <edge id="49" label="workfor" source="Dufour Maurice" target="ESSILOR INT" />
+      <edge id="50" label="workfor" source="Moorisu Doufuuru" target="ESSILOR INT" />
+      <edge id="51" label="workfor" source="Blot Gerard" target="ESSILOR INT" />
+      <edge id="52" label="workfor" source="Jieraaru Buro" target="ESSILOR INT" />
+      <edge id="53" label="AuthorCollaboration" source="Gerard Gomond" target="Billault Pierre" />
+      <edge id="54" label="workfor" source="Gerard Gomond" target="ESSILOR INT" />
+      <edge id="55" label="workfor" source="Gerard Gomond" target="LUNETTERIE ET D OPTIQUE RATION" />
+      <edge id="56" label="workfor" source="Billault Pierre" target="ESSILOR INT" />
+      <edge id="57" label="AuthorCollaboration" source="Billault Pierre" target="Gerard Gomond" />
+      <edge id="58" label="ApplicantCollaboration" source="ESSILOR INTERNA IONAL FR" target="ESSILOR INT" />
+      <edge id="59" label="workfor" source="Gomond G" target="LUNETTERIE ET D OPTIQUE RATION" />
+      <edge id="60" label="workfor" source="Gomond G" target="ESSILOR INT" />
+    </edges>
+  </graph>
+</gexf>
+

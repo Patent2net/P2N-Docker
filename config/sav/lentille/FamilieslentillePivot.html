@@ -1,0 +1,148 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+		<meta charset="utf-8">
+
+        <link href="https://unpkg.com/tailwindcss@^1.4.6/dist/tailwind.min.css" rel="stylesheet">
+    
+        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+        <link rel="stylesheet" type="text/css" href="../../Patent2Net/media/pivottable/pivot.css">
+        <link rel="stylesheet" type="text/css" href="../../Patent2Net/media/pivottable/pivot.css">
+        <link rel="stylesheet" type="text/css" href="../../Patent2Net/media/pivottable/ext/c3.min.css">
+    
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/ext/plotly-basic-latest.min.js"></script>
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/ext/d3.min.js"></script>
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/ext/c3.min.js"></script>
+        
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/ext/jquery.min.js"></script>
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/ext/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/ext/jquery.ui.touch-punch.min.js"></script>
+
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/pivot.js"></script>
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/pivot.fr.js"></script>
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/pivot.pt.js"></script>
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/pivot.es.js"></script>
+
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/gchart_renderers.js"></script>
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/d3_renderers.js"></script>
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/c3_renderers.js"></script>   
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/plotly_renderers.js"></script> 
+        <script type="text/javascript" src="../../Patent2Net/media/pivottable/export_renderers.js"></script>
+        </head>
+
+
+    <body class="bg-gray-100 flex flex-col min-h-screen">
+        <script type="text/javascript">
+            google.load("visualization", "1", {packages:["corechart", "charteditor"]});
+            
+            $(function(){
+                var derivers = $.pivotUtilities.derivers;
+                var lingua = (navigator.language || navigator.userLanguage).split("-")[0];        
+                var renderers = $.extend(
+                    $.pivotUtilities.locales[lingua].renderers,
+                    $.pivotUtilities.c3_renderers,
+                    $.pivotUtilities.d3_renderers,
+                    $.pivotUtilities.plotly_renderers,
+                    gchart_renderers,
+                    $.pivotUtilities.export_renderers
+                );
+                if (lingua == "pt") {
+                    rendererName = "Bar Chart";
+                    aggregatorName = "Contagem de Valores únicos";
+                } else if (lingua == "fr") {
+                    rendererName = "Bar Chart";
+                    aggregatorName = "Nombre de valeurs uniques";
+                }
+                else if (lingua == "es") {
+                    var lingua="es",
+                        rendererName = "Bar Chart";
+                        aggregatorName = "Cuenta de valores únicos";
+                }
+                else {
+                    aggregatorName = "Count Unique Values";
+                    rendererName = "Bar	Chart"
+                }	 
+
+                $.getJSON("FamilieslentillePivot.json", function(mps) {
+                    $("#output").pivotUI(mps, {
+                        renderers: renderers,
+                        "derivedAttributes": {},
+                        "hiddenAttributes": [],
+                        "hiddenFromAggregators": [],
+                        "hiddenFromDragDrop": [],
+                        "menuLimit": 10000,
+                        "cols": ["year"],
+                        "rows": [],
+                        "vals": ["label"],
+                        "rowOrder": "key_a_to_z",
+                        "colOrder": "key_a_to_z",
+                        "exclusions": {},
+                        "inclusions": {},
+                        "unusedAttrsVertical": 150,
+                        "autoSortUnusedAttrs": true,
+                        "showUI": true,
+                        "sorters": {},
+                        "inclusionsInfo": {},
+                        "rendererName" : rendererName,
+                        "aggregatorName": aggregatorName 
+                    },false, lingua);
+                });
+            });
+        </script>
+        <header class="bg-indigo-600 text-white py-10">
+            <section class="container mx-auto">
+                <h1 class="text-4xl font-semibold">Patent bibliographic data</h1> 
+                <span class="text-xl">""</span>
+            </section>
+        </header>
+        
+        <div id="output" class="flex-1"></div>
+        <style>
+            button {
+                margin: 2px 4px;
+                border-width: 1px;
+                border-radius: .25rem;
+                padding: 2px 8px;
+            }
+
+            select {
+                border-width: 1px;
+                border-radius: .25rem;
+            }
+
+            #output {
+                width: 100%;
+                padding: 40px;
+                overflow: auto;
+            }
+
+            #output .pvtUnused {
+                display: flex;
+                flex-wrap: wrap;
+            }
+
+            #output .pvtAxisContainer,
+            #output .pvtVals {
+                background-color: #ebf4ff;
+                box-sizing: border-box;
+                border-width: 1;
+                border-style: solid;
+                border-color: #e2e8f0;
+            }
+
+
+            #output .pvtAttr {
+                background-color: white;
+            }
+  
+        </style>
+        
+        <footer class="container mx-auto py-10">
+            <a href="https://github.com/nicolaskruchten/pivottable/wiki/UI-Tutorial">Support for the use of the interface</a>
+            </br><a href="http://patent2netv2.vlab4u.info/dokuwiki/doku.php?id=page">Patent2net documentation</a>
+        </footer>
+
+    </body>
+</html>

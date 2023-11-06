@@ -1,0 +1,2152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-05-14">
+    <creator>NetworkX 2.8</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="category" type="string" />
+      <attribute id="1" title="Famille" type="long" />
+      <attribute id="2" title="IPC11-range" type="long" />
+      <attribute id="3" title="IPC7-range" type="long" />
+      <attribute id="4" title="IPC4-range" type="long" />
+      <attribute id="5" title="Citations" type="long" />
+      <attribute id="6" title="url" type="string" />
+      <attribute id="7" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="CA3031583" label="CA3031583">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-730" y="145" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA3031583&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="BR112019001534" label="BR112019001534">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-672" y="-216" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BR112019001534&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="WO2018019833" label="WO2018019833">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="556" y="-193" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2018019833&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="AU2017303537" label="AU2017303537">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="612" y="146" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=AU2017303537&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="CN109791311" label="CN109791311">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="110" y="-505" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CN109791311&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="FR3054683" label="FR3054683">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-43" y="-509" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR3054683&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="EP3491462" label="EP3491462">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="651" y="-132" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP3491462&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="US2020285078" label="US2020285078">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-624" y="-333" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2020285078&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="US11054671" label="US11054671">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-63" y="394" z="0.0" />
+        <attvalues>
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="0" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US11054671&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="CA3021536" label="CA3021536">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-611" y="340" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA3021536&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="HUE048944T" label="HUE048944T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-543" y="245" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="KR20180137507" label="KR20180137507">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="705" y="-166" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR20180137507&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="ES2787021T" label="ES2787021T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-470" y="-113" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="CN109219420" label="CN109219420">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="667" y="91" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CN109219420&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="RU2018139274" label="RU2018139274">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="384" y="-443" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=RU2018139274&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="AU2017251980" label="AU2017251980">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="174" y="403" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=AU2017251980&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="PL3445287T" label="PL3445287T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="744" y="-71" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="JP2019514494" label="JP2019514494">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="199" y="484" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JP2019514494&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="WO2017182508" label="WO2017182508">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="726" y="53" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2017182508&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="BR112018071292" label="BR112018071292">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-162" y="435" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BR112018071292&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="DK3445287T" label="DK3445287T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-153" y="-507" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="US2020038176" label="US2020038176">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="573" y="266" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2020038176&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="PT3445287T" label="PT3445287T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="433" y="411" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="US2021068944" label="US2021068944">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-463" y="-356" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2021068944&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="EP3445287" label="EP3445287">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="303" y="439" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP3445287&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="BE1024131" label="BE1024131">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="312" y="-413" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BE1024131&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="14" />
+        </attvalues>
+      </node>
+      <node id="RU2735891" label="RU2735891">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-244" y="-313" z="0.0" />
+        <attvalues>
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="0" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=RU2735891&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="US10869754" label="US10869754">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-41" y="472" z="0.0" />
+        <attvalues>
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="0" value="label" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US10869754&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="CH681276" label="CH681276">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="690" y="-1" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CH681276&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="FR3013103" label="FR3013103">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="9" y="-476" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR3013103&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="WO2011015115" label="WO2011015115">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-755" y="41" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2011015115&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="CN101988689" label="CN101988689">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="693" y="292" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CN101988689&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="CA2694840" label="CA2694840">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-420" y="275" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA2694840&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="AT553722T" label="AT553722T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-564" y="-265" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="ES2388264T" label="ES2388264T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-723" y="91" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="FR2918557" label="FR2918557">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-538" y="-354" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2918557&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="CN101808594" label="CN101808594">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="608" y="361" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CN101808594&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="JP2010533017" label="JP2010533017">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-380" y="-379" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JP2010533017&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="WO2009043985" label="WO2009043985">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="239" y="418" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2009043985&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="US2011046727" label="US2011046727">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="462" y="333" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2011046727&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="EP2178461" label="EP2178461">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-706" y="-123" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP2178461&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="WO2007108663" label="WO2007108663">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-265" y="387" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="10" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007108663&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="KR20070096368" label="KR20070096368">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-667" y="-170" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR20070096368&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="WO2007091771" label="WO2007091771">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="628" y="-23" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007091771&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="KR20070080136" label="KR20070080136">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-547" y="158" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR20070080136&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="WO2007091761" label="WO2007091761">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="367" y="382" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007091761&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="KR20070080109" label="KR20070080109">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-220" y="454" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR20070080109&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="CA1298439" label="CA1298439">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-559" y="-13" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA1298439&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="US5041135" label="US5041135">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-399" y="357" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="5" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US5041135&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="ES2029339T" label="ES2029339T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-110" y="461" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="GR3003902T" label="GR3003902T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="400" y="233" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="EP0305255" label="EP0305255">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="74" y="490" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP0305255&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="AT72749T" label="AT72749T">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-715" y="-51" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="KR890003344" label="KR890003344">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="533" y="-339" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR890003344&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="FR2619004" label="FR2619004">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-641" y="-266" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2619004&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="BR8803876" label="BR8803876">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-612" y="68" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BR8803876&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="JPH0191858" label="JPH0191858">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="363" y="-359" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPH0191858&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="KR970001818" label="KR970001818">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="626" y="-228" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=KR970001818&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="CA1287993" label="CA1287993">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="23" y="457" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA1287993&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="GB2206978" label="GB2206978">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-266" y="-493" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="16" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=GB2206978&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="JPS6432227" label="JPS6432227">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-40" y="-356" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="5" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPS6432227&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="AU1870488" label="AU1870488">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="725" y="132" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=AU1870488&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="BR8803369" label="BR8803369">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="576" y="324" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BR8803369&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="SG121392G" label="SG121392G">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-200" y="-421" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="IT1223668" label="IT1223668">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="386" y="464" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=IT1223668&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="DE3822376" label="DE3822376">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="472" y="-238" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=DE3822376&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="US4838674" label="US4838674">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="216" y="-460" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="16" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US4838674&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="FR2617989" label="FR2617989">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-547" y="397" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2617989&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="JPH0520729" label="JPH0520729">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-363" y="405" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPH0520729&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="CA1256700" label="CA1256700">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-703" y="223" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA1256700&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="US4714232" label="US4714232">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-731" y="-3" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="12" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US4714232&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="FR2576820" label="FR2576820">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-297" y="-434" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2576820&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="JPS61178166" label="JPS61178166">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="697" y="204" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPS61178166&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="EP0191689" label="EP0191689">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="564" y="55" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="5" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP0191689&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="JPH0661690" label="JPH0661690">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-428" y="-224" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPH0661690&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="CA989177" label="CA989177">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-667" y="-95" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA989177&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="DE2323439" label="DE2323439">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="102" y="-455" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=DE2323439&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="NL7306965" label="NL7306965">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-457" y="377" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=NL7306965&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="FR2184473" label="FR2184473">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="640" y="-323" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2184473&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="BE799653" label="BE799653">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="111" y="439" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BE799653&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="GB1372816" label="GB1372816">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-668" y="276" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=GB1372816&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="IT987677" label="IT987677">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="576" y="-398" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=IT987677&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="JPS4956644" label="JPS4956644">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="222" y="-402" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPS4956644&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="US3877184" label="US3877184">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="471" y="-430" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US3877184&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="CH569297" label="CH569297">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="98" y="-393" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CH569297&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="AU5564073" label="AU5564073">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-552" y="314" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=AU5564073&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="CA931760" label="CA931760">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-294" y="433" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CA931760&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="US3750272" label="US3750272">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="523" y="411" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="30" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US3750272&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="FR2076643" label="FR2076643">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="611" y="-87" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=FR2076643&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="BE761834" label="BE761834">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-106" y="-456" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=BE761834&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="DE2102820" label="DE2102820">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="417" y="-302" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="6" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=DE2102820&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="NL7100827" label="NL7100827">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="680" y="-255" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=NL7100827&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="JPS5613583B" label="JPS5613583B">
+        <viz:color r="254" g="254" b="0" a="1" />
+        <viz:shape value="image" />
+        <viz:position x="-396" y="-453" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="equivalent" />
+        </attvalues>
+      </node>
+      <node id="CH528964" label="CH528964">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="612" y="212" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CH528964&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="GB1343301" label="GB1343301">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-671" y="177" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=GB1343301&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="JPS5613583" label="JPS5613583">
+        <viz:color r="254" g="0" b="0" a="0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-538" y="-428" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JPS5613583&amp;locale=en_EP&amp;DB=EPODOC" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="CA3031583" target="BR112019001534" id="0" />
+      <edge source="CA3031583" target="WO2018019833" id="1" />
+      <edge source="CA3031583" target="AU2017303537" id="2" />
+      <edge source="CA3031583" target="CN109791311" id="3" />
+      <edge source="CA3031583" target="FR3054683" id="4" />
+      <edge source="CA3031583" target="CA3031583" id="5" />
+      <edge source="CA3031583" target="EP3491462" id="6" />
+      <edge source="CA3031583" target="US2020285078" id="7" />
+      <edge source="BR112019001534" target="BR112019001534" id="8" />
+      <edge source="BR112019001534" target="WO2018019833" id="9" />
+      <edge source="BR112019001534" target="AU2017303537" id="10" />
+      <edge source="BR112019001534" target="CN109791311" id="11" />
+      <edge source="BR112019001534" target="FR3054683" id="12" />
+      <edge source="BR112019001534" target="CA3031583" id="13" />
+      <edge source="BR112019001534" target="EP3491462" id="14" />
+      <edge source="BR112019001534" target="US2020285078" id="15" />
+      <edge source="WO2018019833" target="BR112019001534" id="16" />
+      <edge source="WO2018019833" target="WO2018019833" id="17" />
+      <edge source="WO2018019833" target="AU2017303537" id="18" />
+      <edge source="WO2018019833" target="CN109791311" id="19" />
+      <edge source="WO2018019833" target="FR3054683" id="20" />
+      <edge source="WO2018019833" target="CA3031583" id="21" />
+      <edge source="WO2018019833" target="EP3491462" id="22" />
+      <edge source="WO2018019833" target="US2020285078" id="23" />
+      <edge source="AU2017303537" target="BR112019001534" id="24" />
+      <edge source="AU2017303537" target="WO2018019833" id="25" />
+      <edge source="AU2017303537" target="AU2017303537" id="26" />
+      <edge source="AU2017303537" target="CN109791311" id="27" />
+      <edge source="AU2017303537" target="FR3054683" id="28" />
+      <edge source="AU2017303537" target="CA3031583" id="29" />
+      <edge source="AU2017303537" target="EP3491462" id="30" />
+      <edge source="AU2017303537" target="US2020285078" id="31" />
+      <edge source="CN109791311" target="BR112019001534" id="32" />
+      <edge source="CN109791311" target="WO2018019833" id="33" />
+      <edge source="CN109791311" target="AU2017303537" id="34" />
+      <edge source="CN109791311" target="CN109791311" id="35" />
+      <edge source="CN109791311" target="FR3054683" id="36" />
+      <edge source="CN109791311" target="CA3031583" id="37" />
+      <edge source="CN109791311" target="EP3491462" id="38" />
+      <edge source="CN109791311" target="US2020285078" id="39" />
+      <edge source="FR3054683" target="BR112019001534" id="40" />
+      <edge source="FR3054683" target="WO2018019833" id="41" />
+      <edge source="FR3054683" target="AU2017303537" id="42" />
+      <edge source="FR3054683" target="CN109791311" id="43" />
+      <edge source="FR3054683" target="FR3054683" id="44" />
+      <edge source="FR3054683" target="CA3031583" id="45" />
+      <edge source="FR3054683" target="EP3491462" id="46" />
+      <edge source="FR3054683" target="US2020285078" id="47" />
+      <edge source="EP3491462" target="BR112019001534" id="48" />
+      <edge source="EP3491462" target="WO2018019833" id="49" />
+      <edge source="EP3491462" target="AU2017303537" id="50" />
+      <edge source="EP3491462" target="CN109791311" id="51" />
+      <edge source="EP3491462" target="FR3054683" id="52" />
+      <edge source="EP3491462" target="CA3031583" id="53" />
+      <edge source="EP3491462" target="EP3491462" id="54" />
+      <edge source="EP3491462" target="US2020285078" id="55" />
+      <edge source="US2020285078" target="BR112019001534" id="56" />
+      <edge source="US2020285078" target="WO2018019833" id="57" />
+      <edge source="US2020285078" target="AU2017303537" id="58" />
+      <edge source="US2020285078" target="CN109791311" id="59" />
+      <edge source="US2020285078" target="FR3054683" id="60" />
+      <edge source="US2020285078" target="CA3031583" id="61" />
+      <edge source="US2020285078" target="EP3491462" id="62" />
+      <edge source="US2020285078" target="US2020285078" id="63" />
+      <edge source="US11054671" target="BR112019001534" id="64" />
+      <edge source="US11054671" target="WO2018019833" id="65" />
+      <edge source="US11054671" target="AU2017303537" id="66" />
+      <edge source="US11054671" target="CN109791311" id="67" />
+      <edge source="US11054671" target="FR3054683" id="68" />
+      <edge source="US11054671" target="CA3031583" id="69" />
+      <edge source="US11054671" target="EP3491462" id="70" />
+      <edge source="US11054671" target="US2020285078" id="71" />
+      <edge source="CA3021536" target="HUE048944T" id="72" />
+      <edge source="CA3021536" target="KR20180137507" id="73" />
+      <edge source="CA3021536" target="ES2787021T" id="74" />
+      <edge source="CA3021536" target="CN109219420" id="75" />
+      <edge source="CA3021536" target="RU2018139274" id="76" />
+      <edge source="CA3021536" target="AU2017251980" id="77" />
+      <edge source="CA3021536" target="PL3445287T" id="78" />
+      <edge source="CA3021536" target="JP2019514494" id="79" />
+      <edge source="CA3021536" target="WO2017182508" id="80" />
+      <edge source="CA3021536" target="BR112018071292" id="81" />
+      <edge source="CA3021536" target="DK3445287T" id="82" />
+      <edge source="CA3021536" target="US2020038176" id="83" />
+      <edge source="CA3021536" target="PT3445287T" id="84" />
+      <edge source="CA3021536" target="US2021068944" id="85" />
+      <edge source="CA3021536" target="EP3445287" id="86" />
+      <edge source="CA3021536" target="BE1024131" id="87" />
+      <edge source="CA3021536" target="CA3021536" id="88" />
+      <edge source="KR20180137507" target="HUE048944T" id="89" />
+      <edge source="KR20180137507" target="KR20180137507" id="90" />
+      <edge source="KR20180137507" target="ES2787021T" id="91" />
+      <edge source="KR20180137507" target="CN109219420" id="92" />
+      <edge source="KR20180137507" target="RU2018139274" id="93" />
+      <edge source="KR20180137507" target="AU2017251980" id="94" />
+      <edge source="KR20180137507" target="PL3445287T" id="95" />
+      <edge source="KR20180137507" target="JP2019514494" id="96" />
+      <edge source="KR20180137507" target="WO2017182508" id="97" />
+      <edge source="KR20180137507" target="BR112018071292" id="98" />
+      <edge source="KR20180137507" target="DK3445287T" id="99" />
+      <edge source="KR20180137507" target="US2020038176" id="100" />
+      <edge source="KR20180137507" target="PT3445287T" id="101" />
+      <edge source="KR20180137507" target="US2021068944" id="102" />
+      <edge source="KR20180137507" target="EP3445287" id="103" />
+      <edge source="KR20180137507" target="BE1024131" id="104" />
+      <edge source="KR20180137507" target="CA3021536" id="105" />
+      <edge source="CN109219420" target="HUE048944T" id="106" />
+      <edge source="CN109219420" target="KR20180137507" id="107" />
+      <edge source="CN109219420" target="ES2787021T" id="108" />
+      <edge source="CN109219420" target="CN109219420" id="109" />
+      <edge source="CN109219420" target="RU2018139274" id="110" />
+      <edge source="CN109219420" target="AU2017251980" id="111" />
+      <edge source="CN109219420" target="PL3445287T" id="112" />
+      <edge source="CN109219420" target="JP2019514494" id="113" />
+      <edge source="CN109219420" target="WO2017182508" id="114" />
+      <edge source="CN109219420" target="BR112018071292" id="115" />
+      <edge source="CN109219420" target="DK3445287T" id="116" />
+      <edge source="CN109219420" target="US2020038176" id="117" />
+      <edge source="CN109219420" target="PT3445287T" id="118" />
+      <edge source="CN109219420" target="US2021068944" id="119" />
+      <edge source="CN109219420" target="EP3445287" id="120" />
+      <edge source="CN109219420" target="BE1024131" id="121" />
+      <edge source="CN109219420" target="CA3021536" id="122" />
+      <edge source="RU2018139274" target="HUE048944T" id="123" />
+      <edge source="RU2018139274" target="KR20180137507" id="124" />
+      <edge source="RU2018139274" target="ES2787021T" id="125" />
+      <edge source="RU2018139274" target="CN109219420" id="126" />
+      <edge source="RU2018139274" target="RU2018139274" id="127" />
+      <edge source="RU2018139274" target="AU2017251980" id="128" />
+      <edge source="RU2018139274" target="PL3445287T" id="129" />
+      <edge source="RU2018139274" target="JP2019514494" id="130" />
+      <edge source="RU2018139274" target="WO2017182508" id="131" />
+      <edge source="RU2018139274" target="BR112018071292" id="132" />
+      <edge source="RU2018139274" target="DK3445287T" id="133" />
+      <edge source="RU2018139274" target="US2020038176" id="134" />
+      <edge source="RU2018139274" target="PT3445287T" id="135" />
+      <edge source="RU2018139274" target="US2021068944" id="136" />
+      <edge source="RU2018139274" target="EP3445287" id="137" />
+      <edge source="RU2018139274" target="BE1024131" id="138" />
+      <edge source="RU2018139274" target="CA3021536" id="139" />
+      <edge source="AU2017251980" target="HUE048944T" id="140" />
+      <edge source="AU2017251980" target="KR20180137507" id="141" />
+      <edge source="AU2017251980" target="ES2787021T" id="142" />
+      <edge source="AU2017251980" target="CN109219420" id="143" />
+      <edge source="AU2017251980" target="RU2018139274" id="144" />
+      <edge source="AU2017251980" target="AU2017251980" id="145" />
+      <edge source="AU2017251980" target="PL3445287T" id="146" />
+      <edge source="AU2017251980" target="JP2019514494" id="147" />
+      <edge source="AU2017251980" target="WO2017182508" id="148" />
+      <edge source="AU2017251980" target="BR112018071292" id="149" />
+      <edge source="AU2017251980" target="DK3445287T" id="150" />
+      <edge source="AU2017251980" target="US2020038176" id="151" />
+      <edge source="AU2017251980" target="PT3445287T" id="152" />
+      <edge source="AU2017251980" target="US2021068944" id="153" />
+      <edge source="AU2017251980" target="EP3445287" id="154" />
+      <edge source="AU2017251980" target="BE1024131" id="155" />
+      <edge source="AU2017251980" target="CA3021536" id="156" />
+      <edge source="JP2019514494" target="HUE048944T" id="157" />
+      <edge source="JP2019514494" target="KR20180137507" id="158" />
+      <edge source="JP2019514494" target="ES2787021T" id="159" />
+      <edge source="JP2019514494" target="CN109219420" id="160" />
+      <edge source="JP2019514494" target="RU2018139274" id="161" />
+      <edge source="JP2019514494" target="AU2017251980" id="162" />
+      <edge source="JP2019514494" target="PL3445287T" id="163" />
+      <edge source="JP2019514494" target="JP2019514494" id="164" />
+      <edge source="JP2019514494" target="WO2017182508" id="165" />
+      <edge source="JP2019514494" target="BR112018071292" id="166" />
+      <edge source="JP2019514494" target="DK3445287T" id="167" />
+      <edge source="JP2019514494" target="US2020038176" id="168" />
+      <edge source="JP2019514494" target="PT3445287T" id="169" />
+      <edge source="JP2019514494" target="US2021068944" id="170" />
+      <edge source="JP2019514494" target="EP3445287" id="171" />
+      <edge source="JP2019514494" target="BE1024131" id="172" />
+      <edge source="JP2019514494" target="CA3021536" id="173" />
+      <edge source="WO2017182508" target="HUE048944T" id="174" />
+      <edge source="WO2017182508" target="KR20180137507" id="175" />
+      <edge source="WO2017182508" target="ES2787021T" id="176" />
+      <edge source="WO2017182508" target="CN109219420" id="177" />
+      <edge source="WO2017182508" target="RU2018139274" id="178" />
+      <edge source="WO2017182508" target="AU2017251980" id="179" />
+      <edge source="WO2017182508" target="PL3445287T" id="180" />
+      <edge source="WO2017182508" target="JP2019514494" id="181" />
+      <edge source="WO2017182508" target="WO2017182508" id="182" />
+      <edge source="WO2017182508" target="BR112018071292" id="183" />
+      <edge source="WO2017182508" target="DK3445287T" id="184" />
+      <edge source="WO2017182508" target="US2020038176" id="185" />
+      <edge source="WO2017182508" target="PT3445287T" id="186" />
+      <edge source="WO2017182508" target="US2021068944" id="187" />
+      <edge source="WO2017182508" target="EP3445287" id="188" />
+      <edge source="WO2017182508" target="BE1024131" id="189" />
+      <edge source="WO2017182508" target="CA3021536" id="190" />
+      <edge source="BR112018071292" target="HUE048944T" id="191" />
+      <edge source="BR112018071292" target="KR20180137507" id="192" />
+      <edge source="BR112018071292" target="ES2787021T" id="193" />
+      <edge source="BR112018071292" target="CN109219420" id="194" />
+      <edge source="BR112018071292" target="RU2018139274" id="195" />
+      <edge source="BR112018071292" target="AU2017251980" id="196" />
+      <edge source="BR112018071292" target="PL3445287T" id="197" />
+      <edge source="BR112018071292" target="JP2019514494" id="198" />
+      <edge source="BR112018071292" target="WO2017182508" id="199" />
+      <edge source="BR112018071292" target="BR112018071292" id="200" />
+      <edge source="BR112018071292" target="DK3445287T" id="201" />
+      <edge source="BR112018071292" target="US2020038176" id="202" />
+      <edge source="BR112018071292" target="PT3445287T" id="203" />
+      <edge source="BR112018071292" target="US2021068944" id="204" />
+      <edge source="BR112018071292" target="EP3445287" id="205" />
+      <edge source="BR112018071292" target="BE1024131" id="206" />
+      <edge source="BR112018071292" target="CA3021536" id="207" />
+      <edge source="US2020038176" target="HUE048944T" id="208" />
+      <edge source="US2020038176" target="KR20180137507" id="209" />
+      <edge source="US2020038176" target="ES2787021T" id="210" />
+      <edge source="US2020038176" target="CN109219420" id="211" />
+      <edge source="US2020038176" target="RU2018139274" id="212" />
+      <edge source="US2020038176" target="AU2017251980" id="213" />
+      <edge source="US2020038176" target="PL3445287T" id="214" />
+      <edge source="US2020038176" target="JP2019514494" id="215" />
+      <edge source="US2020038176" target="WO2017182508" id="216" />
+      <edge source="US2020038176" target="BR112018071292" id="217" />
+      <edge source="US2020038176" target="DK3445287T" id="218" />
+      <edge source="US2020038176" target="US2020038176" id="219" />
+      <edge source="US2020038176" target="PT3445287T" id="220" />
+      <edge source="US2020038176" target="US2021068944" id="221" />
+      <edge source="US2020038176" target="EP3445287" id="222" />
+      <edge source="US2020038176" target="BE1024131" id="223" />
+      <edge source="US2020038176" target="CA3021536" id="224" />
+      <edge source="US2021068944" target="HUE048944T" id="225" />
+      <edge source="US2021068944" target="KR20180137507" id="226" />
+      <edge source="US2021068944" target="ES2787021T" id="227" />
+      <edge source="US2021068944" target="CN109219420" id="228" />
+      <edge source="US2021068944" target="RU2018139274" id="229" />
+      <edge source="US2021068944" target="AU2017251980" id="230" />
+      <edge source="US2021068944" target="PL3445287T" id="231" />
+      <edge source="US2021068944" target="JP2019514494" id="232" />
+      <edge source="US2021068944" target="WO2017182508" id="233" />
+      <edge source="US2021068944" target="BR112018071292" id="234" />
+      <edge source="US2021068944" target="DK3445287T" id="235" />
+      <edge source="US2021068944" target="US2020038176" id="236" />
+      <edge source="US2021068944" target="PT3445287T" id="237" />
+      <edge source="US2021068944" target="US2021068944" id="238" />
+      <edge source="US2021068944" target="EP3445287" id="239" />
+      <edge source="US2021068944" target="BE1024131" id="240" />
+      <edge source="US2021068944" target="CA3021536" id="241" />
+      <edge source="EP3445287" target="HUE048944T" id="242" />
+      <edge source="EP3445287" target="KR20180137507" id="243" />
+      <edge source="EP3445287" target="ES2787021T" id="244" />
+      <edge source="EP3445287" target="CN109219420" id="245" />
+      <edge source="EP3445287" target="RU2018139274" id="246" />
+      <edge source="EP3445287" target="AU2017251980" id="247" />
+      <edge source="EP3445287" target="PL3445287T" id="248" />
+      <edge source="EP3445287" target="JP2019514494" id="249" />
+      <edge source="EP3445287" target="WO2017182508" id="250" />
+      <edge source="EP3445287" target="BR112018071292" id="251" />
+      <edge source="EP3445287" target="DK3445287T" id="252" />
+      <edge source="EP3445287" target="US2020038176" id="253" />
+      <edge source="EP3445287" target="PT3445287T" id="254" />
+      <edge source="EP3445287" target="US2021068944" id="255" />
+      <edge source="EP3445287" target="EP3445287" id="256" />
+      <edge source="EP3445287" target="BE1024131" id="257" />
+      <edge source="EP3445287" target="CA3021536" id="258" />
+      <edge source="BE1024131" target="HUE048944T" id="259" />
+      <edge source="BE1024131" target="KR20180137507" id="260" />
+      <edge source="BE1024131" target="ES2787021T" id="261" />
+      <edge source="BE1024131" target="CN109219420" id="262" />
+      <edge source="BE1024131" target="RU2018139274" id="263" />
+      <edge source="BE1024131" target="AU2017251980" id="264" />
+      <edge source="BE1024131" target="PL3445287T" id="265" />
+      <edge source="BE1024131" target="JP2019514494" id="266" />
+      <edge source="BE1024131" target="WO2017182508" id="267" />
+      <edge source="BE1024131" target="BR112018071292" id="268" />
+      <edge source="BE1024131" target="DK3445287T" id="269" />
+      <edge source="BE1024131" target="US2020038176" id="270" />
+      <edge source="BE1024131" target="PT3445287T" id="271" />
+      <edge source="BE1024131" target="US2021068944" id="272" />
+      <edge source="BE1024131" target="EP3445287" id="273" />
+      <edge source="BE1024131" target="BE1024131" id="274" />
+      <edge source="BE1024131" target="CA3021536" id="275" />
+      <edge source="RU2735891" target="HUE048944T" id="276" />
+      <edge source="RU2735891" target="KR20180137507" id="277" />
+      <edge source="RU2735891" target="ES2787021T" id="278" />
+      <edge source="RU2735891" target="CN109219420" id="279" />
+      <edge source="RU2735891" target="RU2018139274" id="280" />
+      <edge source="RU2735891" target="AU2017251980" id="281" />
+      <edge source="RU2735891" target="PL3445287T" id="282" />
+      <edge source="RU2735891" target="JP2019514494" id="283" />
+      <edge source="RU2735891" target="WO2017182508" id="284" />
+      <edge source="RU2735891" target="BR112018071292" id="285" />
+      <edge source="RU2735891" target="DK3445287T" id="286" />
+      <edge source="RU2735891" target="US2020038176" id="287" />
+      <edge source="RU2735891" target="PT3445287T" id="288" />
+      <edge source="RU2735891" target="US2021068944" id="289" />
+      <edge source="RU2735891" target="EP3445287" id="290" />
+      <edge source="RU2735891" target="BE1024131" id="291" />
+      <edge source="RU2735891" target="CA3021536" id="292" />
+      <edge source="US10869754" target="HUE048944T" id="293" />
+      <edge source="US10869754" target="KR20180137507" id="294" />
+      <edge source="US10869754" target="ES2787021T" id="295" />
+      <edge source="US10869754" target="CN109219420" id="296" />
+      <edge source="US10869754" target="RU2018139274" id="297" />
+      <edge source="US10869754" target="AU2017251980" id="298" />
+      <edge source="US10869754" target="PL3445287T" id="299" />
+      <edge source="US10869754" target="JP2019514494" id="300" />
+      <edge source="US10869754" target="WO2017182508" id="301" />
+      <edge source="US10869754" target="BR112018071292" id="302" />
+      <edge source="US10869754" target="DK3445287T" id="303" />
+      <edge source="US10869754" target="US2020038176" id="304" />
+      <edge source="US10869754" target="PT3445287T" id="305" />
+      <edge source="US10869754" target="US2021068944" id="306" />
+      <edge source="US10869754" target="EP3445287" id="307" />
+      <edge source="US10869754" target="BE1024131" id="308" />
+      <edge source="US10869754" target="CA3021536" id="309" />
+      <edge source="CH681276" target="CH681276" id="310" />
+      <edge source="FR3013103" target="FR3013103" id="311" />
+      <edge source="WO2011015115" target="WO2011015115" id="312" />
+      <edge source="WO2011015115" target="CN101988689" id="313" />
+      <edge source="CN101988689" target="WO2011015115" id="314" />
+      <edge source="CN101988689" target="CN101988689" id="315" />
+      <edge source="CA2694840" target="AT553722T" id="316" />
+      <edge source="CA2694840" target="ES2388264T" id="317" />
+      <edge source="CA2694840" target="FR2918557" id="318" />
+      <edge source="CA2694840" target="CN101808594" id="319" />
+      <edge source="CA2694840" target="JP2010533017" id="320" />
+      <edge source="CA2694840" target="WO2009043985" id="321" />
+      <edge source="CA2694840" target="US2011046727" id="322" />
+      <edge source="CA2694840" target="CA2694840" id="323" />
+      <edge source="CA2694840" target="EP2178461" id="324" />
+      <edge source="FR2918557" target="AT553722T" id="325" />
+      <edge source="FR2918557" target="ES2388264T" id="326" />
+      <edge source="FR2918557" target="FR2918557" id="327" />
+      <edge source="FR2918557" target="CN101808594" id="328" />
+      <edge source="FR2918557" target="JP2010533017" id="329" />
+      <edge source="FR2918557" target="WO2009043985" id="330" />
+      <edge source="FR2918557" target="US2011046727" id="331" />
+      <edge source="FR2918557" target="CA2694840" id="332" />
+      <edge source="FR2918557" target="EP2178461" id="333" />
+      <edge source="CN101808594" target="AT553722T" id="334" />
+      <edge source="CN101808594" target="ES2388264T" id="335" />
+      <edge source="CN101808594" target="FR2918557" id="336" />
+      <edge source="CN101808594" target="CN101808594" id="337" />
+      <edge source="CN101808594" target="JP2010533017" id="338" />
+      <edge source="CN101808594" target="WO2009043985" id="339" />
+      <edge source="CN101808594" target="US2011046727" id="340" />
+      <edge source="CN101808594" target="CA2694840" id="341" />
+      <edge source="CN101808594" target="EP2178461" id="342" />
+      <edge source="JP2010533017" target="AT553722T" id="343" />
+      <edge source="JP2010533017" target="ES2388264T" id="344" />
+      <edge source="JP2010533017" target="FR2918557" id="345" />
+      <edge source="JP2010533017" target="CN101808594" id="346" />
+      <edge source="JP2010533017" target="JP2010533017" id="347" />
+      <edge source="JP2010533017" target="WO2009043985" id="348" />
+      <edge source="JP2010533017" target="US2011046727" id="349" />
+      <edge source="JP2010533017" target="CA2694840" id="350" />
+      <edge source="JP2010533017" target="EP2178461" id="351" />
+      <edge source="WO2009043985" target="AT553722T" id="352" />
+      <edge source="WO2009043985" target="ES2388264T" id="353" />
+      <edge source="WO2009043985" target="FR2918557" id="354" />
+      <edge source="WO2009043985" target="CN101808594" id="355" />
+      <edge source="WO2009043985" target="JP2010533017" id="356" />
+      <edge source="WO2009043985" target="WO2009043985" id="357" />
+      <edge source="WO2009043985" target="US2011046727" id="358" />
+      <edge source="WO2009043985" target="CA2694840" id="359" />
+      <edge source="WO2009043985" target="EP2178461" id="360" />
+      <edge source="US2011046727" target="AT553722T" id="361" />
+      <edge source="US2011046727" target="ES2388264T" id="362" />
+      <edge source="US2011046727" target="FR2918557" id="363" />
+      <edge source="US2011046727" target="CN101808594" id="364" />
+      <edge source="US2011046727" target="JP2010533017" id="365" />
+      <edge source="US2011046727" target="WO2009043985" id="366" />
+      <edge source="US2011046727" target="US2011046727" id="367" />
+      <edge source="US2011046727" target="CA2694840" id="368" />
+      <edge source="US2011046727" target="EP2178461" id="369" />
+      <edge source="EP2178461" target="AT553722T" id="370" />
+      <edge source="EP2178461" target="ES2388264T" id="371" />
+      <edge source="EP2178461" target="FR2918557" id="372" />
+      <edge source="EP2178461" target="CN101808594" id="373" />
+      <edge source="EP2178461" target="JP2010533017" id="374" />
+      <edge source="EP2178461" target="WO2009043985" id="375" />
+      <edge source="EP2178461" target="US2011046727" id="376" />
+      <edge source="EP2178461" target="CA2694840" id="377" />
+      <edge source="EP2178461" target="EP2178461" id="378" />
+      <edge source="WO2007108663" target="WO2007108663" id="379" />
+      <edge source="WO2007108663" target="KR20070096368" id="380" />
+      <edge source="KR20070096368" target="WO2007108663" id="381" />
+      <edge source="KR20070096368" target="KR20070096368" id="382" />
+      <edge source="WO2007091771" target="KR20070080136" id="383" />
+      <edge source="WO2007091771" target="WO2007091771" id="384" />
+      <edge source="KR20070080136" target="KR20070080136" id="385" />
+      <edge source="KR20070080136" target="WO2007091771" id="386" />
+      <edge source="WO2007091761" target="KR20070080109" id="387" />
+      <edge source="WO2007091761" target="WO2007091761" id="388" />
+      <edge source="KR20070080109" target="KR20070080109" id="389" />
+      <edge source="KR20070080109" target="WO2007091761" id="390" />
+      <edge source="CA1298439" target="US5041135" id="391" />
+      <edge source="CA1298439" target="ES2029339T" id="392" />
+      <edge source="CA1298439" target="CA1298439" id="393" />
+      <edge source="CA1298439" target="GR3003902T" id="394" />
+      <edge source="CA1298439" target="EP0305255" id="395" />
+      <edge source="CA1298439" target="AT72749T" id="396" />
+      <edge source="CA1298439" target="KR890003344" id="397" />
+      <edge source="CA1298439" target="FR2619004" id="398" />
+      <edge source="CA1298439" target="BR8803876" id="399" />
+      <edge source="CA1298439" target="JPH0191858" id="400" />
+      <edge source="US5041135" target="US5041135" id="401" />
+      <edge source="US5041135" target="ES2029339T" id="402" />
+      <edge source="US5041135" target="CA1298439" id="403" />
+      <edge source="US5041135" target="GR3003902T" id="404" />
+      <edge source="US5041135" target="EP0305255" id="405" />
+      <edge source="US5041135" target="AT72749T" id="406" />
+      <edge source="US5041135" target="KR890003344" id="407" />
+      <edge source="US5041135" target="FR2619004" id="408" />
+      <edge source="US5041135" target="BR8803876" id="409" />
+      <edge source="US5041135" target="JPH0191858" id="410" />
+      <edge source="EP0305255" target="US5041135" id="411" />
+      <edge source="EP0305255" target="ES2029339T" id="412" />
+      <edge source="EP0305255" target="CA1298439" id="413" />
+      <edge source="EP0305255" target="GR3003902T" id="414" />
+      <edge source="EP0305255" target="EP0305255" id="415" />
+      <edge source="EP0305255" target="AT72749T" id="416" />
+      <edge source="EP0305255" target="KR890003344" id="417" />
+      <edge source="EP0305255" target="FR2619004" id="418" />
+      <edge source="EP0305255" target="BR8803876" id="419" />
+      <edge source="EP0305255" target="JPH0191858" id="420" />
+      <edge source="KR890003344" target="US5041135" id="421" />
+      <edge source="KR890003344" target="ES2029339T" id="422" />
+      <edge source="KR890003344" target="CA1298439" id="423" />
+      <edge source="KR890003344" target="GR3003902T" id="424" />
+      <edge source="KR890003344" target="EP0305255" id="425" />
+      <edge source="KR890003344" target="AT72749T" id="426" />
+      <edge source="KR890003344" target="KR890003344" id="427" />
+      <edge source="KR890003344" target="FR2619004" id="428" />
+      <edge source="KR890003344" target="BR8803876" id="429" />
+      <edge source="KR890003344" target="JPH0191858" id="430" />
+      <edge source="FR2619004" target="US5041135" id="431" />
+      <edge source="FR2619004" target="ES2029339T" id="432" />
+      <edge source="FR2619004" target="CA1298439" id="433" />
+      <edge source="FR2619004" target="GR3003902T" id="434" />
+      <edge source="FR2619004" target="EP0305255" id="435" />
+      <edge source="FR2619004" target="AT72749T" id="436" />
+      <edge source="FR2619004" target="KR890003344" id="437" />
+      <edge source="FR2619004" target="FR2619004" id="438" />
+      <edge source="FR2619004" target="BR8803876" id="439" />
+      <edge source="FR2619004" target="JPH0191858" id="440" />
+      <edge source="BR8803876" target="US5041135" id="441" />
+      <edge source="BR8803876" target="ES2029339T" id="442" />
+      <edge source="BR8803876" target="CA1298439" id="443" />
+      <edge source="BR8803876" target="GR3003902T" id="444" />
+      <edge source="BR8803876" target="EP0305255" id="445" />
+      <edge source="BR8803876" target="AT72749T" id="446" />
+      <edge source="BR8803876" target="KR890003344" id="447" />
+      <edge source="BR8803876" target="FR2619004" id="448" />
+      <edge source="BR8803876" target="BR8803876" id="449" />
+      <edge source="BR8803876" target="JPH0191858" id="450" />
+      <edge source="JPH0191858" target="US5041135" id="451" />
+      <edge source="JPH0191858" target="ES2029339T" id="452" />
+      <edge source="JPH0191858" target="CA1298439" id="453" />
+      <edge source="JPH0191858" target="GR3003902T" id="454" />
+      <edge source="JPH0191858" target="EP0305255" id="455" />
+      <edge source="JPH0191858" target="AT72749T" id="456" />
+      <edge source="JPH0191858" target="KR890003344" id="457" />
+      <edge source="JPH0191858" target="FR2619004" id="458" />
+      <edge source="JPH0191858" target="BR8803876" id="459" />
+      <edge source="JPH0191858" target="JPH0191858" id="460" />
+      <edge source="KR970001818" target="KR970001818" id="461" />
+      <edge source="CA1287993" target="GB2206978" id="462" />
+      <edge source="CA1287993" target="CA1287993" id="463" />
+      <edge source="CA1287993" target="JPS6432227" id="464" />
+      <edge source="CA1287993" target="AU1870488" id="465" />
+      <edge source="CA1287993" target="BR8803369" id="466" />
+      <edge source="CA1287993" target="SG121392G" id="467" />
+      <edge source="CA1287993" target="IT1223668" id="468" />
+      <edge source="CA1287993" target="DE3822376" id="469" />
+      <edge source="CA1287993" target="US4838674" id="470" />
+      <edge source="CA1287993" target="FR2617989" id="471" />
+      <edge source="GB2206978" target="GB2206978" id="472" />
+      <edge source="GB2206978" target="CA1287993" id="473" />
+      <edge source="GB2206978" target="JPS6432227" id="474" />
+      <edge source="GB2206978" target="AU1870488" id="475" />
+      <edge source="GB2206978" target="BR8803369" id="476" />
+      <edge source="GB2206978" target="SG121392G" id="477" />
+      <edge source="GB2206978" target="IT1223668" id="478" />
+      <edge source="GB2206978" target="DE3822376" id="479" />
+      <edge source="GB2206978" target="US4838674" id="480" />
+      <edge source="GB2206978" target="FR2617989" id="481" />
+      <edge source="JPS6432227" target="GB2206978" id="482" />
+      <edge source="JPS6432227" target="CA1287993" id="483" />
+      <edge source="JPS6432227" target="JPS6432227" id="484" />
+      <edge source="JPS6432227" target="AU1870488" id="485" />
+      <edge source="JPS6432227" target="BR8803369" id="486" />
+      <edge source="JPS6432227" target="SG121392G" id="487" />
+      <edge source="JPS6432227" target="IT1223668" id="488" />
+      <edge source="JPS6432227" target="DE3822376" id="489" />
+      <edge source="JPS6432227" target="US4838674" id="490" />
+      <edge source="JPS6432227" target="FR2617989" id="491" />
+      <edge source="AU1870488" target="GB2206978" id="492" />
+      <edge source="AU1870488" target="CA1287993" id="493" />
+      <edge source="AU1870488" target="JPS6432227" id="494" />
+      <edge source="AU1870488" target="AU1870488" id="495" />
+      <edge source="AU1870488" target="BR8803369" id="496" />
+      <edge source="AU1870488" target="SG121392G" id="497" />
+      <edge source="AU1870488" target="IT1223668" id="498" />
+      <edge source="AU1870488" target="DE3822376" id="499" />
+      <edge source="AU1870488" target="US4838674" id="500" />
+      <edge source="AU1870488" target="FR2617989" id="501" />
+      <edge source="BR8803369" target="GB2206978" id="502" />
+      <edge source="BR8803369" target="CA1287993" id="503" />
+      <edge source="BR8803369" target="JPS6432227" id="504" />
+      <edge source="BR8803369" target="AU1870488" id="505" />
+      <edge source="BR8803369" target="BR8803369" id="506" />
+      <edge source="BR8803369" target="SG121392G" id="507" />
+      <edge source="BR8803369" target="IT1223668" id="508" />
+      <edge source="BR8803369" target="DE3822376" id="509" />
+      <edge source="BR8803369" target="US4838674" id="510" />
+      <edge source="BR8803369" target="FR2617989" id="511" />
+      <edge source="IT1223668" target="GB2206978" id="512" />
+      <edge source="IT1223668" target="CA1287993" id="513" />
+      <edge source="IT1223668" target="JPS6432227" id="514" />
+      <edge source="IT1223668" target="AU1870488" id="515" />
+      <edge source="IT1223668" target="BR8803369" id="516" />
+      <edge source="IT1223668" target="SG121392G" id="517" />
+      <edge source="IT1223668" target="IT1223668" id="518" />
+      <edge source="IT1223668" target="DE3822376" id="519" />
+      <edge source="IT1223668" target="US4838674" id="520" />
+      <edge source="IT1223668" target="FR2617989" id="521" />
+      <edge source="DE3822376" target="GB2206978" id="522" />
+      <edge source="DE3822376" target="CA1287993" id="523" />
+      <edge source="DE3822376" target="JPS6432227" id="524" />
+      <edge source="DE3822376" target="AU1870488" id="525" />
+      <edge source="DE3822376" target="BR8803369" id="526" />
+      <edge source="DE3822376" target="SG121392G" id="527" />
+      <edge source="DE3822376" target="IT1223668" id="528" />
+      <edge source="DE3822376" target="DE3822376" id="529" />
+      <edge source="DE3822376" target="US4838674" id="530" />
+      <edge source="DE3822376" target="FR2617989" id="531" />
+      <edge source="US4838674" target="GB2206978" id="532" />
+      <edge source="US4838674" target="CA1287993" id="533" />
+      <edge source="US4838674" target="JPS6432227" id="534" />
+      <edge source="US4838674" target="AU1870488" id="535" />
+      <edge source="US4838674" target="BR8803369" id="536" />
+      <edge source="US4838674" target="SG121392G" id="537" />
+      <edge source="US4838674" target="IT1223668" id="538" />
+      <edge source="US4838674" target="DE3822376" id="539" />
+      <edge source="US4838674" target="US4838674" id="540" />
+      <edge source="US4838674" target="FR2617989" id="541" />
+      <edge source="FR2617989" target="GB2206978" id="542" />
+      <edge source="FR2617989" target="CA1287993" id="543" />
+      <edge source="FR2617989" target="JPS6432227" id="544" />
+      <edge source="FR2617989" target="AU1870488" id="545" />
+      <edge source="FR2617989" target="BR8803369" id="546" />
+      <edge source="FR2617989" target="SG121392G" id="547" />
+      <edge source="FR2617989" target="IT1223668" id="548" />
+      <edge source="FR2617989" target="DE3822376" id="549" />
+      <edge source="FR2617989" target="US4838674" id="550" />
+      <edge source="FR2617989" target="FR2617989" id="551" />
+      <edge source="JPH0520729" target="JPH0520729" id="552" />
+      <edge source="CA1256700" target="US4714232" id="553" />
+      <edge source="CA1256700" target="FR2576820" id="554" />
+      <edge source="CA1256700" target="JPS61178166" id="555" />
+      <edge source="CA1256700" target="EP0191689" id="556" />
+      <edge source="CA1256700" target="CA1256700" id="557" />
+      <edge source="US4714232" target="US4714232" id="558" />
+      <edge source="US4714232" target="FR2576820" id="559" />
+      <edge source="US4714232" target="JPS61178166" id="560" />
+      <edge source="US4714232" target="EP0191689" id="561" />
+      <edge source="US4714232" target="CA1256700" id="562" />
+      <edge source="FR2576820" target="US4714232" id="563" />
+      <edge source="FR2576820" target="FR2576820" id="564" />
+      <edge source="FR2576820" target="JPS61178166" id="565" />
+      <edge source="FR2576820" target="EP0191689" id="566" />
+      <edge source="FR2576820" target="CA1256700" id="567" />
+      <edge source="JPS61178166" target="US4714232" id="568" />
+      <edge source="JPS61178166" target="FR2576820" id="569" />
+      <edge source="JPS61178166" target="JPS61178166" id="570" />
+      <edge source="JPS61178166" target="EP0191689" id="571" />
+      <edge source="JPS61178166" target="CA1256700" id="572" />
+      <edge source="EP0191689" target="US4714232" id="573" />
+      <edge source="EP0191689" target="FR2576820" id="574" />
+      <edge source="EP0191689" target="JPS61178166" id="575" />
+      <edge source="EP0191689" target="EP0191689" id="576" />
+      <edge source="EP0191689" target="CA1256700" id="577" />
+      <edge source="JPH0661690" target="JPH0661690" id="578" />
+      <edge source="CA989177" target="DE2323439" id="579" />
+      <edge source="CA989177" target="NL7306965" id="580" />
+      <edge source="CA989177" target="FR2184473" id="581" />
+      <edge source="CA989177" target="BE799653" id="582" />
+      <edge source="CA989177" target="GB1372816" id="583" />
+      <edge source="CA989177" target="IT987677" id="584" />
+      <edge source="CA989177" target="CA989177" id="585" />
+      <edge source="CA989177" target="JPS4956644" id="586" />
+      <edge source="CA989177" target="US3877184" id="587" />
+      <edge source="CA989177" target="CH569297" id="588" />
+      <edge source="CA989177" target="AU5564073" id="589" />
+      <edge source="DE2323439" target="DE2323439" id="590" />
+      <edge source="DE2323439" target="NL7306965" id="591" />
+      <edge source="DE2323439" target="FR2184473" id="592" />
+      <edge source="DE2323439" target="BE799653" id="593" />
+      <edge source="DE2323439" target="GB1372816" id="594" />
+      <edge source="DE2323439" target="IT987677" id="595" />
+      <edge source="DE2323439" target="CA989177" id="596" />
+      <edge source="DE2323439" target="JPS4956644" id="597" />
+      <edge source="DE2323439" target="US3877184" id="598" />
+      <edge source="DE2323439" target="CH569297" id="599" />
+      <edge source="DE2323439" target="AU5564073" id="600" />
+      <edge source="NL7306965" target="DE2323439" id="601" />
+      <edge source="NL7306965" target="NL7306965" id="602" />
+      <edge source="NL7306965" target="FR2184473" id="603" />
+      <edge source="NL7306965" target="BE799653" id="604" />
+      <edge source="NL7306965" target="GB1372816" id="605" />
+      <edge source="NL7306965" target="IT987677" id="606" />
+      <edge source="NL7306965" target="CA989177" id="607" />
+      <edge source="NL7306965" target="JPS4956644" id="608" />
+      <edge source="NL7306965" target="US3877184" id="609" />
+      <edge source="NL7306965" target="CH569297" id="610" />
+      <edge source="NL7306965" target="AU5564073" id="611" />
+      <edge source="FR2184473" target="DE2323439" id="612" />
+      <edge source="FR2184473" target="NL7306965" id="613" />
+      <edge source="FR2184473" target="FR2184473" id="614" />
+      <edge source="FR2184473" target="BE799653" id="615" />
+      <edge source="FR2184473" target="GB1372816" id="616" />
+      <edge source="FR2184473" target="IT987677" id="617" />
+      <edge source="FR2184473" target="CA989177" id="618" />
+      <edge source="FR2184473" target="JPS4956644" id="619" />
+      <edge source="FR2184473" target="US3877184" id="620" />
+      <edge source="FR2184473" target="CH569297" id="621" />
+      <edge source="FR2184473" target="AU5564073" id="622" />
+      <edge source="BE799653" target="DE2323439" id="623" />
+      <edge source="BE799653" target="NL7306965" id="624" />
+      <edge source="BE799653" target="FR2184473" id="625" />
+      <edge source="BE799653" target="BE799653" id="626" />
+      <edge source="BE799653" target="GB1372816" id="627" />
+      <edge source="BE799653" target="IT987677" id="628" />
+      <edge source="BE799653" target="CA989177" id="629" />
+      <edge source="BE799653" target="JPS4956644" id="630" />
+      <edge source="BE799653" target="US3877184" id="631" />
+      <edge source="BE799653" target="CH569297" id="632" />
+      <edge source="BE799653" target="AU5564073" id="633" />
+      <edge source="GB1372816" target="DE2323439" id="634" />
+      <edge source="GB1372816" target="NL7306965" id="635" />
+      <edge source="GB1372816" target="FR2184473" id="636" />
+      <edge source="GB1372816" target="BE799653" id="637" />
+      <edge source="GB1372816" target="GB1372816" id="638" />
+      <edge source="GB1372816" target="IT987677" id="639" />
+      <edge source="GB1372816" target="CA989177" id="640" />
+      <edge source="GB1372816" target="JPS4956644" id="641" />
+      <edge source="GB1372816" target="US3877184" id="642" />
+      <edge source="GB1372816" target="CH569297" id="643" />
+      <edge source="GB1372816" target="AU5564073" id="644" />
+      <edge source="IT987677" target="DE2323439" id="645" />
+      <edge source="IT987677" target="NL7306965" id="646" />
+      <edge source="IT987677" target="FR2184473" id="647" />
+      <edge source="IT987677" target="BE799653" id="648" />
+      <edge source="IT987677" target="GB1372816" id="649" />
+      <edge source="IT987677" target="IT987677" id="650" />
+      <edge source="IT987677" target="CA989177" id="651" />
+      <edge source="IT987677" target="JPS4956644" id="652" />
+      <edge source="IT987677" target="US3877184" id="653" />
+      <edge source="IT987677" target="CH569297" id="654" />
+      <edge source="IT987677" target="AU5564073" id="655" />
+      <edge source="JPS4956644" target="DE2323439" id="656" />
+      <edge source="JPS4956644" target="NL7306965" id="657" />
+      <edge source="JPS4956644" target="FR2184473" id="658" />
+      <edge source="JPS4956644" target="BE799653" id="659" />
+      <edge source="JPS4956644" target="GB1372816" id="660" />
+      <edge source="JPS4956644" target="IT987677" id="661" />
+      <edge source="JPS4956644" target="CA989177" id="662" />
+      <edge source="JPS4956644" target="JPS4956644" id="663" />
+      <edge source="JPS4956644" target="US3877184" id="664" />
+      <edge source="JPS4956644" target="CH569297" id="665" />
+      <edge source="JPS4956644" target="AU5564073" id="666" />
+      <edge source="US3877184" target="DE2323439" id="667" />
+      <edge source="US3877184" target="NL7306965" id="668" />
+      <edge source="US3877184" target="FR2184473" id="669" />
+      <edge source="US3877184" target="BE799653" id="670" />
+      <edge source="US3877184" target="GB1372816" id="671" />
+      <edge source="US3877184" target="IT987677" id="672" />
+      <edge source="US3877184" target="CA989177" id="673" />
+      <edge source="US3877184" target="JPS4956644" id="674" />
+      <edge source="US3877184" target="US3877184" id="675" />
+      <edge source="US3877184" target="CH569297" id="676" />
+      <edge source="US3877184" target="AU5564073" id="677" />
+      <edge source="CH569297" target="DE2323439" id="678" />
+      <edge source="CH569297" target="NL7306965" id="679" />
+      <edge source="CH569297" target="FR2184473" id="680" />
+      <edge source="CH569297" target="BE799653" id="681" />
+      <edge source="CH569297" target="GB1372816" id="682" />
+      <edge source="CH569297" target="IT987677" id="683" />
+      <edge source="CH569297" target="CA989177" id="684" />
+      <edge source="CH569297" target="JPS4956644" id="685" />
+      <edge source="CH569297" target="US3877184" id="686" />
+      <edge source="CH569297" target="CH569297" id="687" />
+      <edge source="CH569297" target="AU5564073" id="688" />
+      <edge source="AU5564073" target="DE2323439" id="689" />
+      <edge source="AU5564073" target="NL7306965" id="690" />
+      <edge source="AU5564073" target="FR2184473" id="691" />
+      <edge source="AU5564073" target="BE799653" id="692" />
+      <edge source="AU5564073" target="GB1372816" id="693" />
+      <edge source="AU5564073" target="IT987677" id="694" />
+      <edge source="AU5564073" target="CA989177" id="695" />
+      <edge source="AU5564073" target="JPS4956644" id="696" />
+      <edge source="AU5564073" target="US3877184" id="697" />
+      <edge source="AU5564073" target="CH569297" id="698" />
+      <edge source="AU5564073" target="AU5564073" id="699" />
+      <edge source="CA931760" target="US3750272" id="700" />
+      <edge source="CA931760" target="FR2076643" id="701" />
+      <edge source="CA931760" target="BE761834" id="702" />
+      <edge source="CA931760" target="DE2102820" id="703" />
+      <edge source="CA931760" target="CA931760" id="704" />
+      <edge source="CA931760" target="NL7100827" id="705" />
+      <edge source="CA931760" target="JPS5613583B" id="706" />
+      <edge source="CA931760" target="CH528964" id="707" />
+      <edge source="CA931760" target="GB1343301" id="708" />
+      <edge source="US3750272" target="US3750272" id="709" />
+      <edge source="US3750272" target="FR2076643" id="710" />
+      <edge source="US3750272" target="BE761834" id="711" />
+      <edge source="US3750272" target="DE2102820" id="712" />
+      <edge source="US3750272" target="CA931760" id="713" />
+      <edge source="US3750272" target="NL7100827" id="714" />
+      <edge source="US3750272" target="JPS5613583B" id="715" />
+      <edge source="US3750272" target="CH528964" id="716" />
+      <edge source="US3750272" target="GB1343301" id="717" />
+      <edge source="FR2076643" target="US3750272" id="718" />
+      <edge source="FR2076643" target="FR2076643" id="719" />
+      <edge source="FR2076643" target="BE761834" id="720" />
+      <edge source="FR2076643" target="DE2102820" id="721" />
+      <edge source="FR2076643" target="CA931760" id="722" />
+      <edge source="FR2076643" target="NL7100827" id="723" />
+      <edge source="FR2076643" target="JPS5613583B" id="724" />
+      <edge source="FR2076643" target="CH528964" id="725" />
+      <edge source="FR2076643" target="GB1343301" id="726" />
+      <edge source="BE761834" target="US3750272" id="727" />
+      <edge source="BE761834" target="FR2076643" id="728" />
+      <edge source="BE761834" target="BE761834" id="729" />
+      <edge source="BE761834" target="DE2102820" id="730" />
+      <edge source="BE761834" target="CA931760" id="731" />
+      <edge source="BE761834" target="NL7100827" id="732" />
+      <edge source="BE761834" target="JPS5613583B" id="733" />
+      <edge source="BE761834" target="CH528964" id="734" />
+      <edge source="BE761834" target="GB1343301" id="735" />
+      <edge source="DE2102820" target="US3750272" id="736" />
+      <edge source="DE2102820" target="FR2076643" id="737" />
+      <edge source="DE2102820" target="BE761834" id="738" />
+      <edge source="DE2102820" target="DE2102820" id="739" />
+      <edge source="DE2102820" target="CA931760" id="740" />
+      <edge source="DE2102820" target="NL7100827" id="741" />
+      <edge source="DE2102820" target="JPS5613583B" id="742" />
+      <edge source="DE2102820" target="CH528964" id="743" />
+      <edge source="DE2102820" target="GB1343301" id="744" />
+      <edge source="NL7100827" target="US3750272" id="745" />
+      <edge source="NL7100827" target="FR2076643" id="746" />
+      <edge source="NL7100827" target="BE761834" id="747" />
+      <edge source="NL7100827" target="DE2102820" id="748" />
+      <edge source="NL7100827" target="CA931760" id="749" />
+      <edge source="NL7100827" target="NL7100827" id="750" />
+      <edge source="NL7100827" target="JPS5613583B" id="751" />
+      <edge source="NL7100827" target="CH528964" id="752" />
+      <edge source="NL7100827" target="GB1343301" id="753" />
+      <edge source="CH528964" target="US3750272" id="754" />
+      <edge source="CH528964" target="FR2076643" id="755" />
+      <edge source="CH528964" target="BE761834" id="756" />
+      <edge source="CH528964" target="DE2102820" id="757" />
+      <edge source="CH528964" target="CA931760" id="758" />
+      <edge source="CH528964" target="NL7100827" id="759" />
+      <edge source="CH528964" target="JPS5613583B" id="760" />
+      <edge source="CH528964" target="CH528964" id="761" />
+      <edge source="CH528964" target="GB1343301" id="762" />
+      <edge source="GB1343301" target="US3750272" id="763" />
+      <edge source="GB1343301" target="FR2076643" id="764" />
+      <edge source="GB1343301" target="BE761834" id="765" />
+      <edge source="GB1343301" target="DE2102820" id="766" />
+      <edge source="GB1343301" target="CA931760" id="767" />
+      <edge source="GB1343301" target="NL7100827" id="768" />
+      <edge source="GB1343301" target="JPS5613583B" id="769" />
+      <edge source="GB1343301" target="CH528964" id="770" />
+      <edge source="GB1343301" target="GB1343301" id="771" />
+      <edge source="JPS5613583" target="JPS5613583" id="772" />
+    </edges>
+  </graph>
+</gexf>
+

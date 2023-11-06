@@ -1,0 +1,1139 @@
+{
+   "data": [
+      {
+         "label": "CA3031583",
+         "title": "Ophthalmic lens in particular for a pair of sunglasses",
+         "year": "2018",
+         "priority-active-indicator": 0,
+         "IPCR11": [
+            "G02C7/10"
+         ],
+         "kind": "A1",
+         "applicant": "Bnl Eurolens",
+         "applicant-old": "BNL EUROLENS",
+         "applicant-nice": "BNL EUROLENS",
+         "country": "CA",
+         "inventor": "Martins Sebastien",
+         "inventor-old": "MARTINS SEBASTIEN",
+         "inventor-nice": "MartinsSebastien",
+         "representative": 0,
+         "IPCR4": [
+            "G02C"
+         ],
+         "IPCR7": [
+            "G02C7"
+         ],
+         "Inventor-Country": "FR",
+         "Applicant-Country": "FR",
+         "equivalents": "EP3491462, US2020285078, BR112019001534, AU2017303537, US2021318557, CA3031583, CN109791311, FR3054683, WO2018019833",
+         "CPC": [],
+         "prior-Date": "2017-07-25, 2016-07-26",
+         "references": 0,
+         "Citations": 0,
+         "CitedBy": [],
+         "CitP": "",
+         "CitO": "",
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Martins%20Sebastien%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22BNL%20EUROLENS%22&locale=en_EP&DB=EPODOC"
+         ],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "empty"
+         ],
+         "IPCR4-url": [
+            "empty"
+         ],
+         "IPCR7-url": [
+            "empty"
+         ],
+         "IPCR11-url": [
+            "empty"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=EP3491462&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=US2020285078&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=BR112019001534&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=AU2017303537&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=US2021318557&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA3031583&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CN109791311&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=FR3054683&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=WO2018019833&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA3031583&locale=en_EP&DB=EPODOC"
+         ]
+      },
+      {
+         "label": "CA3021536",
+         "title": "Flexible intraocular lens injection device and storage shuttle for implementing same",
+         "year": "2017",
+         "priority-active-indicator": 0,
+         "IPCR11": [
+            "A61F2/16"
+         ],
+         "kind": "A1",
+         "applicant": "Physiol S A",
+         "applicant-old": "PHYSIOL S A",
+         "applicant-nice": "PHYSIOL S A",
+         "country": "CA",
+         "inventor": "Julien Laurent Vidal, Jean Pascal Yves Delay, Christophe Pagnoulle, Bozukova Dimitriya",
+         "inventor-old": "VIDAL JULIEN LAURENT, DELAY JEAN-PASCAL YVES, PAGNOULLE CHRISTOPHE, BOZUKOVA DIMITRIYA",
+         "inventor-nice": "JulienLaurentVidal, JeanPascalYvesDelay, ChristophePagnoulle, BozukovaDimitriya",
+         "representative": 0,
+         "IPCR4": [
+            "A61F"
+         ],
+         "IPCR7": [
+            "A61F2"
+         ],
+         "Inventor-Country": "FR, BE",
+         "Applicant-Country": "BE",
+         "equivalents": "DK3445287T, AU2017251980, PT3445287T, CN109219420, PL3445287T, CA3021536, KR20180137507, WO2017182508, IL262420, AU2022200103, BE1024131, US2021068944, EP3445287, JP2019514494, RU2018139274, ES2787021T, BR112018071292, US2020038176, HUE048944T",
+         "CPC": [],
+         "prior-Date": "2016-04-21, 2017-04-19",
+         "references": 0,
+         "Citations": 0,
+         "CitedBy": [],
+         "CitP": "",
+         "CitO": "",
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Julien%20Laurent%20Vidal%22&locale=en_EP&DB=EPODOC",
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Jean%20Pascal%20Yves%20Delay%22&locale=en_EP&DB=EPODOC",
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Christophe%20Pagnoulle%22&locale=en_EP&DB=EPODOC",
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Bozukova%20Dimitriya%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22PHYSIOL%20S%20A%22&locale=en_EP&DB=EPODOC"
+         ],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "empty"
+         ],
+         "IPCR4-url": [
+            "empty"
+         ],
+         "IPCR7-url": [
+            "empty"
+         ],
+         "IPCR11-url": [
+            "empty"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=DK3445287T&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=AU2017251980&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=PT3445287T&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CN109219420&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=PL3445287T&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA3021536&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=KR20180137507&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=WO2017182508&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=IL262420&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=AU2022200103&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=BE1024131&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=US2021068944&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=EP3445287&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=JP2019514494&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=RU2018139274&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=ES2787021T&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=BR112018071292&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=US2020038176&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=HUE048944T&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA3021536&locale=en_EP&DB=EPODOC"
+         ]
+      },
+      {
+         "label": "FR3013103",
+         "title": "Dispositif lumineux, module d'eclairage et/ou de signalisation et vehicule automobile",
+         "year": "2015",
+         "priority-active-indicator": 0,
+         "IPCR11": [
+            "F21S8/10",
+            "F21W101/10",
+            "F21V5/04",
+            "F21Y101/02"
+         ],
+         "kind": "A1",
+         "applicant": "Valeo Vision",
+         "applicant-old": "VALEO VISION",
+         "applicant-nice": "VALEO VISION",
+         "country": "FR",
+         "inventor": "Godbillon Vincent, Albou Pierre, Puente Jean Claude",
+         "inventor-old": "GODBILLON VINCENT, ALBOU PIERRE, PUENTE JEAN-CLAUDE",
+         "inventor-nice": "GodbillonVincent, AlbouPierre, PuenteJeanClaude",
+         "representative": 0,
+         "IPCR4": [
+            "F21W",
+            "F21V",
+            "F21Y"
+         ],
+         "IPCR7": [
+            "F21V5",
+            "F21Y101",
+            "F21W101",
+            "F21V8",
+            "F21S8"
+         ],
+         "Inventor-Country": "FR",
+         "Applicant-Country": "FR",
+         "equivalents": "FR3013103",
+         "CPC": [],
+         "prior-Date": "2013-11-12",
+         "references": 6,
+         "Citations": 0,
+         "CitedBy": [],
+         "CitP": "EP2377722, FR2896029, US2004012976, DE102011053032, DE102011002281, US7160010",
+         "CitO": [],
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Godbillon%20Vincent%22&locale=en_EP&DB=EPODOC",
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Albou%20Pierre%22&locale=en_EP&DB=EPODOC",
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Puente%20Jean%20Claude%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22VALEO%20VISION%22&locale=en_EP&DB=EPODOC"
+         ],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "empty"
+         ],
+         "IPCR4-url": [
+            "empty"
+         ],
+         "IPCR7-url": [
+            "empty"
+         ],
+         "IPCR11-url": [
+            "empty"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=FR3013103&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=FR3013103&locale=en_EP&DB=EPODOC"
+         ]
+      },
+      {
+         "label": "WO2011015115",
+         "title": "Capot de module de puce de del polycristalline unique haute puissance pour clairage de rue",
+         "year": "2011",
+         "priority-active-indicator": 0,
+         "IPCR11": [
+            "F21W131/103",
+            "F21V3/02",
+            "F21V17/14"
+         ],
+         "kind": "A1",
+         "applicant": "",
+         "applicant-old": "YANG JANSEN, CHEN HONG",
+         "applicant-nice": [],
+         "country": "WO",
+         "inventor": "Yang Jansen, Chen Hong",
+         "inventor-old": "YANG JANSEN, CHEN HONG",
+         "inventor-nice": "YangJansen, ChenHong",
+         "representative": 0,
+         "IPCR4": [
+            "F21W",
+            "F21V"
+         ],
+         "IPCR7": [
+            "F21W131",
+            "F21V17"
+         ],
+         "Inventor-Country": "CN",
+         "Applicant-Country": "CN",
+         "equivalents": "WO2011015115, CN101988689",
+         "CPC": [],
+         "prior-Date": "2009-08-03",
+         "references": 5,
+         "Citations": 0,
+         "CitedBy": [],
+         "CitP": "CN201177192Y, CN2913822Y, CN101344227, US2008037271, CN1811266",
+         "CitO": [],
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Yang%20Jansen%22&locale=en_EP&DB=EPODOC",
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Chen%20Hong%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "empty"
+         ],
+         "IPCR4-url": [
+            "https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20140101&symbol=&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=F21W&cwid=none&tree=no&searchmode=smart"
+         ],
+         "IPCR7-url": [
+            "https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20140101&symbol=&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=F21W131&cwid=none&tree=no&searchmode=smart"
+         ],
+         "IPCR11-url": [
+            "empty"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=WO2011015115&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CN101988689&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=WO2011015115&locale=en_EP&DB=EPODOC"
+         ]
+      },
+      {
+         "label": "CA2694840",
+         "title": "Intracorneal diffractive lens",
+         "year": "2009",
+         "priority-active-indicator": 0,
+         "IPCR11": [
+            "A61F2/14"
+         ],
+         "kind": "A1",
+         "applicant": "",
+         "applicant-old": "COHEN GILBERT",
+         "applicant-nice": [],
+         "country": "CA",
+         "inventor": "Cohen Gilbert",
+         "inventor-old": "COHEN GILBERT",
+         "inventor-nice": "CohenGilbert",
+         "representative": 0,
+         "IPCR4": [
+            "A61F"
+         ],
+         "IPCR7": [
+            "A61F2"
+         ],
+         "Inventor-Country": "FR",
+         "Applicant-Country": "FR",
+         "equivalents": "FR2918557, CN101808594, ES2388264T, EP2178461, WO2009043985, US2011046727, CA2694840, JP2010533017, AT553722T",
+         "CPC": [],
+         "prior-Date": "2007-07-09, 2008-07-09",
+         "references": 0,
+         "Citations": 0,
+         "CitedBy": [],
+         "CitP": "",
+         "CitO": "",
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Cohen%20Gilbert%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "empty"
+         ],
+         "IPCR4-url": [
+            "empty"
+         ],
+         "IPCR7-url": [
+            "empty"
+         ],
+         "IPCR11-url": [
+            "empty"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=FR2918557&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CN101808594&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=ES2388264T&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=EP2178461&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=WO2009043985&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=US2011046727&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA2694840&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=JP2010533017&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=AT553722T&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA2694840&locale=en_EP&DB=EPODOC"
+         ]
+      },
+      {
+         "label": "WO2007108663",
+         "title": "Lentille de fresnel et del l'utilisant",
+         "year": "2007",
+         "priority-active-indicator": 0,
+         "IPCR11": [
+            "G02B3/08"
+         ],
+         "kind": "A1",
+         "applicant": "Ind Academic Coop",
+         "applicant-old": "IND ACADEMIC COOP, KANG SHINILL, KIM BYUNGWOOK",
+         "applicant-nice": "IND ACADEMIC COOP",
+         "country": "WO",
+         "inventor": "Kang Shinill, Kim Byungwook",
+         "inventor-old": "KANG SHINILL, KIM BYUNGWOOK",
+         "inventor-nice": "KangShinill, KimByungwook",
+         "representative": 0,
+         "IPCR4": [
+            "G02B"
+         ],
+         "IPCR7": [
+            "G02B3"
+         ],
+         "Inventor-Country": "KR",
+         "Applicant-Country": "KR",
+         "equivalents": "KR20070096368, WO2007108663",
+         "CPC": [],
+         "prior-Date": "2006-03-23",
+         "references": 3,
+         "Citations": 10,
+         "CitedBy": "WO2009095662, US2011001157, EP2286470, EP2766656, CN102738357, US2010061106, US2014218938, JP2012114022, US2010061105, CN110161597",
+         "CitP": "US6724543, JP2002344027, US6598998",
+         "CitO": [],
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Kang%20Shinill%22&locale=en_EP&DB=EPODOC",
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Kim%20Byungwook%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22IND%20ACADEMIC%20COOP%22&locale=en_EP&DB=EPODOC"
+         ],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "empty"
+         ],
+         "IPCR4-url": [
+            "empty"
+         ],
+         "IPCR7-url": [
+            "empty"
+         ],
+         "IPCR11-url": [
+            "empty"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=KR20070096368&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=WO2007108663&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=WO2007108663&locale=en_EP&DB=EPODOC"
+         ]
+      },
+      {
+         "label": "WO2007091771",
+         "title": "Mthode et dispositif d'essai d'une lentille de liquide, et procd de fabrication de la lentille utilisant cette mthode et ce dispositif",
+         "year": "2007",
+         "priority-active-indicator": 0,
+         "IPCR11": [
+            "G02B3/12"
+         ],
+         "kind": "A1",
+         "applicant": "Top Eng Co Ltd",
+         "applicant-old": "TOP ENG CO LTD, KIM JUN-YOUNG",
+         "applicant-nice": "TOP ENG CO LTD",
+         "country": "WO",
+         "inventor": "Kim Jun Young",
+         "inventor-old": "KIM JUN-YOUNG",
+         "inventor-nice": "KimJunYoung",
+         "representative": 0,
+         "IPCR4": [
+            "G02B"
+         ],
+         "IPCR7": [
+            "G02B3"
+         ],
+         "Inventor-Country": "KR",
+         "Applicant-Country": "KR",
+         "equivalents": "WO2007091771, KR20070080136",
+         "CPC": [],
+         "prior-Date": "2006-02-06",
+         "references": 3,
+         "Citations": 1,
+         "CitedBy": "WO2018155945",
+         "CitP": "US6911132, US2005007644, KR20050047165",
+         "CitO": [],
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Kim%20Jun%20Young%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22TOP%20ENG%20CO%20LTD%22&locale=en_EP&DB=EPODOC"
+         ],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "empty"
+         ],
+         "IPCR4-url": [
+            "empty"
+         ],
+         "IPCR7-url": [
+            "empty"
+         ],
+         "IPCR11-url": [
+            "empty"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=WO2007091771&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=KR20070080136&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=WO2007091771&locale=en_EP&DB=EPODOC"
+         ]
+      },
+      {
+         "label": "WO2007091761",
+         "title": "Appareil et procd d'assemblage d'une face avant avec une lentille de liquide",
+         "year": "2007",
+         "priority-active-indicator": 0,
+         "IPCR11": [
+            "G02B3/12"
+         ],
+         "kind": "A1",
+         "applicant": "Top Eng Co Ltd",
+         "applicant-old": "TOP ENG CO LTD, JIN MYUNG JIN, KIM JUNG WOOK, KIM JOON YOUNG",
+         "applicant-nice": "TOP ENG CO LTD",
+         "country": "WO",
+         "inventor": "Jin Myung Jin, Kim Joon Young, Kim Jung Wook",
+         "inventor-old": "JIN MYUNG JIN, KIM JOON YOUNG, KIM JUNG WOOK",
+         "inventor-nice": "JinMyungJin, KimJoonYoung, KimJungWook",
+         "representative": 0,
+         "IPCR4": [
+            "G02B"
+         ],
+         "IPCR7": [
+            "G02B3"
+         ],
+         "Inventor-Country": "KR",
+         "Applicant-Country": "KR",
+         "equivalents": "WO2007091761, KR20070080109",
+         "CPC": [],
+         "prior-Date": "2006-02-06",
+         "references": 3,
+         "Citations": 2,
+         "CitedBy": "US2017110618, CN106601727",
+         "CitP": "US6369954, JP2001249261, KR20040084902",
+         "CitO": [],
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Jin%20Myung%20Jin%22&locale=en_EP&DB=EPODOC",
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Kim%20Joon%20Young%22&locale=en_EP&DB=EPODOC",
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Kim%20Jung%20Wook%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22TOP%20ENG%20CO%20LTD%22&locale=en_EP&DB=EPODOC"
+         ],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "empty"
+         ],
+         "IPCR4-url": [
+            "empty"
+         ],
+         "IPCR7-url": [
+            "empty"
+         ],
+         "IPCR11-url": [
+            "empty"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=WO2007091761&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=KR20070080109&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=WO2007091761&locale=en_EP&DB=EPODOC"
+         ]
+      },
+      {
+         "label": "CH681276",
+         "title": "Anti-diarrhoeal substance - prepd. by alpha amylase hydrolysis of cereal and leguminous grains mixt., then spray drying",
+         "year": "1993",
+         "priority-active-indicator": 0,
+         "IPCR11": [],
+         "kind": "A5",
+         "applicant": "",
+         "applicant-old": "SHAMIM AHMAD",
+         "applicant-nice": [],
+         "country": "CH",
+         "inventor": "Ahmad Shamim",
+         "inventor-old": "AHMAD SHAMIM",
+         "inventor-nice": "AhmadShamim",
+         "representative": 0,
+         "IPCR4": [
+            "A61K"
+         ],
+         "IPCR7": [
+            "A61K38",
+            "A61K36"
+         ],
+         "Inventor-Country": "",
+         "Applicant-Country": "",
+         "equivalents": "CH681276",
+         "CPC": [],
+         "prior-Date": "1990-05-25",
+         "references": 0,
+         "Citations": 4,
+         "CitedBy": "GB2363073, EP0985352, WO2005063186, GB2426704",
+         "CitP": "",
+         "CitO": "",
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Ahmad%20Shamim%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "empty"
+         ],
+         "IPCR4-url": [
+            "empty"
+         ],
+         "IPCR7-url": [
+            "https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20140101&symbol=&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=A61K38&cwid=none&tree=no&searchmode=smart"
+         ],
+         "IPCR11-url": [
+            "empty"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CH681276&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CH681276&locale=en_EP&DB=EPODOC"
+         ]
+      },
+      {
+         "label": "CA1298439",
+         "title": "Lentille intraoculaire de chambre posterieure",
+         "year": "1992",
+         "priority-active-indicator": 0,
+         "IPCR11": [
+            "A61F2/16"
+         ],
+         "kind": "C",
+         "applicant": "",
+         "applicant-old": "CHARLEUX JACQUES",
+         "applicant-nice": [],
+         "country": "CA",
+         "inventor": "Charleux Jacques",
+         "inventor-old": "CHARLEUX JACQUES",
+         "inventor-nice": "CharleuxJacques",
+         "representative": 0,
+         "IPCR4": [
+            "A61F"
+         ],
+         "IPCR7": [
+            "A61F2"
+         ],
+         "Inventor-Country": "FR",
+         "Applicant-Country": "FR",
+         "equivalents": "GR3003902T, EP0305255, AT72749T, JPH0191858, FR2619004, ES2029339T, US5041135, KR890003344, CA1298439, BR8803876",
+         "CPC": [],
+         "prior-Date": "1987-08-05",
+         "references": 0,
+         "Citations": 0,
+         "CitedBy": [],
+         "CitP": "",
+         "CitO": "",
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Charleux%20Jacques%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "empty"
+         ],
+         "IPCR4-url": [
+            "empty"
+         ],
+         "IPCR7-url": [
+            "empty"
+         ],
+         "IPCR11-url": [
+            "empty"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=GR3003902T&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=EP0305255&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=AT72749T&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=JPH0191858&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=FR2619004&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=ES2029339T&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=US5041135&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=KR890003344&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA1298439&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=BR8803876&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA1298439&locale=en_EP&DB=EPODOC"
+         ]
+      },
+      {
+         "label": "CA1287993",
+         "title": "Lentille ophtalmique multifocale",
+         "year": "1991",
+         "priority-active-indicator": 0,
+         "IPCR11": [
+            "G02C7/06",
+            "G02C7/02"
+         ],
+         "kind": "C",
+         "applicant": "Essilor Int",
+         "applicant-old": "ESSILOR INT",
+         "applicant-nice": "ESSILOR INT",
+         "country": "CA",
+         "inventor": "Dufour Maurice",
+         "inventor-old": "DUFOUR MAURICE",
+         "inventor-nice": "DufourMaurice",
+         "representative": 0,
+         "IPCR4": [
+            "G02C"
+         ],
+         "IPCR7": [
+            "G02C7"
+         ],
+         "Inventor-Country": "FR",
+         "Applicant-Country": "FR",
+         "equivalents": "DE3822376, SG121392G, US4838674, CA1287993, BR8803369, FR2617989, IT1223668, GB2206978, AU1870488, JPS6432227",
+         "CPC": [],
+         "prior-Date": "1987-07-07",
+         "references": 0,
+         "Citations": 0,
+         "CitedBy": [],
+         "CitP": "",
+         "CitO": "",
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Dufour%20Maurice%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22ESSILOR%20INT%22&locale=en_EP&DB=EPODOC"
+         ],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "empty"
+         ],
+         "IPCR4-url": [
+            "empty"
+         ],
+         "IPCR7-url": [
+            "empty"
+         ],
+         "IPCR11-url": [
+            "https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20140101&symbol=&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=G02C7/06&cwid=none&tree=no&searchmode=smart"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=DE3822376&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=SG121392G&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=US4838674&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA1287993&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=BR8803369&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=FR2617989&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=IT1223668&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=GB2206978&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=AU1870488&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=JPS6432227&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA1287993&locale=en_EP&DB=EPODOC"
+         ]
+      },
+      {
+         "label": "CA1256700",
+         "title": "Bague d'appui pour la fixation d'un bloc de montage sur la face finie a courbure progressivement variable d'une ebauche semi-finie d'un palet, tel que lentille ophtalmique ou moule",
+         "year": "1989",
+         "priority-active-indicator": 0,
+         "IPCR11": [
+            "B24B13/005"
+         ],
+         "kind": "A",
+         "applicant": "Essilor Int",
+         "applicant-old": "ESSILOR INT",
+         "applicant-nice": "ESSILOR INT",
+         "country": "CA",
+         "inventor": "Blot Gerard",
+         "inventor-old": "BLOT GERARD",
+         "inventor-nice": "BlotGerard",
+         "representative": 0,
+         "IPCR4": [
+            "B24B"
+         ],
+         "IPCR7": [
+            "B24B13"
+         ],
+         "Inventor-Country": "",
+         "Applicant-Country": "",
+         "equivalents": "CA1256700, JPS61178166, US4714232, FR2576820, EP0191689",
+         "CPC": [],
+         "prior-Date": "1985-02-01",
+         "references": 0,
+         "Citations": 0,
+         "CitedBy": [],
+         "CitP": "",
+         "CitO": "",
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Blot%20Gerard%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22ESSILOR%20INT%22&locale=en_EP&DB=EPODOC"
+         ],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "empty"
+         ],
+         "IPCR4-url": [
+            "empty"
+         ],
+         "IPCR7-url": [
+            "empty"
+         ],
+         "IPCR11-url": [
+            "empty"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA1256700&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=JPS61178166&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=US4714232&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=FR2576820&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=EP0191689&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA1256700&locale=en_EP&DB=EPODOC"
+         ]
+      },
+      {
+         "label": "CA989177",
+         "title": "Procede et dispositif pour le travail d'une lentille de contact souple",
+         "year": "1976",
+         "priority-active-indicator": 0,
+         "IPCR11": [],
+         "kind": "A",
+         "applicant": "Essilor Int",
+         "applicant-old": "ESSILOR INT",
+         "applicant-nice": "ESSILOR INT",
+         "country": "CA",
+         "inventor": "Gerard Gomond, Billault Pierre",
+         "inventor-old": "GOMOND GERARD, BILLAULT PIERRE",
+         "inventor-nice": "GerardGomond, BillaultPierre",
+         "representative": 0,
+         "IPCR4": [
+            "B29D",
+            "B24B"
+         ],
+         "IPCR7": [
+            "B24B13",
+            "B24B9",
+            "B29D11",
+            "G02C7"
+         ],
+         "Inventor-Country": "",
+         "Applicant-Country": "",
+         "equivalents": "AU5564073, GB1372816, US3877184, FR2184473, JPS4956644, CA989177, IT987677, BE799653, NL7306965, DE2323439, CH569297",
+         "CPC": [],
+         "prior-Date": "1972-05-18",
+         "references": 0,
+         "Citations": 0,
+         "CitedBy": [],
+         "CitP": "",
+         "CitO": "",
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Gerard%20Gomond%22&locale=en_EP&DB=EPODOC",
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Billault%20Pierre%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22ESSILOR%20INT%22&locale=en_EP&DB=EPODOC"
+         ],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20140101&symbol=&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=B24&cwid=none&tree=no&searchmode=smart"
+         ],
+         "IPCR4-url": [
+            "https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20140101&symbol=&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=B29D&cwid=none&tree=no&searchmode=smart"
+         ],
+         "IPCR7-url": [
+            "empty"
+         ],
+         "IPCR11-url": [
+            "empty"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=AU5564073&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=GB1372816&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=US3877184&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=FR2184473&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=JPS4956644&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA989177&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=IT987677&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=BE799653&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=NL7306965&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=DE2323439&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CH569297&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA989177&locale=en_EP&DB=EPODOC"
+         ]
+      },
+      {
+         "label": "CA931760",
+         "title": "Usinage d'une lentille de contact en matiere souple",
+         "year": "1973",
+         "priority-active-indicator": 0,
+         "IPCR11": [
+            "B24B9/14"
+         ],
+         "kind": "A",
+         "applicant": "Lunetterie Et D Optique Ration",
+         "applicant-old": "LUNETTERIE ET D OPTIQUE RATION",
+         "applicant-nice": "LUNETTERIE ET D OPTIQUE RATION",
+         "country": "CA",
+         "inventor": "Gomond G",
+         "inventor-old": "GOMOND G",
+         "inventor-nice": "GomondG",
+         "representative": 0,
+         "IPCR4": [
+            "B29D",
+            "B24B"
+         ],
+         "IPCR7": [
+            "B29D11",
+            "B24B9"
+         ],
+         "Inventor-Country": "FR",
+         "Applicant-Country": "FR",
+         "equivalents": "CA931760, CH528964, GB1343301, JPS5613583B, BE761834, DE2102820, US3750272, FR2076643, NL7100827",
+         "CPC": [],
+         "prior-Date": "1970-01-22",
+         "references": 0,
+         "Citations": 0,
+         "CitedBy": [],
+         "CitP": "",
+         "CitO": "",
+         "inventor-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22Gomond%20G%22&locale=en_EP&DB=EPODOC"
+         ],
+         "applicant-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=advanced&IN=%22LUNETTERIE%20ET%20D%20OPTIQUE%20RATION%22&locale=en_EP&DB=EPODOC"
+         ],
+         "IPCR1-url": [
+            "empty"
+         ],
+         "IPCR3-url": [
+            "https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20140101&symbol=&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=B24&cwid=none&tree=no&searchmode=smart"
+         ],
+         "IPCR4-url": [
+            "https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20140101&symbol=&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=B29D&cwid=none&tree=no&searchmode=smart"
+         ],
+         "IPCR7-url": [
+            "https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20140101&symbol=&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=B29D11&cwid=none&tree=no&searchmode=smart"
+         ],
+         "IPCR11-url": [
+            "https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20140101&symbol=&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=&cwid=none&tree=no&searchmode=smart"
+         ],
+         "equivalents-url": [
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA931760&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CH528964&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=GB1343301&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=JPS5613583B&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=BE761834&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=DE2102820&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=US3750272&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=FR2076643&locale=en_EP&DB=EPODOC"
+            ],
+            [
+               "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=NL7100827&locale=en_EP&DB=EPODOC"
+            ]
+         ],
+         "label-url": [
+            "http://worldwide.espacenet.com/searchResults?compact=false&ST=singleline&query=CA931760&locale=en_EP&DB=EPODOC"
+         ]
+      }
+   ]
+}

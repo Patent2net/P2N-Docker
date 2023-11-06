@@ -1,0 +1,85 @@
+<div layout="row" layout-fill>
+  <div layout="column" id="sidecol">
+ <!--   <div lcd  style="width:300px; height:70px; overflow:hidden;" anim-status="'off'"></div>
+ -->
+    <div layout="column" layout-padding flex class="upload-background">
+      <div
+        class="upload-area-container"
+        id="uploader"
+        ng-paste="handlePaste()"
+        ng-click="loadFile()"
+        ng-class="dropClass"
+        layout-fill
+        layout
+      >
+        <div class="upload-area" layout="column" layout-align="center center">
+          <div class="upload-text-main">
+            {{loadingMessage=='' ? 'LOAD GRAPH' : loadingMessage}}
+          </div>
+          <div class="upload-text-sub">
+            CLICK or DRAG A FILE
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- This hidden input is used for loading the files via the dropdown of the nav tabs -->
+    <input id="hidden-file-input" type="file" name="hidden-file-input" style="display: none;" onchange="angular.element(this).scope().setFile(this)"/>
+  </div>
+  
+  <div layout="column" layout-padding flex class="fancy-text content">
+    <h2 class="main-title">
+       Shamefacedly inspired from Graph Recipes from <a href="http://www.medialab.sciences-po.fr/"><img src="../../Patent2Net/media/Graph-recipes/medialab.png"></a>
+     ...based on <a href="https://graphology.github.io/">Graphology</a>
+    </h2>
+    <p>
+      Pick a network below or drag it from filesytem.
+      <br><br>
+      Choose then a processor to analyse it.
+      <br><br>
+
+
+	  <a href ng-click="loadExample('./GephiFiles/lentille_ApplicantsJS.gexf')">Applicant network</a> &emsp; 
+	  <a href ng-click="loadExample('./GephiFiles/Familieslentille_ApplicantsJS.gexf')">Families Applicant network</a> 
+      <br>
+	  <a href ng-click="loadExample('./GephiFiles/lentille_InventorsJS.gexf')">Inventor network</a>  &emsp; 
+	  <a href ng-click="loadExample('./GephiFiles/Familieslentille_InventorsJS.gexf')">Families Inventor network</a> 
+      <br>
+	  	  <a href ng-click="loadExample('./GephiFiles/lentille_ApplicantInventorJS.gexf')">Applicants &amp; Inventors network</a>&emsp;
+		  <a href ng-click="loadExample('./GephiFiles/Familieslentille_ApplicantInventorJS.gexf')">FamiliesApplicants &amp; Inventors network</a>&emsp;
+
+      <br><br>
+	  	  <a href ng-click="loadExample('./GephiFiles/lentille_LabelApplicantsJS.gexf')">Applicants and patent labels networks</a>&emsp;
+		  <a href ng-click="loadExample('./GephiFiles/Familieslentille_LabelApplicantsJS.gexf')">FamiliesApplicants and patent labels networks</a>&emsp;
+
+      <br>
+	  <a href ng-click="loadExample('./GephiFiles/lentille_CrossTechJS.gexf')">Technologies networks</a>&emsp;
+	  <a href ng-click="loadExample('./GephiFiles/Familieslentille_CrossTechJS.gexf')">Families Technologies networks</a>&emsp;
+      <br>
+	  <a href ng-click="loadExample('./GephiFiles/lentille_Inventors_CrossTechJS.gexf')">Inventors Technologies (CIB) network</a>&emsp;
+      <a href ng-click="loadExample('./GephiFiles/Familieslentille_Inventors_CrossTechJS.gexf')">Families Inventors Technologies (CIB) network</a>&emsp;
+	  <br>
+	  <a href ng-click="loadExample('./GephiFiles/lentille_Applicants_CrossTechJS.gexf')">Applicants Technologies (CIB) network</a>&emsp;
+	  <a href ng-click="loadExample('./GephiFiles/Familieslentille_Applicants_CrossTechJS.gexf')">Families Applicants Technologies (CIB) network</a>&emsp;
+      <br>
+	  <br>
+	  <a href ng-click="loadExample('./GephiFiles/lentille_CitationsJS.gexf')">Citations network</a> &emsp;
+	  <a href ng-click="loadExample('./GephiFiles/Familieslentille_CitationsJS.gexf')">Families Citations network</a> &emsp;
+      <br>	  
+	  <a href ng-click="loadExample('./GephiFiles/lentille_EquivalentsJS.gexf')">Equivalents network</a> &emsp;
+	  <a href ng-click="loadExample('./GephiFiles/lentille_EquivalentsJS.gexf')">Families Equivalents network</a> &emsp;
+      <br>
+	  <a href ng-click="loadExample('./GephiFiles/lentille_ReferencesJS.gexf')">References network</a> &emsp;
+	  <a href ng-click="loadExample('./GephiFiles/lentille_ReferencesJS.gexf')">Families References network</a> &emsp;
+	  
+      <br><br><br>
+      Also, some <a href="https://github.com/medialab/graph-recipes/wiki">documentation</a>.
+    </p>
+   </div>
+</div>
+
+
+
+
+
+

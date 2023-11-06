@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2022-05-03">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="dynamic" name="" timeformat="date">
+    <attributes class="edge" mode="static">
+      <attribute id="5" title="name" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="category" type="string" />
+      <attribute id="1" title="degree_in" type="long" />
+      <attribute id="2" title="degree_out" type="long" />
+      <attribute id="3" title="degree" type="long" />
+      <attribute id="4" title="url" type="string" />
+    </attributes>
+    <nodes>
+      <node end="2042-05-03" id="0" label="WO2007091761" start="2007-08-16">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="2.0" />
+        <viz:shape value="diamond" />
+        <viz:position x="696.3286366687589" y="-515.1876010015576" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007091761&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="1" label="US2017110618" start="2007-08-16">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="696.3286366687589" y="-257.5938005007788" z="85.84672253989564" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2017110618&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="2" label="CN106601727" start="2007-08-16">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="696.3286366687589" y="-257.5938005007788" z="85.84672253989564" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CN106601727&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="3" label="WO2007091771" start="2007-08-16">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="1.0" />
+        <viz:shape value="diamond" />
+        <viz:position x="1160.547727781265" y="1030.3752020031152" z="858.4672253989563" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007091771&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="4" label="WO2018155945" start="2007-08-16">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="928.4381822250119" y="772.7814015023364" z="772.6205028590607" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2018155945&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="5" label="WO2007108663" start="2007-09-27">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="10.0" />
+        <viz:shape value="diamond" />
+        <viz:position x="-580.2738638906325" y="0.0" z="-257.54016761968694" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2007108663&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="6" label="WO2009095662" start="2007-09-27">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="-464.21909111250596" y="0.0" z="-257.54016761968694" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2009095662&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="7" label="US2011001157" start="2007-09-27">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="-464.21909111250596" y="0.0" z="-171.69344507979127" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2011001157&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="8" label="EP2286470" start="2007-09-27">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="-464.21909111250596" y="257.5938005007788" z="-257.54016761968694" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP2286470&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="9" label="EP2766656" start="2007-09-27">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="-464.21909111250596" y="0.0" z="-257.54016761968694" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP2766656&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="10" label="CN102738357" start="2007-09-27">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="-348.16431833437946" y="0.0" z="-257.54016761968694" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CN102738357&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="11" label="US2010061106" start="2007-09-27">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="-464.21909111250596" y="0.0" z="-257.54016761968694" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2010061106&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="12" label="US2014218938" start="2007-09-27">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="-464.21909111250596" y="257.5938005007788" z="-171.69344507979127" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2014218938&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="13" label="JP2012114022" start="2007-09-27">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="-464.21909111250596" y="0.0" z="-257.54016761968694" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=JP2012114022&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="14" label="US2010061105" start="2007-09-27">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="-464.21909111250596" y="257.5938005007788" z="-171.69344507979127" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=US2010061105&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2042-05-03" id="15" label="CN110161597" start="2007-09-27">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="-580.2738638906325" y="257.5938005007788" z="-257.54016761968694" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CN110161597&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2013-02-26" id="16" label="CH681276" start="1993-02-26">
+        <viz:color a="1" b="0" g="0" r="254" />
+        <viz:size value="4.0" />
+        <viz:shape value="diamond" />
+        <viz:position x="232.10954555625298" y="-515.1876010015576" z="257.54016761968694" />
+        <attvalues>
+          <attvalue for="0" value="label" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=CH681276&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2013-02-26" id="17" label="GB2363073" start="1993-02-26">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="232.10954555625298" y="-257.5938005007788" z="171.69344507979127" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=GB2363073&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2013-02-26" id="18" label="EP0985352" start="1993-02-26">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="232.10954555625298" y="-515.1876010015576" z="171.69344507979127" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=EP0985352&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2013-02-26" id="19" label="WO2005063186" start="1993-02-26">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="232.10954555625298" y="-515.1876010015576" z="171.69344507979127" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=WO2005063186&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+      <node end="2013-02-26" id="20" label="GB2426704" start="1993-02-26">
+        <viz:color a="1" b="127" g="127" r="0" />
+        <viz:size value="1.0" />
+        <viz:shape value="square" />
+        <viz:position x="232.10954555625298" y="-515.1876010015576" z="171.69344507979127" />
+        <attvalues>
+          <attvalue for="0" value="CitedBy" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="http://worldwide.espacenet.com/searchResults?compact=false&amp;ST=singleline&amp;query=GB2426704&amp;locale=en_EP&amp;DB=EPODOC" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="0">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="2" target="0">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="4" target="3">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="6" target="5">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="7" target="5">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="8" target="5">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="9" target="5">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="10" target="5">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="11" target="5">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="12" target="5">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="13" target="5">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="14" target="5">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="15" target="5">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="17" target="16">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="18" target="16">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="19" target="16">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="20" target="16">
+        <attvalues>
+          <attvalue for="5" value="CitedBy" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
