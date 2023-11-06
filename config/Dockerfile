@@ -43,8 +43,9 @@ RUN useradd --uid 1000 p2n
 RUN yum install -y passwd && yum clean all
 RUN yum install -y git && yum clean all
 RUN passwd -f -d p2n
+RUN mkdir /vpy3
 
-
+RUN chown -R p2n:p2n /vpy3
 RUN wget https://www.python.org/ftp/python/3.9.16/Python-3.9.16.tgz \
     && tar xzf Python-3.9.16.tgz \
     && cd Python-3.9.16 \
@@ -57,7 +58,7 @@ RUN bash -c "python3.9 -m pip install virtualenv \
     && /vpy3/bin/pip install --no-cache-dir --upgrade pip \
     && /vpy3/bin/pip install --no-cache-dir cffi olefile pytest pytest-cov pytest-timeout \
     && /vpy3/bin/pip install --no-cache-dir numpy --only-binary=:all: || true \
-    && chown -R p2n:p2n /vpy3"
+    "
 	
 RUN echo "source /vpy3/bin/activate" >> /etc/bash.bashrc
 USER p2n
